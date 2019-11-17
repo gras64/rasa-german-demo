@@ -1,4 +1,4 @@
-language: en
+language: de_core_news_md
 pipeline:
 - name: WhitespaceTokenizer
 - name: CRFEntityExtractor

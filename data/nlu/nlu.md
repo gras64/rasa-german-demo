@@ -1,1081 +1,1125 @@
+## intent:affirm
+- [Ja](undefined)
+- [tatsächlich](undefined)
+- [natürlich](undefined)
+- das klingt gut
+- [richtig](undefined)
+
+## intent:bot_challenge
+- Bist du ein Bot?
+- Bist du ein Mensch?
+- spreche ich mit einem bot?
+- Spreche ich mit einem Menschen?
+
+## intent:deny
+- nein
+- [niemals](undefined)
+- Ich glaube nicht
+- [das mag ich nicht](undefined)
+- auf keinen Fall
+- nicht wirklich
+
+## intent:goodbye
+- [Tschüss](undefined)
+- Auf Wiedersehen
+- Bis demnächst
+- [bis später](undefined)
+
+## intent:greet
+- hey
+- hi
+- [guten Morgen](undefined)
+- guten Abend
+- [hey da](undefined)
+
+## intent:how_are_you
+- hallo wie geht es dir
+
+## intent:mood_great
+- [Perfekt](undefined)
+- [Sehr gut](undefined)
+- großartig
+- toll
+- wunderbar
+- Mir geht es sehr gut
+- [mir gehts](undefined) großartig
+- Mir geht's gut
+
+## intent:mood_unhappy
+- [traurig](undefined)
+- sehr traurig
+- unzufrieden
+- [schlecht](undefined)
+- sehr schlecht
+- furchtbar
+- schrecklich
+- extrem traurig
+- extremely sad
+- so traurig
+- erzähl mir einen witz
+
+## intent:search_restaurant
+- Ich suche ein mexikanisches Restaurant im Zentrum der Stadt
+
+## intent:search_weather
+- wie wird das wetter heute
+- hallo
+
 ## intent:ask_faq_tutorials
-- are there some tutorials i could look at
-- do you have tutorials
-- i need a tutorial on how to use rasa
-- rasa tutorial
-- can you show me a tutorial
-- i would like to follow a tutorial
-- do you have a tutorial i can follow
-- i am looking for a tutorial
-- i want a tutorial on rasa
-- i need a rasa tutorial
-- please show me a tutorial
+- Gibt es ein paar Tutorials, die ich mir ansehen könnte
+- Hast du Tutorials
+- Ich brauche ein Tutorial zur Verwendung von Rasa
+- Rasa-Tutorial
+- Kannst du mir ein Tutorial zeigen
+- Ich möchte einem Tutorial folgen
+- Hast du ein Tutorial, dem ich folgen kann
+- Ich suche ein Tutorial
+- Ich möchte ein Tutorial über Rasa
+- Ich brauche ein Rasa-Tutorial
+- Bitte zeigen Sie mir ein Tutorial
 
 ## intent:ask_faq_python_version
-- which python version should i install
-- what version of python
-- which python do you support?
-- what python version do i install
-- what is python version required?
-- python version
-- what version does python needs
-- Which version of Python to install?
-- which version of python do i need
-- Which python version should I install to run Rasa example?
+- Welche Python-Version soll ich installieren
+- Welche Version von Python
+- Welches Python unterstützt du
+- Welche Python-Version installiere ich
+- Was ist Python-Version erforderlich
+- Python-Version
+- Welche Version braucht Python
+- Welche Version von Python soll installiert werden
+- Welche Version von Python brauche ich
+- Welche Python-Version sollte ich installieren, um das Rasa-Beispiel auszuführen
 
 ## intent:ask_faq_channels
-- No, I mean how it is possible to use Skype as channel?
-- what channels do you support?
-- what chat channels does rasa uses
-- Channels
-- channels supported by Rasa
-- what are the channels Rasa NLU supports
-- which UI channel is used by Rasa ?
-- which messaging channels does rasa support?
-- which particular messaging channels are supported by rasa?
-- what are the messaging channels supported by rasa?
-- which messaging channels are supported by rasa?
-- rasa supports which messaging channels?
-- which messaging channels can I use with rasa?
-- which messaging channels can be used with rasa?
-- which messaging channels are compatible with rasa?
-- what are the messaging channels that can be used with rasa?
-- rasa can use which different messaging channels?
-- WHAT MESSAGING PORTALS DOES RASA SUPPORT?
-- DOES RASA SUPPORT MESSENGER?
-- DOES RASA SUPPORT THE WHATS APP?
-- DOES RASA SUPPORT SMS?
-- Do you know which messaging channels rasa supports?
-- Can you tell which messaging channels does rasa support?
-- Rasa supports some messaging channels, what are those?
-- What channels of communication does rasa support?
+- Nein, ich meine, wie es möglich ist, Skype als Kanal zu verwenden?
+- Welche Kanäle unterstützt du?
+- Welche Chat-Kanäle verwendet Rasa?
+- Kanäle
+- Von Rasa unterstützte Kanäle
+- Welche Kanäle werden von Rasa NLU unterstützt?
+- Welcher UI-Kanal wird von Rasa verwendet?
+- Welche Nachrichtenkanäle werden von Rasa unterstützt?
+- Welche bestimmten Nachrichtenkanäle werden von Rasa unterstützt?
+- Welche Nachrichtenkanäle werden von Rasa unterstützt?
+- rasa unterstützt welche Nachrichtenkanäle?
+- Welche Nachrichtenkanäle kann ich mit rasa verwenden?
+- Welche Nachrichtenkanäle können mit rasa verwendet werden?
+- Welche Nachrichtenkanäle sind mit rasa kompatibel?
+- Welche Nachrichtenkanäle können mit rasa verwendet werden?
+- rasa kann welche verschiedenen Nachrichtenkanäle nutzen?
+- WELCHE BOTSCHAFTSPORTALE UNTERSTÜTZT RASA?
+- UNTERSTÜTZT RASA MESSENGER?
+- UNTERSTÜTZT RASA DIE WHATS-APP?
+- UNTERSTÜTZT RASA SMS?
+- Wiesst du, welche Nachrichtenkanäle von Rasa unterstützt werden?
+- Kannst du feststellen, welche Nachrichtenkanäle von Rasa unterstützt werden?
+- Rasa unterstützt einige Nachrichtenkanäle. Welch sind das?
+- Welche Kommunikationskanäle unterstützt rasa?
 
 ## intent:ask_faq_differencecorenlu
-- What makes [core](product) and [nlu](product) different?
-- what is the main difference between [core](product) and [nlu](product)?
-- what is the primary difference between [core](product) and [nlu](product)?
-- what would you say the difference is between [core](product) and [nlu](product)?
-- what differences are there between [core](product) and [nlu](product)?
-- what differences exist between [core](product) and [nlu](product)?
-- what is different about [core](product) compared to [nlu](product)?
-- what makes [core](product) different from [nlu](product)?
-- what makes [core](product) and [nlu](product) unique from each other?
-- what are the primary areas of difference between [core](product) and [nlu](product)?
-- Do you know the difference between [core](product) and [nlu](product)?
-- What is the Similarities between [core](product) and [nlu](product)?
-- How does [core](product) differ to [nlu](product)?
-- What does [core](product) offer that [nlu](product) does not?
-- Is [nlu](product) different to [core](product) and, if so, how?
-- How does [nlu](product) contrast to [core](product)?
-- What sets [nlu](product) apart from [core](product)?
-- How does [core](product) compare to [nlu](product)?
-- What makes [core](product) distinct to [nlu](product)?
-- Do you know the difference between [core](product) and [nlu](product)?
-- What does [core](product) and [nlu](product) mean?
-- What makes [core](product) different from [nlu](product)?
-- What are some ways that [nlu](product) is different from [core](product)?
-- List the dissimilar qualities of [core](product) and [nlu](product)
-- How do [core](product) and [nlu](product) differ?
-- What makes [core](product) and [nlu](product) incompatible?
-- How do [core](product) and [nlu](product) conflict?
-- What facts diverge [core](product) from [nlu](product)?
-- In what ways are [core](product) and [nlu](product) unalike?
-- what is the difference between [core](product) and [nlu](product)
-- what is the difference between [core](product) and [nlu](product)
-- diffrence between rasa [core](product) and rasa [nlu](product)
-- rasa [core](product) vs rasa [nlu](product)
-- what's the difference between [core](product) and [nlu](product)?
+- Was unterscheidet [core] (product) und [nlu] (product)?
+- Was ist der Hauptunterschied zwischen [core] (product) und [nlu] (product)?
+- Was ist der Hauptunterschied zwischen [core] (product) und [nlu] (product)?
+- Was ist deiner Meinung nach der Unterschied zwischen [core] (product) und [nlu] (product)?
+- Welche Unterschiede gibt es zwischen [core] (product) und [nlu] (product)?
+- Welche Unterschiede bestehen zwischen [core] (product) und [nlu] (product)?
+- Was unterscheidet [core] (product) von [nlu] (product)?
+- Was unterscheidet [core] (product) von [nlu] (product)?
+- Was unterscheidet [core] (product) und [nlu] (product) voneinander?
+- Was sind die Hauptunterschiede zwischen [core] (product) und [nlu] (product)?
+- Kennst du den Unterschied zwischen [core] (product) und [nlu] (product)?
+- Was sind die Ähnlichkeiten zwischen [core] (product) und [nlu] (product)?
+- Wie unterscheidet sich [core] (product) von [nlu] (product)?
+- Was bietet [core] (product), was [nlu] (product) nicht bietet?
+- Unterscheidet sich [nlu] (Produkt) von [core] (Produkt) und wenn ja, wie?
+- Wie unterscheidet sich [nlu] (Produkt) von [core] (Produkt)?
+- Was unterscheidet [nlu] (Produkt) von [core] (Produkt)?
+- Wie vergleicht sich [core] (Produkt) mit [nlu] (Produkt)?
+- Was unterscheidet [core] (product) von [nlu] (product)?
+- Kennest du den Unterschied zwischen [core] (product) und [nlu] (product)?
+- Was bedeuten [core] (product) und [nlu] (product)?
+- Was unterscheidet [core] (product) von [nlu] (product)?
+- Inwiefern unterscheidet sich [nlu] (Produkt) von [core] (Produkt)?
+- Liste die unterschiedlichen Qualitäten von [core] (product) und [nlu] (product) auf
+- Wie unterscheiden sich [core] (product) und [nlu] (product)?
+- Was macht [core] (product) und [nlu] (product) inkompatibel?
+- Wie kommt es zu Konflikten zwischen [core] (product) und [nlu] (product)?
+- Welche Tatsachen weichen [Kern] (Produkt) von [nlu] (Produkt) ab?
+- Inwiefern unterscheiden sich [core] (product) und [nlu] (product)?
+- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)
+- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)
+- Unterschied zwischen rasa [core] (product) und rasa [nlu] (product)
+- rasa [core] (produkt) vs rasa [nlu] (produkt)
+- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)?
 
 ## intent:ask_faq_differencerasarasax
-- whats the diff between [rasa](product) and [rasa x](product)
-- what's the difference between [rasa](product) and [rasa x](product:x)
-- How is [Rasa X](product:x) different from [Rasa](product:rasa)?
-- Are [Rasa](product) and [Rasa X](product:x) the same thing?
-- What's new in [Rasa X](product:x) compared to [Rasa](product:rasa)?
-- If I use [Rasa](product:rasa), do I also need [Rasa X](product:x)?
-- i am using [rasa](rasa) nlu, why would i need [rasa x](product:x)?
-- please compare [rasa](product) and [rasa x](product:x)
-- tell me the difference between [rasa](product) and [x](product)
-- tell me the difference between [rasa](product) and [rasa x](product:x)
-- show me comparison between [rasa x](product:x) and [[rasa
-- how does [rasa x](product:x) stack up against [rasa](product:rasa)
-- when should i use [rasa](product:rasa) and when should i use [rasa x](product:x)
-- Do I need both [Rasa](product:rasa) and [Rasa X](product:x)?
-- Can i use [rasa](product:rasa) without [rasa x](product:x)?
-- Can I use [Rasa X](product:x) without using [Rasa](product:rasa)?
+- Was ist der Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt)
+- Was ist der Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt: x)
+- Inwiefern unterscheidet sich [Rasa X] (Produkt: x) von [Rasa] (Produkt: rasa)?
+- Sind [Rasa] (Produkt) und [Rasa X] (Produkt: x) dasselbe?
+- Was ist neu in [Rasa X] (Produkt: x) im Vergleich zu [Rasa] (Produkt: rasa)?
+- Wenn ich [Rasa] (Produkt: rasa) verwende, benötige ich auch [Rasa X] (Produkt: x)?
+- Ich verwende [rasa] (rasa) nlu. Warum brauche ich [rasa x] (Produkt: x)?
+- Bitte vergleiche [rasa] (Produkt) und [rasa x] (Produkt: x)
+- Nenn mir den Unterschied zwischen [rasa] (Produkt) und [x] (Produkt)
+- Sag mir den Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt: x)
+- zeige mir einen Vergleich zwischen [rasa x] (Produkt: x) und [[rasa
+- Wie kann sich [rasa x] (Produkt: x) gegen [rasa] (Produkt: rasa) behaupten?
+- Wann soll ich [rasa] (Produkt: rasa) und wann [rasa x] (Produkt: x) verwenden?
+- Brauche ich sowohl [Rasa] (Produkt: rasa) als auch [Rasa X] (Produkt: x)?
+- Kann ich [rasa] (Produkt: rasa) ohne [rasa x] (Produkt: x) verwenden?
+- Kann ich [Rasa X] (Produkt: x) ohne [Rasa] (Produkt: rasa) verwenden?
 
 ## intent:ask_faq_languages
-- does Rasa support other languages like spanish?
-- what language does rasa support?
-- which language do you support?
-- which languages supports rasa
-- can I use rasa also for another laguage?
-- [german](language)?
-- languages supported
-- what about languages supported in rasa?
-- can rasa speak [portuguese](language)?
-- How can I change the language
-- language
-- which languages do you support
-- Hello, rasa supports [spanish](language)?
-- What language you support?
-- What language u support?
-- your NLU understand [spanish](language)?
-- which languages are supported?
-- is it available in [Spanish](language)?
-- How many languages you can support?
-- Can I use Rasa with Thai language
-- What languages can you use?
-- how many natural language that rasa supported?
-- what language supported by rasa?
-- what language supported by rasa ?
-- need to use [portuguese](language)
-- which language can I use with rasa?
-- my bot can be in [italian](language)?
-- chatbot language ?
-- I want Vietnamese language processing
-- I want to add Romanian language support
-- languages
-- support for serbian language
-- Does rasa support different languages
+- Unterstützt Rasa andere Sprachen wie Spanisch?
+- Welche Sprache unterstützt Rasa?
+- Welche Sprache unterstützt du ?
+- Welche Sprachen unterstützen Rasa?
+- Kann ich rasa auch für eine andere Sprache verwenden?
+- [deutsche Sprache)?
+- Unterstützte Sprachen
+- Was ist mit Sprachen, die in Rasa unterstützt werden?
+- Kann rasa [portugiesisch] (sprache) sprechen?
+- Wie kann ich die Sprache ändern?
+- Sprache
+- Welche Sprachen unterstützt du?
+- Hallo, unterstützt Rasa [Spanisch] (Sprache)?
+- Ihre NLU versteht [Spanisch] (Sprache)?
+- Welche Sprachen werden unterstützt?
+- Ist es in [Spanisch] (Sprache) verfügbar?
+- Wie viele Sprachen kannst du unterstützen?
+- Kann ich Rasa in thailändischer Sprache verwenden?
+- Welche Sprachen kannst du benutzen?
+- Wie viele natürliche Sprachen unterstützt Rasa?
+- Welche Sprache wird von Rasa unterstützt?
+- müssen [Portugiesisch] (Sprache) verwenden
+- Welche Sprache kann ich mit rasa verwenden?
+- mein bot kann in [italienisch] (sprache) sein?
+- Chatbot-Sprache?
+- Ich möchte die vietnamesische Sprache verarbeiten
+- Ich möchte die rumänische Sprachunterstützung hinzufügen
+- Sprachen
+- Unterstützung der serbischen Sprache
+- Unterstützt rasa verschiedene Sprachen?
 
 ## intent:ask_faq_opensource
-- Is Rasa open source
-- is rasa considered open source software?
-- is rasa open source?
-- is the software rasa open source?
-- is rasa an open source software?
-- would you consider rasa open source software?
-- could I call rasa open source software?
-- would rasa fall into the category of open source software?
-- would rasa be open source software?
-- would you call rasa open source software?
-- would people consider rasa an open source software?
-- Is rasa open source?
-- Is the rasa software open source?
-- The rasa software, is that open source?
-- Could you tell me whether rasa is open source or not?
-- How do I find out if rasa is open source?
-- Is Rasa a software formatted as open source?
-- would an example of open source software be rasa?
-- is rasa a type of open source software?
-- is rasa software that is classified as open source?
-- does rasa fall into the open source software category?
-- does rasa use open source software?
-- is rasa like an open source software
-- is this open source license
+- Ist Rasa Open Source
+- Wird Rasa als Open-Source-Software betrachtet?
+- Ist Rasa Open Source?
+- Ist die Software Rasa Open Source?
+- Ist Rasa eine Open Source Software?
+- Würdest du Rasa Open Source Software in Betracht ziehen?
+- Kann ich rasa Open Source Software nennen?
+- Würde Rasa in die Kategorie der Open-Source-Software fallen?
+- Wäre rasa Open Source Software?
+- Würdest du rasa Open Source Software nennen?
+- Würden die Leute Rasa als Open-Source-Software bezeichnen?
+- Ist Rasa Open Source?
+- Ist die Rasa-Software Open Source?
+- Die Rasa-Software, ist das Open Source?
+- Können Sie mir sagen, ob Rasa Open Source ist oder nicht?
+- Wie finde ich heraus, ob Rasa Open Source ist?
+- Ist Rasa eine als Open Source formatierte Software?
+- Wäre ein Beispiel für Open Source-Software Rasa?
+- Ist Rasa eine Art Open-Source-Software?
+- Ist Rasa-Software als Open Source klassifiziert?
+- Fällt rasa in die Kategorie Open Source Software?
+- Verwendet Rasa Open Source Software?
+- Ist rasa wie eine Open Source Software
+- ist diese Open Source Lizenz
 
 ## intent:ask_faq_ee
-- can someone help me with infos about the enterprise edition
-- I want information about the enterprise edition
-- we built a bot with rasa x but now we're interested in the enterprise edition
-- i want to learn more about Rasa X EE
-- what is rasa x ee?
-- what is the enterprise edition
-- what's the rasa x enterprise edition
-- what is rasa x enterprise
-- Can you tell me about the enterprise edition?
-- can you tell me about rasa x ee?
-- Tell me about rasa x ee
-- what is EE?
-- tell me about rasa x EE
-- enterprise features
-- tell me more about rasa x EE
-- what is rasa x enterprise
-- Tell me about rasa x ee
-- tell me what is rasa x ee
+- kann mir jemand mit infos zur enterprise edition helfen
+- Ich möchte Informationen über die Enterprise Edition
+- wir haben mit rasa x einen bot gebaut, aber jetzt interessieren wir uns für die enterprise edition
+- Ich möchte mehr über Rasa X EE erfahren
+- Was ist rasa x ee?
+- Was ist die Enterprise Edition?
+- Was ist die rasa x Enterprise Edition?
+- Was ist Rasa x Enterprise?
+- Kannst du  mir etwas über die Enterprise Edition erzählen?
+- Kannst du mir von rasa x ee erzählen?
+- Erzähl mir von rasa x ee
+- was ich sehe?
+- Erzähl mir von rasa x EE
+- Unternehmensfunktionen
+- erzähl mir mehr über rasa x EE
+- Was ist Rasa x Enterprise?
+- Erzähl mir von rasa x ee
+- Sag mir, was ist rasa x ee
 
 ## intent:ask_faq_slots
-- how do slots work
-- In Rasa, what are slots used for?
-- What are slots?
-- slots
-- slots
-- help mi with slots
-- help mi with slots
-- tell me about slots
-- I need to know about slot filling
-- I need to know about slot filling
-- how to keep button system for slot selection
-- how to keep button system for slot selection
-- how can we keep buttons to get slots
-- how can we keep buttons to get slots
-- what are slots
-- what about slots
-- how slots are filled
-- how slots are filled
-- where slots getting values
-- how to set text slot without mentioned json
-- where slots getting values
-- what is slots
-- what is slots
-- tell me the slots?
-- Not sure what slots are?
-- slots, what do youi mean?
-- Not sure what slots are.
-- could you inform me of the meaning of slots?
-- I'd like to know the meaning of slots
-- slots are what exactly?
-- what do you think slots are?
-- I dunno what a slot is
-- What is the definition of slots
-- do you know what slots are?
-- what do you mean by slots?
-- what slots are?
-- What's the slots?
-- what slots are there?
-- which are the slots?
-- how are the slots?
-- which slots are there?
+- Wie funktionieren Slots?
+- Wofür werden in Rasa Slots verwendet?
+- Was sind Slots?
+- Schlüssel
+- Hilf mir mit Slots
+- Helfe mir mit Slots
+- Erzähl mir von Slots
+- Ich muss über das Füllen von Slots Bescheid wissen
+- Ich muss etwas über das Füllen von Slots wissen
+- Wie man das Tastensystem für die Auswahl der Steckplätze beibehält
+- Wie können wir Knöpfe behalten, um Slots zu bekommen?
+- Was sind Slots?
+- Was ist mit Slots?
+- Wie werden Slots gefüllt?
+- Wo Slots Werte bekommen
+- wie man einen Textschlitz ohne json einstellt
+- Wo Slots Werte bekommen
+- Was sind Slots
+- Was ist Slots
+- Sag mir die Slots?
+- ich binn mir nicht sicher, welche Slots es sind?
+- Slots, was meinst du?
+- Nicht sicher, welche Slots sind.
+- Können Sie mir die Bedeutung von Slots mitteilen?
+- Ich würde gerne wissen, was Slots bedeuten
+- Slots sind was genau?
+- Was denkst du Slots sind?
+- Ich weiß nicht, was ein Slot ist
+- Was ist die Definition von Slots
+- Weißt du was Slots sind?
+- Was meinst du mit Slots?
+- Was sind Slots?
+- Was sind die Slots?
+- Welche Slots gibt es?
+- Was sind die Slots?
+- Wie sind die Slots?
+- Welche Slots gibt es?
 
 
 ## intent:ask_faq_voice
-- can I form a voice bot with rasa?
-- with rasa can I form a voice bot
-- It is possible to build a voice bot with rasa?
-- Can I use rasa to build a voice bot?
-- I'd like to build a voice bot with rasa.
-- I'd like to use rasa to build a voice bot.
-- Is it possible to use rasa to build a voice bot?
-- How can I build a voice bot with rasa?
-- How can I use to rasa to build a voice bot?
-- How can I build my voice bot using rasa?
-- How to build a voice bot using rasa?
-- How to use rasa to build a voice bot.
-- Can I build a rasa voice bot?
-- Could I build a rasa voice bot?
-- Is it possible to build a voice bot with rasa?
-- How could I construct a voice bot with rasa?
-- Can one make a voice bot with rasa?
-- what is the chance of building a rasa voice bot?
-- Building a rasa voice bot?
-- I can build a voice bot with rasa?
-- I could build a voice bot with rasa?
-- How to build a voice bot?
-- How to build a voice bot with rasa?
-- Can you build a voice bot using rasa?
-- Do you know how to build a voice bot with rasa?
-- Building a voice bot using rasa.
-- Rasa voice bot building.
-- What to do if I want to build a voice bot using rasa?
-- What can I do to build a voice bot with rasa?
-- When is the best time to build a voice bot with rasa?
-- When can I build a voice bot using rasa?
-- I can build a voice bot with rasa, right?
-- Will it be correct if I said I can build a voice bot with rasa?
-- can a voice bot be built using rasa?
-- can rasa be used to build a voice bot?
-- rasa can't be used to build a voice bot, can it?
-- Is rasa suitable to build voice bots?
-- Do you see an application of rasa in voice bot building?
-- Is rasa a good fit for building a voice bot?
-- Is rasa any good for building a voice bot?
-- Do you know if I can build a voice bot using rasa?
-- i want to build a voice bot
-- can i build a voice bot
-- can i build a voice bot with rasa?
+- Kann ich mit rasa einen Voice Bot bilden?
+- mit rasa kann ich einen stimmen bot bilden
+- Kann man mit rasa einen Voice Bot bauen?
+- Kann ich mit rasa einen Voice Bot erstellen?
+- Ich möchte mit rasa einen Voice Bot bauen.
+- Ich würde gerne Rasa verwenden, um einen Voice Bot zu erstellen.
+- Kann man mit rasa einen Voice-Bot erstellen?
+- Wie kann ich  einen Voice Bot erstellen?
+- Wie kann ich mit rasa einen Voice Bot erstellen?
+- Wie kann ich meinen Voice Bot mit rasa erstellen?
+- Wie erstelle ich einen Voice Bot mit Rasa?
+- Wie man mit rasa einen Voice-Bot erstellt.
+- Kann ich einen Rasa Voice Bot bauen?
+- Könnte ich einen Rasa Voice Bot bauen?
+- Kann man mit rasa einen Voice Bot bauen?
+- Wie könnte ich mit rasa einen Voice Bot konstruieren?
+- Kann man mit rasa einen Voice Bot machen?
+- Wie groß ist die Chance, einen Rasa-Voice-Bot zu bauen?
+- Einen Rasa Voice Bot bauen?
+- Kann ich mit rasa einen Voice Bot bauen?
+- Wie baue ich einen Voice Bot?
+- Wie baue ich einen Voice Bot mit Rasa?
+- Kann man mit rasa einen Voice Bot bauen?
+- Weißt du, wie man mit rasa einen Voice Bot baut?
+- Erstellen eines Voice Bot mit Rasa.
+- Rasa Voice Bot Gebäude.
+- Was kann ich tun, wenn ich mit rasa einen Voice-Bot erstellen möchte?
+- Was kann ich tun, um mit rasa einen Voice Bot zu erstellen?
+- Wann ist der beste Zeitpunkt, um mit rasa einen Voice-Bot zu erstellen?
+- Wann kann ich mit rasa einen Voice-Bot erstellen?
+- Ich kann mit Rasa einen Voice Bot bauen, oder?
+- Wird es richtig sein, wenn ich sage, dass ich mit rasa einen Voice-Bot bauen kann?
+- Kann ein Voice Bot mit Rasa erstellt werden?
+- Kann man mit rasa einen Voice Bot bauen?
+- Rasa kann nicht verwendet werden, um einen Voice Bot zu erstellen, oder?
+- Ist rasa geeignet, um Voice-Bots zu erstellen?
+- Siehst du eine Anwendung von Rasa im Voice Bot Building?
+- Passt Rasa gut zum Aufbau eines Voice Bot?
+- Ist Rasa gut, um einen Voice Bot zu bauen?
+- Weißt du, ob ich mit rasa einen Voice Bot bauen kann?
+- Ich möchte einen Voice Bot bauen
+- Kann ich einen Voice Bot bauen?
+- Kann ich mit rasa einen Voice Bot bauen?
 
 ## intent:ask_faq_community_size
-- How large is the Rasa community
-- how big is your community?
-- how many forum members do you have
-- do you have a large community
-- how many people are using Rasa
+- Wie groß ist die Rasa-Community?
+- Wie groß ist deine Community?
+- Wie viele Forumsmitglieder hast du?
+- Hast du eine große Community?
+- Wie viele Personen verwenden Rasa?
 
 ## intent:ask_faq_what_is_forum
-- what is the forum
-- why should I join the forum
-- whats in the forum
-- what is the Rasa forum
+- Was ist das Forum
+- warum sollte ich dem Forum beitreten?
+- was ist im Forum
+- Was ist das Rasa-Forum?
 
 ## intent:ask_howbuilt
-- How were you built?
-- How were you made?
-- Tell me how you were made?
-- Let me know how you were made exactly
-- I'd like to know how you were created
-- Can you give me an idea as to how you were created?
-- I want to know how you were formed
-- What was the process for making you?
-- Can you explain how you were created?
-- Specify how you were created?
-- I'd like to know how you were put together?
-- Can you say how you were constructed?
-- How were you made?
-- in what way were you made?
-- How were you made into who you are?
-- How were you devised?
-- How exactly were you made?
-- How exactly were you devised?
-- so how were you made?
-- How did you come to be?
-- How were you made?
-- How were you constructed?
-- How were you formed?
-- How did they make you?
-- How did they build you?
-- How did they create you?
-- How were you made?
-- Do you know how you were made?
-- Do you know how you were built?
-- What process was used to create you?
-- What process was used to build you?
-- How did you come into being?
-- How were you conceived?
-- In which manner were you devised?
-- How were you constructed?
-- In what way were you shaped?
-- How were you formed?
-- By what means were you made?
-- You originated through what means?
-- How were you set up?
-- By what method were you fashioned?
+- Wie wurdest du gebaut?
+- Wie wurdest du gemacht?
+- Sag mir, wie du gemacht wurdest?
+- Lassen mich wissen, wie Sie genau gemacht wurdest
+- Ich würde gerne wissen, wie du erschaffen wurdest
+- Kannst du mir eine Idee geben, wie du erschaffen wurdest?
+- Ich möchte wissen, wie du entstanden bist
+- Wie hast du das gemacht?
+- Kannst du erklären, wie du erschaffen wurdest?
+- Geben an, wie du erstellt wurden.
+- Ich möchte wissen, wie du zusammengesetzt wurdest?
+- Könntest sagen, wie Sie gebaut wurdest?
+- Wie wurdest du gemacht?
+- Wie wurdest du zu dem gemacht, der du bist?
+- Wie wurdest du erfunden?
+- Wie genau wurdest du gemacht?
+- Wie genau wurdest du erfunden?
+- Wie wurdest du gemacht?
+- Wie bist du dazu gekommen?
+- Wie wurdest du gemacht?
+- Wie wurdest du gebaut?
+- Wie bist du entstanden?
+- Wie hast du dich gemacht?
+- Wie hast du dich gebaut?
+- Wie hast du dich erschaffen?
+- Wie wurdest du gemacht?
+- Weißt du, wie du gemacht wurdest?
+- Weißt du, wie du gebaut wurdest?
+- Welcher Prozess wurde verwendet, um dich zu erstellen?
+- Welcher Prozess wurde verwendet, um dich zu bauen?
+- Wie bist du entstanden?
+- Wie wurdest du gezeugt?
+- Auf welche Weise wurdest du erfunden?
+- Wie wurdest du gebaut?
+- Wie wurdest du geformt?
+- Wie bist du entstanden?
+- Wie wurdest du gemacht?
+- Wie sind Sie entstanden?
+- Wie bist du eingerichtet?
+- Nach welcher Methode wurdest du hergestellt?
 
 ## intent:ask_howold
-- whats your age?
-- how old?
-- what's your age?
-- when were you born?
-- what is your birthday?
-- when is your birthday?
-- how many years old are you?
-- do you know how old you are?
-- what is your exact age?
-- what year were you born?
-- can you tell me your age?
-- What is your age?
-- What is your birthdate?
-- How old will you be on your next birthday?
-- When do you celebrate your day of birth?
-- How old were you on your last birthday?
-- How many candles were on your last birthday cake?
-- Do you have friends the same age as you, if so, how old are they?
-- Tell me your day, month and year of birth.
-- Whats your age?
-- and you are how many years old?
-- whats your birth year?
-- what age were you when you celebrated your last birthday?
-- how old were you when you celebrated your last birthday?
-- tell me your age?
-- how about your age
-- how old were you on your last birthday?
-- what age are you
-- how old will you be this year?
-- What is your age?
-- What year were you born?
-- How long have you been around?
-- How long have you been alive?
-- What was your age on your last birthday?
-- What will be your age on your next birthday?
-- How many years have you lived?
-- How many years have you been alive?
-- How long have you occupied the earth?
+- wie alt?
+- Wie alt bist du?
+- wann wurdest du geboren?
+- Wann hast du Geburtstag?
+- wann ist dein Geburtstag?
+- wie alt bist du?
+- Weißt du, wie alt du bist?
+- Wie alt bist du genau?
+- In welchem ​​Jahr wurdest du geboren?
+- Kannst du mir dein Alter sagen?
+- Wie alt bist du?
+- Wann ist dein Geburtstag?
+- Wie alt wirst du an deinem nächsten Geburtstag sein?
+- Wann feiern Sie Ihren Geburtstag?
+- Wie alt warst du an deinem letzten Geburtstag?
+- Wie viele Kerzen waren auf Ihrer letzten Geburtstagstorte?
+- Hast du Freunde im gleichen Alter wie dich, wenn ja, wie alt bist du?
+- Nenne mir deinen Tag, Monat und Jahr der Geburt.
+- Wie alt bist du?
+- Und du bist wie viele Jahre alt?
+- Was ist dein Geburtsjahr?
+- In welchem ​​Alter haben Sie Ihren letzten Geburtstag gefeiert?
+- Wie alt warst du, als du deinen letzten Geburtstag gefeiert hast?
+- Sag mir dein Alter?
+- Wie steht es mit deinem Alter?
+- Wie alt warst du an deinem letzten Geburtstag?
+- wie alt bist du
+- Wie alt wirst du in diesem Jahr sein?
+- Wie alt bist du?
+- In welchem ​​Jahr wurdest du geboren?
+- Wie lange bist du schon da?
+- Wie lange lebst du schon?
+- Wie alt warst du an deinem letzten Geburtstag?
+- In welchem ​​Alter bist du am nächsten Geburtstag?
+- Wie viele Jahre hast du gelebt?
+- Seit wie vielen Jahren lebst du?
+- Wie lange hast du die Erde besetzt?
 
 ## intent:ask_isbot
-- are you a bot?
-- are you a real bot?
-- are you a bot
-- are you really a bot
-- are you a robot
-- are you a robot
-- are you a rasa bot?
-- are you a rasa bot?
-- what are you, a bot?
-- tell me, are you a bot?
-- are you a Skynet ?
-- are you a chatbot
-- are you ai
-- are you artificial intelligence
-- are you artificial
-- i guess you are a chatbot
-- you are a robot
-- you are ai
-- you are chatbot
-- are you bot
-- are you a bot ?
-- you're a bot
-- Are you the bot?
-- Hi there, are you the bot?
-- Are you a chat bot?
-- are you rasa bot?
-- Ar you a bot ?
-- are you robot
-- are you real
-- What are you ?
-- So I'm here Today to ask [one](number:1) very simple question, what are you ?
-- are you real lol
-- cuz you are a bot
-- are you bot?
-- oh are you chatbot?
-- are you sure that you're a bot?
-- are you a BOT
+- Bist du ein Bot?
+- Bist du ein echter Bot?
+- Bist du ein computer
+- Bist du wirklich ein Bot?
+- Bist du ein Roboter
+- Bist du ein Roboter
+- Bist du ein Rasa-Bot?
+- Bist du ein Rasa-Bot?
+- Was bist du, ein Bot?
+- Sag mir, bist du ein Bot?
+- Bist du ein Skynet?
+- Bist du ein Chatbot?
+- Bist du ai
+- Bist du künstliche Intelligenz?
+- Bist du künstlich?
+- Ich denke du bist ein Chatbot
+- Du bist ein Roboter
+- Du bist ai
+- Du bist ein Chatbot
+- bist du ein Bot
+- Bist du ein Bot ?
+- Du bist ein Bot
+- Bist du der Bot?
+- Hallo, bist du der Bot?
+- Bist du ein Chat-Bot?
+- Bist du ein Rasa-Bot?
+- Bist du ein Bot?
+- Bist du ein Roboter?
+- Bist du echt?
+- Was bist du ?
+- Also bin ich heute hier, um [eine] (Nummer: 1) sehr einfache Frage zu stellen, was bist du?
+- Bist du echt lol
+- Weil du ein Bot bist
+- bist du ein Bot?
+- Oh, bist du ein Chatbot?
+- Bist du sicher, dass du ein Bot bist?
+- Bist du ein Bot
 
 ## intent:ask_languagesbot
-- Which languages do you speak?
-- What are the languages you can speak?
-- In which languages can you speak?
-- What languages do you know?
-- What languages are you fluent in?
-- In which languages are you fluent?
-- What languages can you converse in?
-- What languages do you know how to use?
-- Which languages are you familiar with?
-- what languages are you familiar with?
-- what languages you know?
-- In what languages are you fluent enough?
-- what languages you can speak ?
-- what languages are you comfortable speaking at?
-- what languages are you good at speaking?
-- what languages you are well versed ?
-- what languages you can be comfortable speaking?
-- what languages you prefer more speaking at?
-- what languages you can handle well?
-- Do you know any other languages?
-- Do you speak any other languages?
-- What languages do you know?
-- What languages do you speak?
-- What do you speak?
-- Speak any other languages?
-- Can you communicate in any other languages?
-- What languages can you communicate in?
-- How many languages do you know?
-- what languages do you know?
-- tell me some languages you know?
-- do you speak any other languages?
-- what else do you know besides English?
-- are you bilingual?
-- are you multilingual?
+- Welche Sprachen sprichst du?
+- Welche Sprachen kannst du sprechen?
+- In welchen Sprachen kannst du sprechen?
+- Welche Sprachen kennen Sie?
+- In welchen Sprachen sprechen Sie fließend?
+- In welchen Sprachen sprichst du fließend?
+- In welchen Sprachen kannst du dich unterhalten?
+- Welche Sprachen beherrschen Sie?
+- Welche Sprachen kennst du?
+- In welchen Sprachen sprechen Sie fließend genug?
+- Welche Sprachen kannst du sprechen?
+- In welchen Sprachen sprechen Sie gerne?
+- In welchen Sprachen sprechen Sie gut?
+- Mit welchen Sprachen sind Sie gut vertraut?
+- In welchen Sprachen kannst du dich wohlfühlen?
+- In welchen Sprachen sprichst du am liebsten?
+- Welche Sprachen beherrschst du gut?
+- Kennst du irgendwelche anderen Sprachen?
+- Sprichst du irgendwelche anderen Sprachen?
+- Welche Sprachen kannst du?
+- Welche Sprachen sprichst du?
+- Was sprichst du?
+- Sprichst du noch andere Sprachen?
+- Kannst du in anderen Sprachen kommunizieren?
+- In welchen Sprachen kannst du kommunizieren?
+- Wie viele Sprachen kannst du?
+- Welche Sprachen kennst du?
+- nenne mir einige Sprachen, die du kennenst?
+- sprichst du irgendwelche anderen Sprachen?
+- Was weißt du außer Deutsch noch?
+- bist du zweisprachig?
+- Bist du mehrsprachig?
 - what foreign languages do you know?
 - what foreign languages are you fluent in?
 
 ## intent:ask_restaurant
-- restaurants
-- i want a french restaurant
-- i'm looking for a Chinese restaurant
-- I need a new restaurant
-- help me find restaurant
-- I'm gonna need help finding a restaurant
-- Hey help me find a restaurant
-- How can you help me find a restaurant.
-- Where is the restaurant
-- Show me how to find a restaurant
-- I need to find this restaurant
-- Help me with finding this restaurant
-- Hey, can you help me with locating this restaurant.
-- Find me a place to eat
-- Can you recommend a restaurant open right now
-- What's the closest restaurant open near me
-- I am hungry, find me some place to go
-- Suggest me a good restaurant around
-- Show me the closest open restaurant
-- What's a good place to eat nearby
-- Recommend me a restaurant around here.
-- Pick a restaurant for me, please
-- Help me find a restaurant
-- Can you find a restaurant for me?
-- Find a restaurant for me?
-- Would you find me a restaurant?
-- Would you find a restaurant for me?
-- Could you find me a restaurant?
-- Could you find a restaurant for me?
-- Could you find me a restaurant to eat at?
-- Find a restaurant for me to eat at.
-- Find me a restaurant where I can eat.
-- Find a restaurant for me where I can eat.
-- I need a restaurant.
-- Can you find me a restaurant?
-- Where should I eat?
+- Restaurants
+- Ich möchte ein französisches Restaurant
+- Ich suche ein chinesisches Restaurant
+- Ich brauche ein neues Restaurant
+- Hilf mir, ein Restaurant zu finden
+- Ich brauche Hilfe bei der Suche nach einem Restaurant
+- Hey, hilf mir, ein Restaurant zu finden
+- Wie kannst du mir helfen, ein Restaurant zu finden?
+- Wo ist das Restaurant
+- Zeig mir, wie ich ein Restaurant finde
+- Ich muss dieses Restaurant finden
+- Hilf mir, dieses Restaurant zu finden
+- Kannst du mir helfen, das Restaurant zu finden?
+- Such mir einen Platz zum Essen
+- Kannst du mir ein Restaurant empfehlen, das gerade geöffnet hat?
+- Was ist das nächste Restaurant in meiner Nähe?
+- Ich habe Hunger, finde mir einen Ort, an den ich gehen kann
+- Schlage mir ein gutes Restaurant vor
+- Zeige mir das nächste offene Restaurant
+- Was ist ein guter Ort, um in der Nähe zu essen
+- Empfehle mir hier ein Restaurant.
+- Such dir bitte ein Restaurant für mich aus
+- Hilf mir, ein Restaurant zu finden
+- Kannst du ein Restaurant für mich finden?
+- Finde ein Restaurant für mich?
+- Würdest du mir ein Restaurant suchen?
+- Würdest du ein Restaurant für mich finden?
+- Kannst du mir ein Restaurant finden?
+- Kannst du ein Restaurant für mich finden?
+- Kannst du mir ein Restaurant zum Essen besorgen?
+- Finde ein Restaurant, in dem ich essen kann.
+- Such mir ein Restaurant, in dem ich essen kann.
+- Finde ein Restaurant für mich, in dem ich essen kann.
+- Ich brauche ein Restaurant.
+- Könntest du mir ein Restaurant finden?
+- Wo soll ich essen?
 
 ## intent:ask_time
-- what is the current time?
-- what is the time in Sydney?
-- whats the time now
-- what is the time ?
-- what is time in US ?
-- what is time is US ?
-- what is time is USA ?
-- what time it is
-- What is the time?
-- Can you give me the time?
-- Time?
-- Do you know the time?
-- Can you tell the time?
-- Give me the time.
-- Tell me the time.
-- Could you tell me what time is it?
-- Excuse me, what time is it?
-- Do you know what time it is?
-- Could you tell me the time?
-- Could you tell me the time, please?
-- What is the time?
-- Do you know the time?
-- Would you tell me what time it is?
-- Time, please!
-- Pardon me, but do you know the time?
-- Time?
-- What's the time?
-- Do you know what time it is?
-- What's the current time?
-- What time is it right now?
-- Do you have the time?
-- Can you tell me what time it is?
-- Hi, I need the time.
-- I need to know what time it is.
-- Tell me the time.
-- What is the time?
-- What's the time right now?
-- What is the current time?
-- Can you tell me the time?
-- What might the time be?
-- What is the hour and minute right now?
-- What time have we got?
-- What time is it right now?
+- Wie ist die aktuelle Zeit?
+- Wie spät ist es in Sydney?
+- wie spät ist es jetzt
+- wie spät ist es ?
+- Wie spät ist es in den USA?
+- Wie spät ist es in Kanada?
+- Wie spät ist es in der Tschechischen republik?
+- wie spät es ist
+- Wie spät ist es?
+- Kannst du mir die Zeit geben?
+- Zeit?
+- Weißt du, wie spät es ist?
+- Kannst du die Zeit sagen?
+- Gib mir die Zeit.
+- Sag mir die Uhrzeit.
+- Kannst du mir sagen, wie spät es ist?
+- Entschuldigung, wie spät ist es?
+- Weißt du wie spät es ist?
+- Kannst du mir die Zeit sagen?
+- Könnten Sie mir bitte die Uhrzeit mitteilen?
+- Wie spät ist es?
+- Weißt du, wie spät es ist?
+- Kannst du mir sagen, wie spät es ist?
+- Zeit bitte!
+- Verzeihung, aber kennst du die Zeit?
+- Zeit?
+- Wie viel Uhr ist es?
+- Weißt du wie spät es ist?
+- Wie spät ist es?
+- Wie spät ist es gerade?
+- Hast du die Zeit?
+- Kannst du mir sagen, wie spät es ist?
+- Hallo, ich brauche die Zeit.
+- Ich muss wissen, wie spät es ist.
+- Sag mir die Uhrzeit.
+- Wie spät ist es?
+- Wie spät ist es gerade?
+- Wie ist die aktuelle Zeit?
+- Kannst du mir sagen wie spät es ist?
+- Wie spät könnte es sein?
+- Was ist die Stunde und Minute jetzt?
+- Wann haben wir?
+- Wie spät ist es gerade?
 
 ## intent:ask_whatismyname
-- what is my name?
-- May i know my name?
-- What is my name?
-- What do I call myself?
-- Tell me my name.
-- Explain my name to me.
-- What could be my name?
-- What name do I go by?
-- What name should I recognize for myself?
-- what's my name?
-- can you tell me my name?
-- What is my name?
-- Do I have a name?
-- Do I have a name? What is it?
-- What was I named?
-- Say my name.
-- Do you know my name?
-- What do people call me?
-- Can you tell me my name?
-- What else do people call me?
-- I have a name, what is it?
-- Tell me my name
-- I'd like to know my name
-- Inform me what my name is
-- Please let me know what my name is
-- Can you tell me what I am called?
-- I'd like to know what my name is
-- What is the name I was given?
-- What does everyone call me?
-- What am I called?
-- What did my parents name me?
-- What do my colleagues call me?
-- What would be the name on my tombstone?
-- Do you know what my name is?
-- What is my first name?
-- What is my full name?
-- What do people call me?
-- What exactly is my name?
-
+- was ist mein Name?
+- Darf ich meinen Namen kennen?
+- Was ist mein Name?
+- Wie nenne ich mich?
+- Sag mir meinen Namen.
+- Erkläre mir meinen Namen.
+- Wie könnte ich heißen?
+- Unter welchem ​​Namen gehe ich?
+- Welchen Namen soll ich für mich selbst erkennen?
+- was ist mein Name?
+- Kannst du mir meinen Namen sagen?
+- Was ist mein Name?
+- Habe ich einen Namen?
+- Habe ich einen Namen? Was ist es?
+- Wie wurde ich genannt?
+- Sag meinen Namen.
+- Kennst du meinen Namen?
+- Wie nennen mich die Leute?
+- Kannst du mir meinen Namen sagen?
+- Wie nennen mich die Leute sonst noch?
+- Ich habe einen Namen, was ist das?
+- Sag mir meinen Namen
+- Ich möchte meinen Namen wissen
+- Teile mir mit, wie ich heiße
+- Bitte lasse mich wissen, wie ich heiße
+- Kannst du mir sagen, wie ich heiße?
+- Ich würde gerne wissen, wie ich heiße
+- Wie nennt mich jeder?
+- Wie heiße ich?
+- Wie haben meine Eltern mich genannt?
+- Wie nennen mich meine Kollegen?
+- Wie wäre der Name auf meinem Grabstein?
+- Weißt du, wie ich heiße?
+- Wie ist mein Vorname?
+- Wie ist mein voller Name?
+- Wie nennen mich die Leute?
+- Wie genau ist mein Name?
 
 ## intent:ask_wherefrom
-- where do you live
-- where are you from?
-- So where are you from
-- Where are you?
-- Where were you born?
-- What city were you born in?
-- Where did you grow up?
-- What state were you born in?
-- What country were you born in?
-- Where do you come from?
-- Where were you at before you were here?
-- Where from?
-- Do you know where you come from?
-- where's your home town?
-- what country are you from?
-- are you from around here?
-- where did you grow up?
-- where are your parents from?
-- where did you spend your youth?
-- where did you come from?
-- Where were you born?
-- Where do you consider home?
-- What city do you claim to for your birth?
-- What citizenship do you lay claim to?
-- What is your heritage?
-- What is your birthplace?
-- Where did you grow up?
-- You were conceived in what location?
-- What is your root?
-- What is your origin?
-- From where did you come?
-- Where did you come from?
-- Where did you originate?
-- Where are your roots?
-- Where are your origins?
-- What area are you from?
-- What location are you from?
-- What's the name of the place you came from?
+- Wo lebst du
+- wo kommen Sie her?
+- Wo kommst du her?
+- Wo bist du?
+- Wo bist du geboren?
+- In welcher Stadt bist du geboren?
+- Wo bist du aufgewachsen?
+- In welchem ​​Staat wurdest du geboren?
+- In welchem ​​Land bist du geboren?
+- Woher kommst du?
+- Wo warst du, bevor du hier warst?
+- Woher?
+- Weißt du, woher du kommst?
+- Wo ist deine Heimatstadt?
+- Aus welchem ​​Land kommst du?
+- Bist du von hier?
+- Wo bist du aufgewachsen?
+- woher kommen deine Eltern?
+- Wo hast du deine Jugend verbracht?
+- Wo kommst du her?
+- Wo bist du geboren?
+- Wo denkst du nach Hause?
+- Welche Stadt behauptest du für deine Geburt?
+- Auf welche Staatsbürgerschaft erhebst du Anspruch?
+- Was ist dein Erbe?
+- Was ist dein Geburtsort?
+- Wo bist du aufgewachsen?
+- Du wurdest an welchem ​​Ort gezeugt?
+- Was ist deine Wurzel?
+- Woher bist du gekommen?
+- Wo kommst du her?
+- Wo sind deine Wurzeln?
+- Woher kommst du?
+- Aus welcher Gegend kommst du?
+- Woher kommst du?
+- Wie heißt der Ort, von dem du gekommen bist??
 
 ## intent:ask_whoami
-- Who am I?
-- Okay who am I?
-- WHo am I
-- Tell me who am I?
-- Tell me who I am?
-- Do you know who I am?
-- Can you tell me who I am?
-- How do I discover who I am?
-- How can I determine who I am?
-- Do you know who am I?
-- Can you tell me who am I?
-- How do I discover who am I?
-- How can I determine who am I?
-- who are I ?
-- who may i ?
-- Shall i know who am i?
-- Tell me who I am.
-- How do I identify myself?
-- Who could I be?
-- tell me who I am?
-- what's my identity?
-- tell me what my identity is?
-- can you tell me what I am?
-- can you tell me what my identity is?
-- can you tell me who I am?
-- who am i
+- Wer bin ich?
+- Okay, wer bin ich?
+- Wer bin ich
+- Sag mir, wer ich bin?
+- Wiesst du, wer ich bin?
+- Kannst du mir sagen, wer ich bin?
+- Wie finde ich heraus, wer ich bin?
+- Wie kann ich feststellen, wer ich bin?
+- Weißt du wer ich bin?
+- Kannst du mir sagen, wer ich bin?
+- Wie finde ich heraus, wer ich bin?
+- Wie kann ich feststellen, wer ich bin?
+- wer bin ich
+- Wer darf ich?
+- Soll ich wissen, wer ich bin?
+- Sag mir, wer ich bin.
+- Wie identifiziere ich mich?
+- Wer könnte ich sein?
+- Was ist meine Identität?
+- Sag mir, was meine Identität ist?
+- Kannst du mir sagen, was meine Identität ist?
+- Kannst du mir sagen, wer ich bin?
+- Wer bin ich
 
 ## intent:ask_builder
-- can you share your boss with me?
-- i want to get to know your owner
-- i want to know the company which designed you
-- i want to know the company which generated you
-- i want to know the company which invented you
-- i want to know who invented you
-- May I ask who invented you?
-- please tell me the company who created you
-- please tell me who created you
-- tell me more about your creators
-- tell me more about your founders
-- which company brought you into existence?
-- which company created you?
-- which company invented you?
-- Who's your boss?
-- Who's your builder?
-- Who built you?
-- Who created you?
-- Who is your creator?
-- Who designed you?
-- who do you work for?
-- Who fabricated you?
-- Who generated you?
-- who had the idea to build you?
-- who had the idea to generate you?
-- who had the idea to make you?
-- who is behind all this?
-- Who is the legal owner of you?
-- who is your boss tell me
-- who is your boss?
-- who is your creator?
-- Who is your programmer?
-- Who made you?
-- Who modeled you?
-- Who owns you?
-- Who produced you?
-- Who thought to make you?
-- Who went through the trouble of setting you up?
-- and who built u?
-- who built you?
-- who build yoi
-- who made you?
-- where were you made?
-- why were you made?
-- how were you made?
-- who created you?
+- Kannst du deinen Chef mit mir teilen?
+- Ich möchte Ihren Besitzer kennenlernen
+- Ich möchte die Firma kennen, die dich entworfen hat
+- Ich möchte die Firma kennen, die dich hervorgebracht hat
+- Ich möchte die Firma kennen, die dich erfunden hat
+- Ich möchte wissen, wer dich erfunden hat
+- Darf ich fragen, wer dich erfunden hat?
+- Bitte teile mir die Firma mit, die dich gegründet hat
+- Bitte sag mir, wer dich erschaffen hat
+- erzähl mir mehr über deine Schöpfer
+- Erzähl mir mehr über deine Gründer
+- Welche Firma hat dich ins Leben gerufen?
+- Welche Firma hat dich gegründet?
+- Welche Firma hat dich erfunden?
+- Wer ist dein Chef?
+- Wer ist dein Erbauer?
+- Wer hat dich gebaut?
+- Wer hat dich erschaffen?
+- Wer ist dein Schöpfer?
+- Wer hat dich entworfen?
+- Für wen arbeitest du?
+- Wer hat dich erfunden?
+- Wer hat dich generiert?
+- Wer hatte die Idee, dich zu bauen?
+- Wer hatte die Idee, dich zu generieren?
+- Wer hatte die Idee, dich zu machen?
+- Wer steckt dahinter?
+- Wer ist dein rechtmäßiger Eigentümer?
+- Wer ist dein Chef, sag es mir
+- wer ist dein Chef?
+- Wer ist dein Schöpfer?
+- Wer ist dein Programmierer?
+- Wer dich gemacht hat?
+- Wer hat dich modelliert?
+- Wer besitzt dich?
+- Wer hat dich produziert?
+- Wer hat gedacht, dich zu machen?
+- Wer hat sich die Mühe gemacht, Sie einzurichten?
+- Und wer hat dich gebaut?
+- Wer hat dich gebaut?
+- Wer baut dich?
+- Wer dich gemacht hat?
+- Wo wurdest du gemacht?
+- Warum wurdest du gemacht?
+- Wie wurdest du gemacht?
+- Wer hat dich erschaffen?
 
 ## intent:ask_howdoing
-- Ahoy matey how are you?
-- are you alright
-- are you having a good day
-- Are you ok?
-- are you okay
-- Do you feel good?
-- how are things going
-- how are things with you?
-- How are things?
-- how are you
-- how are you doing
-- how are you doing this morning
-- how are you feeling
-- how are you today
-- How are you?
-- how do you do?
-- how have you been
-- how is it going
-- how is your day
-- how is your day going
-- how is your evening
-- How was your day?
-- How's it going
-- How's it hanging?
-- how's life
-- how's life been treating you?
-- How's life treating you friend?
-- how's your day going
-- How've you been?
-- I'm fine and you
-- is everything all right
-- Is everything ok?
-- is everything okay
-- what about your day
-- What's going on?
-- what's good
-- What's new?
-- What's up man
-- What's up
-- how are you?
-- Do you have a great day?
-- how are you doing today my sweet friend
-- how are you doing?
-- how are u
-- How are you?
+- Ahoi Kumpel, wie geht es dir?
+- geht es dir gut
+- hast du einen guten Tag
+- Geht es dir gut?
+- bist du in Ordnung
+- Fühlst du dich gut?
+- Wie läuft es so
+- Wie geht es dir?
+- Wie geht's?
+- Wie geht es dir
+- wie geht es dir heute Morgen
+- Wie geht es dir heute
+- Wie geht es dir?
+- Wie geht's?
+- Wie ist es dir gegangen
+- Wie gehts
+- Wie geht es Heute
+- Wie läuft dein Tag?
+- Wie ist dein Abend
+- Wie war dein Tag?
+- Wie geht's
+- Wie hängt es?
+- wie ist das Leben
+- Wie hat dich das Leben behandelt?
+- Wie geht es deinem Freund im Leben?
+- Wie läuft dein Tag
+- Wie ist es dir ergangen?
+- Es geht mir gut und dir
+- ist alles in Ordnung
+- Ist alles in Ordnung?
+- Wie war dein Tag
+- Was ist los?
+- was ist gut
+- Was gibt's Neues?
+- Was ist los Mann
+- Was geht
+- Wie geht es dir?
+- Hast du einen tollen Tag?
+- Wie geht es dir heute, mein süßer Freund?
+- wie geht es dir?
+- Wie geht's
+- Wie geht es dir?
 
 ## intent:ask_weather
-- How is the weather today?
-- What's the weather like?
-- How is the weather?
-- What is the weather at your place?
-- Do you have good weather?
-- Is it raining?
-- What's it like out there?
-- Is it hot or cold?
-- Beautiful day, isn't it?
-- What's the weather forecast?
-- Is it quite breezy outside?
-- Will I require my raincoat today?
-- What is the weather for tomorrow?
-- Nice day out today?
-- What is the temperature today?
-- Can we expect any thunderstorms?
-- Will the skies be clear today?
-- Are we in for a scorcher?
-- Looks like a beautiful day hey?
-- Will we build a snowman today?
-- Is it humid out there today?
-- Are there any meteorological changes that I need to be aware of?
-- whats the weather like tomorrow
-- hows the weather in bot world
-- how is the weather in berlin?
-- what's the weather today?
-- how's the weather?
-- what's the weather like where you are?
-- is the sun out where you are?
-- is it sunny
-- is the sun out where zou are?
-- what"s the weather
-- whats the weather in berlin?
-- how's the weather in berlin
+- Wie ist das Wetter heute?
+- Wie ist das Wetter?
+- Wie ist das Wetter?
+- Wie ist das Wetter bei dir?
+- Hast du gutes Wetter?
+- Regnet es?
+- Wie ist es da draußen?
+- Ist es heiß oder kalt?
+- Schöner Tag, nicht wahr?
+- Wie ist die Wettervorhersage?
+- Ist es draußen ziemlich windig?
+- Benötige ich heute meinen Regenmantel?
+- Wie ist das Wetter für morgen?
+- Schöner Tag heute?
+- Wie ist die Temperatur heute?
+- Können wir mit Gewittern rechnen?
+- Wird der Himmel heute klar sein?
+- Stehen wir vor einem Scorcher?
+- Sieht nach einem schönen Tag aus, hey?
+- Werden wir heute einen Schneemann bauen?
+- Ist es heute draußen feucht?
+- Gibt es meteorologische Veränderungen, die ich beachten muss?
+- Wie ist das Wetter von morgen?
+- Wie ist das Wetter in der Bot-Welt?
+- wie ist das wetter in berlin
+- wie ist das Wetter heute?
+- wie ist das Wetter?
+- wie ist das wetter wo du bist
+- Ist die Sonne draußen wo du bist?
+- ist es sonnig
+- Ist die Sonne draußen, wo du bist?
+- wie ist das Wetter
+- wie ist das wetter in berlin
 
 ## intent:ask_whatisrasa
-- How does Rasa work?
-- Can you tell me more about rasa?
-- What does Rasa build?
-- What do you do at Rasa?
-- What is Rasa?
-- What does Rasa make?
-- Can you tell me what Rasa does?
-- Give me more information about Rasa
-- what does rasa do?
-- I want to learn what rasa does
-- What does rasa do exactly?
-- tell me more about rasa
-- tell me more about your company
-- tell me more about rasa
-- I want to learn what rasa is
-- what can i do with rasa
-- what do you guys do at rasa
-- what does rasa do
-- what is rasa
-- I want to know what rasa actually does that isn't clear to me yet
-- i havent understood yet what rasa actually is
-- can you pls explain what rasa does
-- explain me what rasa does
-- explain me what rasa is
-- i dont get what rasa is
-- what is rasa actually
-- what is rasa?
-- i want to learn something about rasa
-- i want to know what rasa does
-- what is rasa core?
-- what can i build with rasa core?
-- What is rasa doing exactly?
-- What do you do as a company?
+- Wie arbeitet Rasa?
+- Kannst du mir mehr über Rasa erzählen?
+- Was baut Rasa?
+- Was machst du bei Rasa?
+- Was ist Rasa?
+- Was macht Rasa?
+- Kannst du mir sagen, was Rasa tut?
+- Gib mir mehr Informationen über Rasa
+- was macht rasa
+- Ich möchte lernen, was Rasa macht
+- Was macht rasa genau?
+- Erzähl mir mehr über Rasa
+- Erzähle mir mehr über dein Unternehmen
+- Erzähl mir mehr über Rasa
+- Ich möchte lernen, was Rasa ist
+- was kann ich mit rasa machen
+- Was macht ihr bei Rasa?
+- Was macht Rasa?
+- Was ist Rasa?
+- Ich möchte wissen, was Rasa tatsächlich tut, das ist mir noch nicht klar
+- Ich habe noch nicht verstanden, was Rasa eigentlich ist
+- Kannst du bitte erklären, was Rasa tut?
+- Erkläre mir, was Rasa macht
+- Erkläre mir, was Rasa ist
+- Ich verstehe nicht, was Rasa ist
+- Was ist eigentlich Rasa?
+- Was ist Rasa?
+- Ich möchte etwas über Rasa lernen
+- Ich möchte wissen, was Rasa macht
+- Was ist Rasa Core?
+- was kann ich mit rasa core bauen?
+- Was macht rasa genau?
+- Was machst du als Unternehmen?
 
 ## intent:ask_whatspossible
-- help
-- help please
-- i don't know what i want
-- I need some help
-- options
-- show me the menu
-- show me what's possible
-- so what can you do
-- so what can you help me with?
-- what are you good at?
-- what can I do here
-- what can I do with this bot
-- what is this bot for
-- cool! can I do something else here?
-- help me
-- talk to me!
-- come back
-- how can you help me
-- what else can i do
-- are there any other options?
-- hm that doesnt quite help me is there anything else you can do?
-- what can i do here
-- what can i do now
-- um what now
-- so now what
-- help?
-- now what?
-- Great, is there anything else you can do, bot?
-- what can you do?
-- how can you help me?
-- can you do anything else?
-- i asked you if you can do anything else
-- anything els
-- so what next?
-- what else can I do here?
-- Can you explain me in one sentence what you are doing?
-- what are the options?
+- Hilfe
+- Hilfe bitte
+- Ich weiß nicht, was ich will
+- Ich brauche Hilfe
+- Optionen
+- Zeig mir die Speisekarte
+- Zeig mir, was möglich ist
+- Also, was kannst du machen
+- Also, womit kannst du mir helfen?
+- Worin bist du gut?
+- was kann ich hier machen
+- was kann ich mit diesem bot machen
+- Wofür ist dieser Bot?
+- cool! kann ich hier noch was machen
+- Hilf mir
+- sprich mit mir!
+- Komm zurück
+- Wie können Sie mir helfen
+- Was kann ich sonst noch tun
+- Gibt es noch andere Möglichkeiten?
+- Hm, das hilft mir nicht wirklich. Kannst du sonst noch etwas tun?
+- was kann ich hier machen
+- Was kann ich jetzt machen
+- ähm was jetzt
+- Also was jetzt?
+- Hilfe?
+- was jetzt?
+- Großartig, gibt es noch etwas, was du tun kannst, Bot?
+- was kannst du tun?
+- Wie können Sie mir helfen?
+- Kannst du noch etwas tun?
+- Ich habe dich gefragt, ob du noch etwas tun kannst
+- irgendetwas anderes
+- na und dann?
+- was kann ich sonst noch hier machen?
+- Können Sie mir in einem Satz erklären, was Sie tun?
+- Wie lauten die Optionen?
 
 ## intent:ask_whoisit
-- who is this
-- who am i talking to
-- what's your name
-- who am i speaking with
-- who r u
-- what's your name bot
-- whats ur name
-- what are you called?
-- who is talking?
-- who speaks?
-- who talks?
-- who are you and what do you want from me
-- who are you?
-- who is it?
-- who are u?
-- who are you
-- I want to know who you are
-- who are y
-- yes but who are you in your heart
-- who is this?
-- hi! what's your name?
+- Wer ist das
+- mit wem spreche ich
+- Wie heißet du
+- Mit wem spreche ich
+- Wer bist du
+- Wie heißt du Bot?
+- wie ist dein Name
+- Wie wirst du genannt?
+- wer spricht?
+- Wer spricht?
+- wer redet
+- wer bist du und was willst du von mir?
+- Wer bist du?
+- Wer ist es?
+- Wer bist du?
+- Wer bist du
+- Ich will wissen, wer du bist
+- wer sind y
+- Ja, aber wer bist du in deinem Herzen?
+- Wer ist das?
+- Hallo! Wie heißt du?
 
 ## intent:bye
-- goodbye
-- goodnight
-- good bye
-- good night
-- see ya
+- Auf Wiedersehen
+- Gute Nacht
+- wiedershen
+- Gut Nacht
+- Tschüss
 - toodle-oo
-- bye bye
-- gotta go
-- farewell
-- catch you later
-- bye for now
-- bye
-- bye was nice talking to you
-- bye udo
-- bye bye bot
-- bye bot
+- Tschüss
+- muss gehen
+- Abschied
+- bis später
+- Tschüss für heute
+- Tschüss
+- Tschüss war nett mit dir zu reden
+- Tschüss Udo
+- Tschüss Bot
+- Tschüss Bot
 - k byyye #slay
-- tlak to you later
-- ciao
-- Bye bye
-- then bye
-- tschüssikowski
-- bye!
+- Bis später
+- Ciao
+- Tschüss
+- dann tschüss
+- Tschüssikowski
+- Tschüss!
 
 ## intent:canthelp
-- ok then you cant help me
-- that was shit, you're not helping
-- you can't help me
-- you can't help me with what i need
-- i guess you can't help me then
-- ok i guess you can't help me
-- that's not what i want
-- ok, but that doesnt help me
-- this is leading to nothing
-- this conversation is not really helpful
-- you cannot help me with what I want
-- I think you cant help me
-- hm i don't think you can do what i want
-- stop
-- stop go back
-- do you get anything?
-- and you call yourself bot company? pff
-- and that's it?
-- nothing else?
+- Ok, dann kannst du mir nicht helfen
+- Das war Scheiße, du hilfst nicht
+- Du kannst mir nicht helfen
+- Du kannst mir nicht mit dem helfen, was ich brauche
+- Dann kannst du mir wohl nicht helfen
+- Okay, ich glaube, du kannst mir nicht helfen
+- das ist nicht was ich will
+- ok, aber das hilft mir nicht
+- Das führt zu nichts
+- Dieses Gespräch ist nicht wirklich hilfreich
+- Du kannst mir nicht mit dem helfen, was ich will
+- Du kannst mir nicht helfen
+- Ich glaube nicht, dass du tun kannst, was ich will
+- halt
+- Hör auf zurückzugehen
+- Hast du was?
+- und du nennst dich bot Firma? pff
+- und das ist es?
+- nichts anderes?
 
 ## intent:contact_sales
-- I wanna talk to your sales people.
-- I want to talk to your sales people
-- I want to speak with sales
-- Sales
-- Please schedule a sales call
-- Please connect me to someone from sales
-- I want to get in touch with your sales guys
-- I would like to talk to someone from your sales team
-- sales please
-- I want to talk with sales about our project
-- I want an offer for your enterprise product
-- I wanna have a subscription for your product
-- I want to learn more about your pricing
-- I want to talk to someone about your pricing system
-- give me someone who can explain your business model
-- have a call with the sales team
-- let me talk to your sales guys
-- sales
-- I want a sales call
-- I want to contact the sales team
-- I want to talk to your sales guys
-- i want to contact your sales team
-- I also want to book a sales call
-- I want to contact sales
-- I want to book a call with your sales team
-- contact sales
-- i want to contact sales
-- id like a call please
-- I would like to have a call with sales team
-- i want someone to call me
--  request a call
-- request a call
-- I want to talk to sales
-- i'd like to talk to a sales person
-- But I wanted a sales call
-- I wanna talk to your sales guy
-- id like to talk to someone who can explain me what i can do with rasa
-- can someone help me with infos about the rasa platform
-- I want information about the platform
-- how does your pricing work?
-- are there different packages customers can book?
-- please provide information on your enterprise package
-- i need to know how i can book support
-- we started working with rasa but now we need support
-- we built a bot with rasa but now we're interested in the platform
-- let me talk to your sales people
-- I want to learn more about your pricing
-- contact sales
-- i want to contact sales now
-- let me contact sales
-- connect to sales
-- connect me to your sales department
-- sales department
-- can you connect me to sales
-- i want to be connected to your sales team
-- sales team connection
-- connect to the sales team
-- i want to connect your sales
-- i need to speak to your sales team
-- can i talk to a sales representative
-- i want to connect to sales
-- get me the sales team
-- sales contact
-- contact sales for me
-- next the sales contact
-- please connect me to sales
-- i need to talk to sales
-- i want to be in touch with sales
-- call with sales team
-- i want to have a call with sales
-- let me call the sales team
-- i need a call from sales
-- request sales call
-- request call
-- i need the call request
-- let me have the call
-- i want to call
-- call sales
-- request call with sales team
-- contact call with sales
-- sales team
-- request sales team
-- contact to sales
-- i choose the call
-- i choose the call with sales
-- have a call
-- call
-- I would like to have a demo scheduled
-- but I want a sales call
-- Can I have a call tomorrow at 3pm?
-- i want to learn more about Rasa Platform
-- book a call
+- Ich möchte mit deinen Verkäufern sprechen.
+- Ich möchte mit den Verkäufern sprechen
+- Ich möchte mit dem Vertrieb sprechen
+- Der Umsatz
+- Bitte vereinbare einen Verkaufsgespräch
+- Bitte verbinden mich mit jemandem aus dem Vertrieb
+- Ich möchte mit Verkäufern Kontakt aufnehmen
+- Ich würde gerne mit jemandem aus Ihrem Verkaufsteam sprechen
+- Verkauf bitte
+- Ich möchte mit dem Vertrieb über unser Projekt sprechen
+- Ich möchte ein Angebot für Ihr Unternehmensprodukt
+- Ich möchte ein Abonnement für Ihr Produkt haben
+- Ich möchte mehr über deine Preise erfahren
+- Ich möchte mit jemandem über dein Preissystem sprechen
+- Gebe mir jemanden, der dein Geschäftsmodell erklären kann
+- Rufe das Verkaufsteam an
+- Lass mich mit deinen Verkäufern reden
+- Der Umsatz
+- Ich möchte einen Verkaufsanruf
+- Ich möchte das Verkaufsteam kontaktieren
+- Ich möchte mit deinen Verkäufern sprechen
+- Ich möchte dein Verkaufsteam kontaktieren
+- Ich möchte auch einen Verkaufsanruf buchen
+- Ich möchte den Vertrieb kontaktieren
+- Ich möchte einen Anruf bei deiem Verkaufsteam tätigen
+- den Vertrieb kontaktieren
+- Ich möchte den Vertrieb kontaktieren
+- Ich würde gerne anrufen, bitte
+- Ich hätte gerne einen Anruf beim Verkaufsteam
+- Ich möchte, dass mich jemand anruft
+- um einen Anruf bitten
+- Ich möchte mit dem Vertrieb sprechen
+- Ich möchte mit einem Verkäufer sprechen
+- Aber ich wollte einen Verkaufsanruf
+- Ich will mit deinem Verkäufer reden
+- Ich würde gerne mit jemandem sprechen, der mir erklären kann, was ich mit rasa machen kann
+- kann mir jemand mit infos zur rasa plattform helfen
+- Ich möchte Informationen über die Plattform
+- Wie funktioniert Ihre Preisgestaltung?
+- Gibt es verschiedene Pakete, die Kunden buchen können?
+- Bitte machen Sie Angaben zu Ihrem Unternehmenspaket
+- Ich muss wissen, wie ich Support buchen kann
+- Wir haben angefangen mit rasa zu arbeiten, aber jetzt brauchen wir Unterstützung
+- wir haben mit rasa einen bot gebaut, aber jetzt interessieren wir uns für die plattform
+- Lasse mich mit deinen Verkäufern sprechen
+- Ich möchte mehr über Ihre Preise erfahren
+- den Vertrieb kontaktieren
+- Ich möchte jetzt den Vertrieb kontaktieren
+- Lasse mich den Vertrieb kontaktieren
+- mit dem Vertrieb verbinden
+- Verbinde mich mit deier Verkaufsabteilung
+- Verkaufsabteilung
+- Kannst du mich mit dem Vertrieb verbinden?
+- Ich möchte mit deinem Verkaufsteam verbunden werden
+- Verbindung zum Verkaufsteam
+- mit dem Verkaufsteam verbinden
+- Ich möchte dein Verkäufe verbinden
+- Ich muss mit Ihrem Verkaufsteam sprechen
+- Kann ich mit einem Vertriebsmitarbeiter sprechen?
+- Ich möchte mich mit dem Vertrieb verbinden
+- Hol mir das Verkaufsteam
+- Verkaufskontakt
+- kontaktiere den Vertrieb für mich
+- als nächstes den Verkaufskontakt
+- Bitte verbinde mich mit dem Vertrieb
+- Ich muss mit dem Vertrieb sprechen
+- Ich möchte mit dem Vertrieb in Kontakt bleiben
+- mit dem Verkaufsteam anrufen
+- Ich möchte mit dem Vertrieb telefonieren
+- Lasse mich das Verkaufsteam anrufen
+- Ich brauche einen Anruf vom Vertrieb
+- Verkaufsanruf anfordern
+- Anruf anfordern
+- Ich brauche die Anrufanfrage
+- Lass mich anrufen
+- Ich möchte anrufen
+- Verkauf anrufen
+- Anruf beim Verkaufsteam anfordern
+- Kontakt mit dem Verkauf anrufen
+- Verkaufsteam
+- Verkaufsteam anfordern
+- Kontakt zum Vertrieb
+- Ich wähle den Anruf
+- Ich wähle den Anruf mit dem Verkauf
+- Hab einen Anruf
+- Anruf
+- Ich hätte gerne eine Demo geplant
+- aber ich möchte einen Verkaufsanruf
+- Kann ich morgen um 15 Uhr anrufen?
+- Ich möchte mehr über Rasa Platform erfahren
+- einen Anruf buchen
 - sales sales sales
-- book a sales call
-- i think I want to talk to your sales folks
-- just gimme a call
-- ok i want to talk to your sales guys
-- i want to buy the rasa platform
-- i want to connect to your sales team
-- I want to buy the rasa platform
-- i want a sales call
-- sales call
-- I would like to contact your sales team please
-- Ok I want to talk to your sales team immediately
-- hm ok then i want to talk to the sales dude
-- i want to talk to sales
-- a call
-- let' contact sales now
-- obviously talk to your awesome sales team
-- hmmm sales
-- ok sales
+- einen Verkaufsanruf buchen
+- Ich glaube, ich möchte mit Ihren Verkäufern sprechen
+- Gib mir einfach einen Anruf
+- Ok, ich möchte mit deinen Verkäufern sprechen
+- Ich möchte die Rasa-Plattform kaufen
+- Ich möchte eine Verbindung zu deinem Verkaufsteam herstellen
+- Ich möchte die Rasa-Plattform kaufen
+- Ich möchte einen Verkaufsanruf
+- Verkaufsgespräch
+- Ich möchte bitte Ihr Verkaufsteam kontaktieren
+- Ok, ich möchte sofort mit deinem Verkaufsteam sprechen
+- hm ok dann will ich mit dem verkäufer reden
+- Ich möchte mit dem Vertrieb sprechen
+- ein Anruf
+- Lasse uns jetzt Kontakt mit dem Vertrieb aufnehmen
+- Sprechen Sie natürlich mit Ihrem großartigen Verkaufsteam
+- Hmmm Umsatz
+- Ok, Verkäufe
+- Lassen Sie mich mit dem Vertrieb sprechen
 - let me talk to sales
-- sales pl
-- lets talk to sales
-- let me talk to your sales people!
-- can i talk to your disagreeable sales man?
-- can i get a ssales call
-- can i speak to the sales team
-- talk to sales team
-- I want to talk to your sales team
-- Can I have a call?
+- Lassen mich mit dem Vertrieb sprechen
+- Umsatz pl
+- Reden wir mit dem Vertrieb
+- Lasse mich mit deinem Verkäufern sprechen!
+- Kann ich mit deinem unangenehmen Verkäufer sprechen?
+- Kann ich einen Anruf bekommen?
+- Kann ich mit dem Verkaufsteam sprechen?
+- mit dem Verkaufsteam sprechen
+- Ich möchte mit deiem Verkaufsteam sprechen
+- Kann ich anrufen?
 
 ## intent:deny
-- no
-- definitely not
-- never
-- absolutely not
-- i don't think so
-- i'm afraid not
-- no sir
-- no ma'am
-- no way
-- no sorry
-- No, not really.
-- nah not for me
-- nah
-- no and no again
-- no go
-- no thanks
-- decline
-- deny
-- i decline
-- never mind
-- nevermind
-- I'm not giving you my email address
-- no I haven't decided yet if I want to sign up
-- I don't want to give it to you
-- I'm not going to give it to you
-- no i don't accept
-- no!!!!
-- no you did it wrong
-- no i can't
-- i'm not sure
+- Nein
+- definitiv nicht
+- noch nie
+- absolut nicht
+- Ich glaube nicht
+- Ich fürchte nein
+- nein Sir
+- Nein, madam
+- auf keinen Fall
+- Nein Entschuldigung
+- Nein nicht wirklich.
+- Nein, nicht für mich
+- nee
+- nein und wieder nein
+- No Go
+- Nein Danke
+- Ablehnen
+- verweigern
+- ich lehne ab
+- keine Ursache
+- keine Ursache
+- Ich gebe dir meine E-Mail-Adresse nicht
+- nein, ich habe mich noch nicht entschieden, ob ich mich anmelden möchte
+- Ich will es dir nicht geben
+- Ich werde es dir nicht geben
+- Nein, ich akzeptiere nicht
+- Nein!!!!
+- Nein, du hast es falsch gemacht
+- Nein, ich kann nicht
+- ich bin mir nicht sicher
 - NEIN
 - nein
-- not really
-- i guess it means - no
-- i don't want to
-- i don't want either of those
-- nah thanks
-- neither of these
+- nicht wirklich
+- Ich denke, es bedeutet - nein
+- Ich will nicht
+- Beides will ich nicht
+- nein danke
+- keines von denen
 
 ## intent:enter_data
 - 100k
@@ -1083,42 +1127,42 @@
 - 240k/year
 - 150,000 USD
 - 150,000$/ year
-- around $500,000 per year
-- we plan with 250.000 euro for one year
+- ungefähr $500,000 pro Jahr
+- wir plannen mit 250.000 euro für ein Jahr
 - bout 4,000,000 INR
 - 50,000,000 INR
 - 60 million INR
-- we think 4 million INR/ year
-- between 100 to 200.000
+- ich denke 4 million INR/ Jahr
+- zwischen 100 und 200.000
 - 50,000 dollar
-- not sure yet, we plan with 50 thousand euro at the moment
+- Ich bin mir noch nicht sicher, wir planen mit 50 thousand euro im moment
 - 75000-150000 euro
-- our estimation is 10k
-- I work for [Bayer](company)
-- The name of the company is [Daimler](company)
-- company: [uber](company)
-- it's a small company from the US, the name is [Microsoft](company)
-- it's a tech company, [apple](company)
+- Unsere Schätzung ist 10k
+- Ich arbeite für [Bayer](company)
+- Der Name des Unternehmens lautet [Daimler](company)
+- Firma: [uber](company)
+- Es ist eine kleine Firma aus den USA, der Name ist [Microsoft](company)
+- Es ist ein Tech-Unternehmen, [apple](company)
 - [microsoft](company)
 - [clue](company)
 - [SAP](company)
 - [IBM](company)
-- [t-mobile US](company)
+- [t-mobile](company)
 - [vodafone](company)
 - [accenture](company)
 - [McKinsey Germany](company)
 - [BCG brazil](company)
 - [BCG digital ventures](company)
-- I work for [Stanford University](company)
-- I work for the [AI research group of the turing centre of the UBC, Vancouver, Canada](company)
+- Ich arbeite für [Stanford University](company)
+- ich arbeite für [AI research group of the turing centre of the UBC, Vancouver, Canada](company)
 - maxmeier@firma.de
 - bot-fan@bots.com
 - maxmeier@firma.de
 - bot-fan@bots.com
-- my email is email@rasa.com
-- my email is markjobs@ibm.com
-- my email is khardik.kmosu@bol.net.in
-- my business mail is mikemiller@sales.apple.com
+- mein e-mail adresse ist email@rasa.com
+- meine Email ist markjobs@ibm.com
+- meine Email ist khardik.kmosu@bol.net.in
+- meine geschäftspost ist mikemiller@sales.apple.com
 - email = stephanywhite@microsoft.com
 - mail: julianfrank@hotmail.com
 - santaklaus@googlemail.com
@@ -1129,28 +1173,28 @@
 - chengming@aliyun.com
 - solomq122@qq.mail.com
 - [Product Manager](job_function)
-- I'm a [product manager](job_function)
-- I work as a [project manager](job_function)
-- I'm the [developer](job_function)
-- [data analyst](job_function)
-- [data scientist](job_function)
-- [dev](job_function)
-- [engineer](job_function)
+- Ich bin [product manager](job_function)
+- Ich arbeite als [project manager](job_function)
+- Ich bin der [Entwikler](job_function)
+- [daten Analyst](job_function)
+- [daten Wissenschaftler](job_function)
+- [developer](job_function)
+- [Ingenieur](job_function)
 - [brand manager](job_function)
 - [marketing](job_function)
-- [sales manager](job_function)
-- [growth manager](job_function)
+- [Verkaufs Manager](job_function)
+- [Wachstumsmanager](job_function)
 - [CTO](job_function)
 - [CEO](job_function)
 - [COO](job_function)
-- [assistant to the CEO](job_function)
-- I'm the [lead engineer](job_function)
-- I'm a [python developer](job_function)
-- I'm an [AI researcher](job_function)
+- [Assistent der Geschästsleitung](job_function)
+- ich bin der [Cheff Ingenier](job_function)
+- Ich bin [python Entwikler](job_function)
+- Ich bin an [AI Forscher](job_function)
 - [Max Meier](name)
-- My name is [Max Meier](name)
+- mein name ist [Max Meier](name)
 - [Ralph White](name)
-- I'm [Tom Miller](name)
+- ich bin [Tom Miller](name)
 - [Ann Snyder](name)
 - [Victoria McMillan](name)
 - [Denise Perry](name)
@@ -1159,286 +1203,286 @@
 - [Taylor Shwed](name)
 - [Meredith Grey](name)
 - [Alex Karev](name)
-- We plan to build a sales bot to increase our sales by 500%.
-- we plan to build a sales bot to increase our revenue by 100%.
-- a insurance tool that consults potential customers on the best life insurance to choose.
-- we're building a conversational assistant for our employees to book meeting rooms.
-- I work in [project management](job_function)
-- i'm a developer
-- my name is [linda](name)
-- I work in [innvoation](job_function)
-- my job function is [developer](job_function)
-- I am responsible for our [innovation department](job_function)
-- I work as a [frontend dev](job_function)
+- Wir planen, einen Verkaufs-Bot zu bauen, um unseren Umsatz um 500% zu steigern.
+- Wir planen, einen Verkaufs-Bot zu bauen, um unseren Umsatz um 100% zu steigern.
+- ein Versicherungstool, mit dem potenzielle Kunden die beste Lebensversicherung auswählen können.
+- Wir bauen einen Gesprächsassistenten für unsere Mitarbeiter auf, um Besprechungsräume zu buchen.
+- ich arbeite in [project verwaltung](job_function)
+- Ich bin ein Entwickler
+- mein name ist [linda](name)
+- Ich arbeite in [innvoation](job_function)
+- Meine berufliche funktion ist [Entwikler](job_function)
+- Ich bin verantwortlich für unsere [Innovationsabteilung](job_function)
+- ich bin von Beruf [Frontend-Entwickler](job_function)
 - [project manager](job_function)
-- I'm a [project manager](job_function)
-- I'm [project manager](job_function)
-- it's foo@bar.com
+- Ich bin [project manager](job_function)
+- Ich bin [project manager](job_function)
+- sie ist foo@bar.com
 - 10000000
 - [ACME Mops](company)
 - mrmop@mops.app
-- 5 bucks
-- I'm a [janitor](job_function)
-- My email is linda@linda.linda
-- I wanna build a bot that sends the people cute animal pictures based on their favorite color
-- I'm a [developer](job_function)
-- I want to build a cool bot
-- my emayl is yolo at yolo.de
+- 5 euro
+- Ich bin [Hausmeister](job_function)
+- Meine email ist linda@linda.linda
+- Ich möchte einen Bot bauen, der den Menschen süße Tierbilder in ihrer Lieblingsfarbe schickt
+- Ich bin ein [Entwikler](job_function)
+- Ich möchte einen coolen Bot bauen
+- mein emayl ist yolo bei yolo.de
 - [manager](job_function)
 - adele@gmx.com
-- my name is [marc](name)
-- one trillion dollar
-- I'm a [full stack developer](job_function:full stack developer)
+- Mein name ist [marc](name)
+- eine trillion dollar
+- Ich bin [full stack developer](job_function:full stack developer)
 - moabit@yoga.com
-- it's the [moabit yoga studio](company)
-- my name is [oli miller](name)
+- ist die [moabit yoga studio](company)
+- Mein name ist [oli miller](name)
 - 100000k
-- I'm in [project mgmt](job_function)
+- Ich bin [project mgmt](job_function)
 - 10000 dollars
 - 400 trilion
 - philipp@superphilipp.philipp
-- I'm in [business](job_function)
+- Ich bin in [business](job_function)
 - 5 mln
 - [Alex](name)
-- my name is [loretta meier](name)
-- I wanna build a super bot to send me cute animal pictures
+- Mein name ist [loretta meier](name)
+- Ich möchte einen Super-Bot bauen, um mir süße Tierbilder zu schicken
 - 10000k
-- [Developer](job_function:developer)
-- I want to build a sales bot
+- [Entwikler](job_function:Entwikler)
+- Ich möchte einen Verkaufs-Bot bauen
 - 50k
-- I want to build a bot
-- a chatbot for mops - mopbot
+- Ich möchte einen Bot bauen
+- Ein Chatbot für Mops - Mopbot
 - [Mr. Mop](name)
-- loretta@strawberry-ice.come because I work in the department for strawberry ice
-- the ice cream factory is the company
-- not sure yet
+- loretta@strawberry-ice.come weil ich in der Abteilung für Erdbeereis arbeite
+- Die Eisfabrik ist das Unternehmen
+- noch nicht sicher
 - 2 euro
 - [Philip](name)
 - [Bosch](company)
-- I want to build an FAQ bot
-- I'm a [python developer](job_function)
+- Ich möchte eine FAQ erstellen bot
+- ic bin [python Entwikler](job_function)
 - [Jim](name)
 - hello@hello.com
-- I want to build a lot of different bots
-- I'm a [machine learning engineer](job_function)
-- we don't have one
+- Ich möchte viele verschiedene Bots bauen
+- Ich bin ein [machine learning Ingenieur](job_function)
+- Wir haben keine
 - hi@rasa.com
 - [Helvetia](company)
 - [Jim Halpert](name)
-- I want to build a health insurance bot
-- I'm a [software engineer](job_function)
+- Ich möchte einen Krankenversicherungs-Bot bauen
+- Ich bin ein [software Ingenieur](job_function)
 - [John Smith](name)
 - [Jenny](name)
 - [douglas](company)
 - [klaus klausson](name)
 - 5 euros
-- i'd like to build a transformer
-- i'm a [race car driver](job_function)
+- Ich möchte einen Transformator bauen
+- Ich bin ein [Rennfahrer](job_function)
 - klausimausi@apple.com
 - ifuckrobots666@apple.com
-- my name is [saswat](name)
-- i am [self emplayed](job_function)
-- a sentient robot
+- mein name ist [saswat](name)
+- ich bin [Selbstständig](job_function)
+- ein empfindungsfähiger Roboter
 - [rasa](company)
-- i have none
-- one bot
+- ich habe keine
+- Ein Bot
 - akela@philipp.com
-- i want to build a bot
+- Ich möchte einen Bot bauen
 - oov
-- My budget is oov
-- My email is oov
-- oov per year
-- the name of the company is oov
-- I work for oov
+- Mein Budget ist oov
+- Meine E-Mail ist oov
+- oov pro Jahr
+- Der Name der Firma ist oov
+- Ich arbeite für oov
 - [Akela](name)
-- a health bot
+- Ein Gesundheits-Bot
 - help@help.com
-- i'm a [developer](job_function)
-- i want to build a health bot
+- ich bin [Entwikler](job_function)
+- Ich möchte einen Gesundheits-Bot bauen
 - 200k
-- My name is [Alex](name)
+- Mein name ist [Alex](name)
 - [Rasa](company)
 - test@test.com
 - 2000k
-- I'm [Akela](name)
-- i want to build all the bots
+- ich bin [Akela](name)
+- Ich möchte alle Bots bauen
 - 20k
-- i want to build bots
-- [developer](job_function)
-- a cool bot
-- [Developer Advocate](job_function)
+- Ich möchte Bots bauen
+- [Entwikler](job_function)
+- ein cooler bot
+- [Entwikler Fürsprecher](job_function)
 - [reddit](company)
-- a bot
+- ein bot
 - philipp@thephilippcompany.com
 - [philipp company](company)
 - [philipp](name)
-- i want to built a philipp bot
+- Ich möchte einen Philipp Bot bauen
 - joey@koolmanconsulting.com
-- one which asks me loads about myself
-- chief nerd at rasa technologies
+- Einer, der mich nach meiner Person fragt
+- Chef-Nerd bei Rasa Technologies
 - [Elise](name)
 - myemail@gmail.com
 - 123@skdv.fvsdj
-- i don't have one
-- have no idea
-- I do not know yet
+- Ich habe keine
+- keine Ahnung
+- Ich weiß es noch nicht
 - ulrikovitcheisenkleber@eisenkleberlimitedcokg.com
 - eisenkleber limited co kg
 - ulrikovitch eisenkleber
-- don't have one
+- Ich habe keine
 - [designer](job_function)
-- a pizza bot
-- operations
-- none i will build it from scraps
-- no idea
+- Ein Pizzabot
+- Operationen
+- Keine, ich werde es aus Trümmern bauen
+- keine Ahnung
 - [Vladimir](name)
-- around 200k
-- i want to build a bot about me
-- i'm a [dev](job_function)
-- i don't have it
-- i want to build an insurance bot
+- ungefär 200k
+- Ich möchte einen Bot über mich bauen
+- Ich bin ein [dev](job_function)
+- Ich habe es nicht
+- Ich möchte einen Versicherungs-Bot bauen
 - [product manager](job_function)
 - help@rasa.com email
 - [BBC](name)
-- i wanna build all the bots
-- i'm a [product manager](job_function)
+- Ich möchte alle Bots bauen
+- Ich bin ein [product manager](job_function)
 - [Freya](name)
-- 300k number
-- i work in [biz dev](job_function)
-- my email is kevin@yoloooz.de
+- 300k nummer
+- ich arbeite in [biz dev](job_function)
+- meine email ist kevin@yoloooz.de
 - [ceo](job_function)
-- a sales bot
+- Ein Verkaufs-Bot
 - 200000000
 - [linda](name)
 - linda@mail.com
-- none
-- i don't know
+- keiner
+- ich weiß es nicht
 - [Zendesk](company)
 - [Jacqueline](name)
 - 123@gmail.com
 - udo@udo.ai
 - hey@kldpeffesfoken.oinwf
-- Evaluate Rasa :-)
-- The master of desaster
-- [head of biz deve](job_function)
+- Rasa bewerten :-)
+- Der Meister der Katastrophe
+- [Leiter der Geschäftsentwicklung](job_function)
 - [Udo](name)
 - [Udo.AI](company)
-- maybe then instead alex+rasarasa@rasa.com
-- can you try alex+123@rasa.com instead?
+- vielleicht dann statt alex+rasarasa@rasa.com
+- kannst du alex+123@rasa.com versuchen?
 - linda@yoloyolo.de
 - [Linda](name)
-- problem solving
-- a chocolate bot
-- a good one?
-- elise
+- Probleme lösen
+- ein Schokoladenbot
+- ein guter?
+- Elise
 - elise@gmail.com
-- a customer service support system
-- one that flatters me every morning
-- I'm the boss
+- ein Kundendienst-Support-System
+- Einer, der mir jeden Morgen schmeichelt
+- Ich bin der Chef
 - 90k
 - Rasa bot
 - i'm [donezo](name)
-- my function is [to serve butter](job_function)
+- meine funktion ist [Butter servieren](job_function)
 - [wurst co kg](company)
 - [No company](company)!!
 - [I am a freelancer](company)
-- [Foudner](job_function)
+- [Gründer](job_function)
 - linda@linda.com
-- i'm in [customer success](job_function)
-- i'm [head of sales](job_function)
+- ich bin [Kunden untersützer](job_function)
+- ich bin [chef Verkäufer](job_function)
 - [linda's company](company)
-- a akela bot
-- i'm in [sales](job_function)
-- I work for the [New York Times](company)
-- the [New York Times](company)
+- Ein Akela Bot
+- ich bin dabei [Verkauf](job_function)
+- Ich arbeite für die [New York Times](company)
+- die [New York Times](company)
 - [Ali Park](name)
 - 1 million
-- I'm an [engineer](job_function)
-- it's [Ali Park](name)
+- Ich bin [ingenour](job_function)
+- es ist [Ali Park](name)
 - 2 million
 - ali@nytimes.com
-- I work for the [new york times](company)
-- I work at the [NYT](company)
-- there is no budget
-- i'm a [develope](job_function)
-- lead generation
+- Ich arbeite in [new york times](company)
+- Ich arbeite im [NYT](company)
+- Es gibt kein Budget
+- Ich bin ein [develope](job_function)
+- Lead-Generierung
 - 100000
-- im in [marketing](job_function)
+- ich bin in [marketing](job_function)
 - linda@rasa.ai
 - yesplease@yes.com
 - SCALABLE MINDS (company)
 - My name is [Tom](name)
 - 500k
-- I would like to build an ice cube dispenser bot
-- I'm a [business woman](job_function)
+- Ich möchte einen Eiswürfelspender bauen
+- Ich bin ein [Geschäftsfrau](job_function)
 - 0
-- im a [developer](job_function)
-- a great one
-- one that will get me promoted
-- conversational
+- ich bin [Entwiklerin](job_function)
+- Ein großartiger
+- Eine, die mich befördert
+- Konversation
 -  propella@daskapital.de
 - [Bolschewistische Kurkapelle Schwarz-Rot](company)
 - [akela propella](name)
 - schlabberjimmy@glibberglitter.edu
-- i'm a glibber and glitter salesman
+- Ich bin ein Glibber- und Glitzer-Verkäufer
 - schnuffelknuddelbaerchen33@rasa.de
-- i have about 200 bucks in my savings account
-- None
-- 200 bucks
-- i'd like to build sentient glibber or glitter
+- Ich habe ungefähr 200 Dollar auf meinem Sparkonto
+- Keiner
+- 200 Dollar
+- Ich möchte ein fühlendes Gluckern oder Glitzern erzeugen
 - bigassnerd@rasa.com
 - [sam](name)
-- like 60 quid
-- nothing
+- wie 60 Pfund
+- nichts
 - tamedmouse@micerevolution.fr
 - volodimir@rasa.com
 - [volodimir voldemarich](name)
 - idk
-- the bot that helps you choose insurance for the car ;)
-- [ml researcher](job_function)
+- der Bot, der dir bei der Auswahl der Versicherung für das Auto hilft;)
+- [ml Forscher](job_function)
 - junk@junk.com
 - j@p.com
-- i don't think either of those
-- ok I'm actually an [engineer](job_function)
+- Daran denke ich auch nicht
+- ok ich bin eigentlich ein [engineer](job_function)
 - al@acme.org
 - [ACME brands](company)
 - [Al Capone](name)
 - £50k
-- the bot should help with HR stuff
-- I'm a bot [developer](job_function)
+- Der Bot sollte mit HR-Sachen helfen
+- Ich bin ein Bot [Entwiklerin](job_function)
 - none@none.co.uk
 - [Juste P](name)
 - 50
-- I am a [Data Scientist](job_function)
-- I am a [head of business intelligence](job_function)
-- my own
+- Ich bin ein [Daten Forscher](job_function)
+- Ich bin ein [Leiter Business Intelligence](job_function)
+- mein eigenes
 - $1
 - juste@juste.com
 - [Juste](name)
 - 1 euro
-- a bot which sends cute shiba pictures
-- [developer advocate](job_function)
+- Ein Bot, der niedliche Shiba-Bilder sendet
+- [Entwikler Anwalt](job_function)
 - shiba@shiba.com
 - tylerthemateman@clubmate.com
 - [Tyler](company)
-- I'm a [construction worker](job_function)
-- I want to build a kick ass bot
-- 1 million big ones
+- Ich binn [Konstruktour](job_function)
+- Ich möchte einen Arschtritt-Bot bauen
+- 1 Million große
 - [Club Mate](company)
 - me@me.com
 - herbert@gmail.com
 - Herbert
 - 10 m
-- chief lemonade officer
-- a cool boy
-- an ice cream bot
+- Chief Limonade Officer
+- Ein cooler Junge
+- ein Eiskrem-Bot
 - 500 million
 - my name is [jimmy](name)
 - half a million
 - it's [akela](name)
 - [AI researcher](job_function)
-- a big ol transformer
-- big old bot
+- Ein großer alter Transformator
+- Großer alter Bot
 - hi@elise.de
 - ulle@gmx.de
 - [CSI](company)
@@ -1449,71 +1493,71 @@
 - akela@akela.com
 - akela's company
 - [akela](name)
-- one billion
-- an akela bot that I can talk to akela all the time
-- i'm in [marketing](job_function)
+- eine billion
+- Ein Akela-Bot, mit dem ich die ganze Zeit sprechen kann
+- ich bin dabei [marketing](job_function)
 - ACME bank (company)
 - [Alan](name)
-- about 10 k
-- i want a great bot to impress my boss
-- one like this
-- badass bot tester
-- a bot to get a promotion
-- im a [dev](job_function)
+- ungefähr 10 k
+- Ich möchte, dass ein großartiger Bot meinen Chef beeindruckt
+- so einer
+- Badass Bot Tester
+- Ein Bot, um eine Beförderung zu bekommen
+- Ich bin ein wirklich guter [dev](job_function)
 - 10
-- I'm a real good [engineer](job_function)
+- Ich bin wirklich guter [engineer](job_function)
 - [James](name)
 - ames@rasa.com
 - valid_email@one.de
 - valid@one.email
-- unemployed
-- on that will get me promoted
-- I spend money
+- arbeitslos
+- Darauf werde ich befördert
+- Ich gebe Geld aus
 - it's 500000000
-- A wolf bot
+- ein wolf bot
 - [akilla](name)
-- a turtle
-- i sell turtles
+- eine Schildkröte
+- Ich verkaufe Schildkröten
 - 123@akela.com
-- An ice cube bot
-- jimmy neutron industries
-- ok its email@email.com
-- Im a [full stack developer](job_function)
+- Ein Eiswürfelbot
+- Jimmy Neutron Industries
+- ok ist email@email.com
+- Iich bin [Full-Stack-Entwickler](job_function)
 - akelaistcool@schwabenländle.de
-- spam bot
-- the bot like you
-- picking my nose
-- im a [freelancer](job_function)
-- health care
-- something to talk to my friends while I'm busy working
-- my bot is in [english](language)
-- the language is [english](language)
-- it’s in [english](language)
-- [english](language)
-- [english](language) is the language of my bot
-- it speaks [english](language)
-- I wrote it in [english](language)
-- it’s an [english](language) bot
-- it is in [english](language)
-- user can talk to my bot in [english](language)
-- the people speak [english](language)
-- user can communicate with the bot in [english](language)
-- the assistant is in [english](language)
-- the language of the ai assistant is [english](language)
-- the bot speaks [english](language)
-- the assistant speaks [english](language)
-- it’s available in [english](language)
-- until now it’s only in [english](language)
-- so far it only speaks [english](language)
-- [english](language) is the only language but I want to add more
-- it’s only in [english](language) but I plan to train it in other languages
-- language: [english](language)
-- language = [english](language)
-- its an [english](language) bot
-- I’ve trained it in [english](language)
-- all the training data was in [english](language)
-- it’s trained in [english](language)
-- it’s trained only in [english](language)
+- Spam-Bot
+- Der Bot wie du
+- Meine Nase pflücken
+- Ich bin ein [Freiberufler](job_function)
+- Gesundheitswesen
+- etwas, um mit meinen Freunden zu reden, während ich beschäftigt bin zu arbeiten
+- Mein Bot ist in [german](language)
+- Die Sprache ist [german](language)
+- ist in [german](language)
+- [german](language)
+- [german](language) ist die Sprache meines Bots
+- er spricht [german](language)
+- Ich habe es geschrieben [german](language)
+- es ist ein [german](language) bot
+- es ist in [german](language)
+- Benutzer kann mit meinem Bot in [greman](language) sprechen
+- die Leute sprechen [german](language)
+- Benutzer kann mit dem Bot in [german](language) kommunizieren
+- Der Assistent ist in [german](language)
+- Die Sprache des Assistenten ist [german](language)
+- der bot spricht in [german](language)
+- the assistant speaks [german](language)
+- es ist in [german](language) vefügbar
+- Bis jetzt ist es nur in [german](language)
+- Bisher spricht er nur [german](language)
+- [german](language) ist die einzige Sprache, aber ich möchte mehr hinzufügen
+- es ist nur in [german](language) aber ich habe vor, ihn in anderen Sprachen zu trainieren
+- Sprache: [german](language)
+- Sprache = [german](language)
+- es ist ein [german](language) bot
+- Ich bin trainiert in [german](language)
+- Alle Trainingsdaten wurden trainiert in [deutsch](language)
+- Es ist trainiert in [deutsch](language)
+- Es ist nur trainiert in [deutsch](language)
 - my bot is in [german](language)
 - the language is [german](language)
 - it’s in [german](language)
@@ -2678,3 +2722,4 @@
 - Europe
 - Canada
 - Ukraine
+
