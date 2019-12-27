@@ -6,7 +6,7 @@ pipeline:
   OOV_token: oov
   token_pattern: (?u)\b\w+\b
 - name: CountVectorsFeaturizer
-  analyzer: "char_wb"
+  analyzer: char_wb
   min_ngram: 1
   max_ngram: 4
 - name: EmbeddingIntentClassifier
@@ -19,7 +19,6 @@ pipeline:
   - number
   - amount-of-money
 - name: EntitySynonymMapper
-
 policies:
 - epochs: 50
   max_history: 6

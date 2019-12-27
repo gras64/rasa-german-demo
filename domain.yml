@@ -136,6 +136,17 @@ intents:
 - ask_whatismyname
 - ask_builder
 - ask_whoisit
+- get_started_step2
+- rasa_cost
+- source_code
+- get_started_step1
+- get_started_step4
+- ask_faq_tutorialnlu
+- ask_faq_tutorialcore
+- get_started_step3
+- nicetomeeyou
+- handleinsult
+- telljoke
 entities:
 - amount-of-money
 - company
@@ -155,7 +166,73 @@ entities:
 - undefined
 - package_manager
 slots:
+  budget:
+    type: unfeaturized
+  business_email:
+    type: unfeaturized
+  can_use_spacy:
+    type: bool
+  company:
+    type: unfeaturized
+  current_api:
+    type: categorical
+    values:
+    - dialogflow
+    - luis
+  email:
+    type: unfeaturized
+  entity_extractor:
+    type: categorical
+    values:
+    - crfentityextractor
+    - spacyentityextractor
+    - ducklinghttpextractor
+  feedback_message:
+    type: unfeaturized
   feedback_value:
+    type: categorical
+    values:
+    - positive
+    - negative
+  job_function:
+    type: unfeaturized
+  language:
+    type: unfeaturized
+  name:
+    type: text
+  new_to_python:
+    type: bool
+  nlu_part:
+    type: categorical
+    values:
+    - entity recognition
+    - intent classification
+    - duckling
+  onboarding:
+    type: bool
+  person_name:
+    type: unfeaturized
+  problem_description:
+    type: text
+  product:
+    type: categorical
+    values:
+    - core
+    - nlu
+    - x
+    - rasa
+    - all
+  shown_privacy:
+    type: unfeaturized
+  step:
+    type: unfeaturized
+  suggestion:
+    type: unfeaturized
+  unknown_nlu_part:
+    type: unfeaturized
+  unknown_product:
+    type: unfeaturized
+  use_case:
     type: unfeaturized
 templates:
   utter_already_subscribed:
@@ -889,3 +966,13 @@ actions:
 - utter_thank_suggestion
 - utter_what_language
 - utter_x_tutorial
+- action_store_entity_extractor
+- action_store_unknown_nlu_part
+- action_get_community_events
+- action_faqs
+- action_set_onboarding
+- action_explain_sales_form
+- action_store_problem_description
+- action_store_bot_language
+- action_next_step
+- action_store_unknown_product
