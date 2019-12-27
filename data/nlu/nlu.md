@@ -1558,83 +1558,83 @@
 - Alle Trainingsdaten wurden trainiert in [deutsch](language)
 - Es ist trainiert in [deutsch](language)
 - Es ist nur trainiert in [deutsch](language)
-- my bot is in [german](language)
-- the language is [german](language)
-- it’s in [german](language)
+- Mein Bot ist in [german](language)
+- Die Sprache ist [german](language)
+- es ist in [german](language)
 - [german](language)
-- [german](language) is the language of my bot
-- it speaks [german](language)
-- I wrote it in [german](language)
-- it’s an [german](language) bot
-- it is in [german](language)
-- user can talk to my bot in [german](language)
-- the people speak [german](language)
-- user can communicate with the bot in [german](language)
-- the assistant is in [german](language)
-- the language of the ai assistant is [german](language)
-- the bot speaks [german](language)
-- the assistant speaks [german](language)
-- it’s available in [german](language)
-- until now it’s only in [german](language)
-- so far it only speaks [german](language)
-- [german](language) is the only language but I want to add more
-- it’s only in [german](language) but I plan to train it in other languages
-- language: [german](language)
-- language = [german](language)
-- its an [german](language) bot
-- I’ve trained it in [german](language)
-- all the training data was in [german](language)
-- it’s trained in [german](language)
-- it’s trained only in [german](language)
-- my bot is in [spanish](language)
-- the language is [spanish](language)
-- it’s in [spanish](language)
+- [german](language) ist die Sprache meines Bots
+- ich spreche [german](language)
+- Ich bin in [german](language) geschrieben
+- es ist ein [german](language) bot
+- es ist in [german](language)
+- Benutzer kann mit meinem Bot in [german](language) sprechen
+- Die menschen können mit mir in [german](language)
+- Benutzer kann mit dem Bot in [german](language) kommunizieren
+- Der Assistent ist in [german](language)
+- Die sprache des ai assistenten ist [german](language)
+- Der bot spricht [german](language)
+- Die Assistentin spricht [german](language)
+- Es ist verfügbar in [german](language)
+- bis jetzt ist es nur in [german](language)
+- Bisher spricht es nur [german](language)
+- [german](language) ist die einzige Sprache, aber ich möchte mehr hinzufügen
+- Es ist nur in [german](language) aber ich habe vor, es in anderen Sprachen zu trainieren
+- Sprache: [german](language)
+- Sprache = [german](language)
+- Es ist ein [german](language) bot
+- Ich habe es trainiert [german](language)
+- Alle Trainingsdaten waren in [german](language)
+- ich denke nur deutsch [german](language)
+- es wird nur in [german](language)
+- Mein Bot ist in [spanish](language)
+- Die sprache ist [spanish](language)
+- Es ist in [spanish](language)
 - [spanish](language)
-- [spanish](language) is the language of my bot
-- it speaks [spanish](language)
-- I wrote it in [spanish](language)
-- it’s an [spanish](language) bot
-- it is in [spanish](language)
-- user can talk to my bot in [spanish](language)
-- the people speak [spanish](language)
-- user can communicate with the bot in [spanish](language)
-- the assistant is in [spanish](language)
-- the language of the ai assistant is [spanish](language)
-- the bot speaks [spanish](language)
-- the assistant speaks [spanish](language)
-- it’s available in [spanish](language)
-- until now it’s only in [spanish](language)
-- so far it only speaks [spanish](language)
-- [spanish](language) is the only language but I want to add more
-- it’s only in [spanish](language) but I plan to train it in other languages
-- language: [spanish](language)
-- language = [spanish](language)
-- its an [spanish](language) bot
-- I’ve trained it in [spanish](language)
-- all the training data was in [spanish](language)
-- it’s trained in [spanish](language)
-- it’s trained only in [spanish](language)
-- my bot is in [portuguese](language)
-- the language is [portuguese](language)
-- it’s in [portuguese](language)
+- [spanish](language) ist die Sprache meines Bots
+- ich spreche [spanish](language)
+- Ich habe es geschrieben [spanish](language)
+- Es ist ein [spanish](language) bot
+- Es ist in [spanish](language)
+- Benutzer kann mit meinem Bot in [spanish](language) sprechen
+- Die Leute sprechen [spanish](language)
+- Benutzer kann mit dem Bot in [spanish](language) kommunizieren
+- Der Assistent ist in [spanish](language)
+- Die sprache des ai assistenten ist [spanish](language)
+- Der bot spricht [spanish](language)
+- Die Assistentin spricht [spanish](language)
+- Es ist verfügbar in [spanish](language)
+- Bis jetzt ist es nur in [spanish](language)
+- Bisher spricht es nur [spanish](language)
+- [spanish](language) ist die einzige Sprache, aber ich möchte mehr hinzufügen
+- Es ist nur in [spanish](language) aber ich habe vor, es in anderen Sprachen zu trainieren
+- Sprache: [spanish](language)
+- Sprache = [spanish](language)
+- Es ist ein [spanish](language) bot
+- Ich habe es trainiert in [spanish](language)
+- Alle Trainingsdaten waren in [spanish](language)
+- Es ist trainiert in [spanish](language)
+- Es wird nur in [spanish](language)
+- Mein Bot ist in [portuguese](language)
+- Die sprache ist [portuguese](language)
+- Es ist in [portuguese](language)
 - [portuguese](language)
-- [portuguese](language) is the language of my bot
-- it speaks [portuguese](language)
-- I wrote it in [portuguese](language)
-- it’s an [portuguese](language) bot
-- it is in [portuguese](language)
-- user can talk to my bot in [portuguese](language)
-- the people speak [portuguese](language)
-- user can communicate with the bot in [portuguese](language)
-- the assistant is in [portuguese](language)
-- the language of the ai assistant is [portuguese](language)
-- the bot speaks [portuguese](language)
-- the assistant speaks [portuguese](language)
-- it’s available in [portuguese](language)
-- until now it’s only in [portuguese](language)
-- so far it only speaks [portuguese](language)
-- [portuguese](language) is the only language but I want to add more
-- it’s only in [portuguese](language) but I plan to train it in other languages
+- [portuguese](language) ist die Sprache meines Bots
+- ich spreche [portuguese](language)
+- Ich habe es in [portuguese](language) geschreiben
+- es ist ein [portuguese](language) bot
+- es ist in [portuguese](language)
+- Benutzer kann mit meinem Bot in [portuguese](language) sprechen
+- Die Leute sprechen [portuguese](language)
+- Benutzer kann mit dem Bot in [portuguese](language) kommunizieren
+- Der Assistent ist in [portuguese](language)
+- Die Sprache des ai assistenten ist [portuguese](language)
+- Die Assistentin spricht [portuguese](language)
+- Der Assistent spricht [portuguese](language)
+- Es ist verfügbar in [portuguese](language)
+- bis jetzt ist es nur in [portuguese](language)
+- Bisher spricht er nur [portuguese](language)
+- [portuguese](language) ist die einzige Sprache, aber ich möchte mehr hinzufügen
+- it’s only in [portuguese](language) aber ich habe vor, es in anderen Sprachen zu trainieren
 - language: [portuguese](language)
 - language = [portuguese](language)
 - its an [portuguese](language) bot
@@ -1806,687 +1806,688 @@
 - [pip](package_manager) please
 
 ## intent:greet
-- Hi
-- Hey
-- Hi bot
-- Hey bot
-- Hello
-- Good morning
-- hi again
-- hi folks
-- hi Mister
-- hi pal!
-- hi there
-- greetings
-- hello everybody
-- hello is anybody there
-- hello robot
-- hallo
-- heeey
-- hi hi
-- hey
-- hey hey
-- hello there
-- hi
-- hello
-- yo
-- hola
-- hi?
-- hey bot!
-- hello friend
-- good morning
-- hii
-- hello sweet boy
-- yoo
-- hey there
-- hiihihi
-- hello sweatheart
-- hellooo
-- helloooo
-- heyo
-- ayyyy whaddup
-- hello?
 - Hallo
-- heya
-- hey bot
-- howdy
-- Hellllooooooo
-- whats up
-- Hei
-- Well hello there ;)
-- I said, helllllloooooO!!!!
-- Heya
-- Whats up my bot
-- hiii
-- heyho
-- hey, let's talk
-- hey let's talk
-- jojojo
-- hey dude
-- hello it is me again
-- what up
-- hi there
+- Hallo du
+- Hallo Bot
+- Hey Bot
+- Hallo Junge
+- Guten Morgen
+- Hallo nochmal
+- Hallo Leute
+- Hallo Herr
+- Hi, Kumpel!
+- Hallo
+- Schöne Grüße
+- Hallo zusammen
+- Hallo ist da jemand
+- Hallo Roboter
+- Hallole
+- Hey
+- hi hi
+- Hallodio
+- Hey, hey
+- Hallo
 - hi
+- Hallö
+- yo
+- Hallo süße
+- Hallo?
+- Hey Bot!
+- Hallo Freund
+- guten Morgen
+- Hallo ich
+- Hallo süßer Junge
+- Ja
+- Sie da
+- Hiihihi
+- Hallo Schatz
+- Hallo
+- verdammt
+- Heyo
+- ayyyy whaddup
+- Hallo?
+- Hallo
+- Heya
+- Hey Bot
+- Hallöle
+- Hellllooooooo
+- wie geht's
+- Hei
+- Na hallo da;)
+- Ich sagte, helllllloooooO !!!!
+- Heya
+- Was ist los, mein Bot?
+- hiii
+- Heyho
+- Hey, lass uns reden
+- Hey, lass uns reden
+- Jojojo
+- Hey Mann
+- Hallo, ich bin es wieder
+- was geht
+- guten Tag
+- Hallo
 - jop
-- hi friend
-- hi there it's me
-- good evening
-- good morning
-- good afternoon
+- Hallo Freund
+- Hallo, ich bin es
+- guten Abend
+- guten Morgen
+- guten Nachmittag
 
 ## intent:human_handoff
-- I want to talk to a human
-- let me speak with a real person please
-- are there also humans working for your company?
-- gimme a proper human
-- I don't wanna talk to a bot
-- Can I speak to anyone who can really help me?
-- I dont like to talk to a machine
-- can you please connect me to a real rasa employee?
-- give me a human now
-- that's annoying I'd like to speak to someone real
-- i would like to speak to a person
-- can you put me in touch with a human?
-- let me talk to a human
-- id like to talk to a real rasa employee
-- i dont wanna talk to a bot
-- talking to a bot is stupid
-- i want to talk to someone who is smarter than you
-- can i please speak to a human?
-- i'd rather speak with a real rasa employee
-- i want to talk to someone else
-- let me talk to a real person
-- please give me a human
-- i want to talk to a person
-- customer service
-- i want to speak to customer service
-- someone from customer care
-- can you forward me to your team
-- service agent
-- human handoff
-- give me a human
-- speak to a real person
-- i want to speak to a real person
-- wrong i want to speak to a human
-- Could I talk to Akela?
-- i want to talk to someone at rasa
-- i want to speak to a manager
-- I want to talk to the founders
-- i want to talk to a human
-- i'm not sure how to run a command
-- yeah, my pip is throwing me some weird error
-- i have an issue with permissions
+- Ich möchte mit einem Menschen sprechen
+- Lass mich bitte mit einer echten Person sprechen
+- Gibt es auch Menschen, die für Ihr Unternehmen arbeiten?
+- Gib mir einen richtigen Menschen
+- Ich möchte nicht mit einem Bot sprechen
+- Kann ich mit jemandem sprechen, der mir wirklich helfen kann?
+- Ich rede nicht gern mit einer Maschine
+- Können Sie mich bitte mit einem echten rasa-Mitarbeiter verbinden?
+- Gib mir jetzt einen Menschen
+- Das ist ärgerlich. Ich möchte mit jemandem sprechen, der echt ist
+- Ich möchte mit einer Person sprechen
+- Kannst du mich mit einem Menschen in Kontakt bringen?
+- Lass mich mit einem Menschen reden
+- Ich würde gerne mit einem echten rasa-Mitarbeiter sprechen
+- Ich möchte nicht mit einem Bot sprechen
+- mit einem bot zu reden ist dumm
+- Ich möchte mit jemandem sprechen, der schlauer ist als Sie
+- Kann ich bitte mit einem Menschen sprechen?
+- Ich würde lieber mit einem echten rasa-Mitarbeiter sprechen
+- Ich möchte mit jemand anderem sprechen
+- Lass mich mit einer realen Person sprechen
+- Bitte gib mir einen Menschen
+- Ich möchte mit einer Person sprechen
+- Kundendienst
+- Ich möchte mit dem Kundenservice sprechen
+- jemand aus der Kundenbetreuung
+- Kannst du mich an dein Team weiterleiten?
+- Serviceagent
+- menschliche Übergabe
+- Gib mir einen Menschen
+- mit einer realen Person sprechen
+- Ich möchte mit einer realen Person sprechen
+- Falsch, ich möchte mit einem Menschen sprechen
+- Könnte ich mit Akela sprechen?
+- Ich möchte mit jemandem bei Rasa sprechen
+- Ich möchte mit einem Manager sprechen
+- Ich möchte mit den Gründern sprechen
+- Ich möchte mit einem Menschen sprechen
+- Ich bin mir nicht sicher, wie ich einen Befehl ausführen soll
+- Ja, mein Pip wirft mir einen seltsamen Fehler
+- Ich habe ein Problem mit Berechtigungen
 
 ## intent:affirm
-- yes
-- of course
-- sure
-- yeah
+- Ja
+- Na sicher
+- sicher
+- Jawoll
 - ok
 - cool
-- go for it
-- yep
-- yep, will do thank you
-- I'm sure I will!
-- oh awesome!
-- Yes
-- accept
-- I accept
-- i accept
-- ok i accept
-- I changed my mind. I want to accept it
-- ok cool
-- alright
-- i will!
-- ok, I behave now
-- yop
-- oki doki
-- yes please
-- yes please!
-- jo
-- yep if i have to
+- Ja natürlich
+- Ja, ich werde es Ihnen danken
+- Ich bin mir sicher ich werde!
+- Oh toll!
+- natürlich
+- akzeptieren
+- Ich nehme an
+- ich nehme an
+- Okay, ich akzeptiere
+- Ich habe meine Meinung geändert. Ich möchte es akzeptieren
+- OK Cool
+- in Ordung
+- ich werde!
+- Ok, ich benehme mich jetzt
+- Hoppla
+- alles klar
+- ja bitte
+- ja bitte!
+- Jo
+- Ja, wenn ich muss
 - amayzing
-- confirm
-- nice
+- bestätigen
+- nett
 - coolio
-- definitely yes without a doubt
-- yas
-- yup
-- perfect
-- sure thing
-- absolutely
-- Oh, ok
-- Sure
-- hm, i'd like that
-- ja
-- sure!
-- yes i accept
-- Sweet
-- amazing!
-- how nice!
-- cool!
-- yay
-- yes accept please
-- great
-- oh cool
+- Auf jeden Fall ja ohne Zweifel
 - yes
-- fine
+- Jep
+- perfekt
+- sichere Sache
+- absolut
+- Oh ok
+- Sicher
+- Hm, das würde mir gefallen
+- ja
+- sicher!
+- ja, ich akzeptiere
+- Süss
+- tolle!
+- wie schön!
+- cool!
+- Yay
+- ja bitte annehmen
+- toll
+- Oh cool
+- Ja
+- gut
 
 ## intent:out_of_scope
-- please help with my ice cream it's dripping
-- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
-- i want a non dripping ice cream
-- hey little mama let em whisper in your ear
-- someone call the police i think the bot died
-- show me a picture of a chicken
-- neither
-- I want french cuisine
-- i am hungry
-- restaurant
-- you're a loser lmao
-- can i be shown a gluten free restaurant
-- i don't care!!!!
-- i do not care how are you
-- again?
-- oh wait i gave you my work email address can i change it?
-- hang on let me find it
-- stop it, i do not care!!!
-- really? you're so touchy?
-- how come?
-- I changed my mind
-- what?
-- did i break you
-- I don't wanna tell the name of my company
-- that link doesn't work!
-- you already have that
-- this is a really frustrating experience
-- no stop
-- shit bot
-- do you want to marry me?
-- give me food
-- i want food
-- udo, I want to marry you
-- i wanna party
-- shitmuncher
-- I like you
-- i want pizza
-- i want pizza!!
-- silly bot
-- i want to eat
-- you are a stupid bot
-- i hate you
-- Can I ask you questions first?
-- is it a wasteland full of broken robot parts?
-- i can't deal with _your_ request
-- are you vegan
-- who will anser my email?
-- do you sell vacuum robots?
-- i want to buy a roomba for my grandson
-- and make chicken noises into the phone
-- is barbara still married to you
-- what's your wife doing this weekend
-- how are the kids
-- you're rather dull
-- personal or work?
-- are you using Rasa Core and NLU ?
-- tell me a joke
-- what else?
-- I already told you! I'm a shitmuncher
-- I'm a shitmuncher
-- who are the engineers at rasa?
-- who are they?
-- can we keep chatting?
-- talk to me
-- who is your favourite robot?
-- a tamed mouse will arrive at your doorstep in the next couple of days
-- you will know it from the single red rose it carries between its teeth
-- i will tame a mouse for you
-- isn't the newsletter just spam?
-- go back
-- can you help me with the docs?
-- sorry, i cannot rephrase
-- and your REST API doesn't work
-- i told you already
-- better than you
-- oh my god, not again!
-- you are a badass bot!
+- Bitte helfe mir mit meinem Eis, es tropft
+- keine wartezeit zurück ich möchte ein tropfendes eis, aber einen kegel, der es auffängt, damit du das eis später trinken kannst
+- Ich möchte ein nicht tropfendes Eis
+- Hey kleine Mama, lass es dir ins Ohr flüstern
+- Jemand ruft die Polizei, ich glaube der Bot ist gestorben
+- Zeige mir ein Bild von einem Huhn
+- weder
+- Ich möchte französische Küche
+- Ich bin hungrig
+- Restaurant
+- Du bist ein Lmao-Verlierer
+- Kann mir ein glutenfreies Restaurant gezeigt werden?
+- Es ist mir egal !!!!
+- Es ist mir egal, wie es dir geht
+- nochmal?
+- Oh, warte, ich gab dir meine Arbeits-E-Mail-Adresse. Kann ich sie ändern?
+- Warte, lass es mich finden
+- Hör auf, es ist mir egal !!!
+- Ja wirklich? du bist so empfindlich
+- Woher?
+- Ich habe meine Meinung geändert
+- was?
+- Habe ich dich gebrochen?
+- Ich möchte nicht den Namen meiner Firma nennen
+- Dieser Link funktioniert nicht!
+- Das hast du schon
+- Das ist eine wirklich frustrierende Erfahrung
+- kein Halt
+- Scheiß Bot
+- willst du mich heiraten?
+- gib mir Essen
+- Ich will Essen
+- Udo, ich will dich heiraten
+- Ich will feiern
+- Shitmuncher
+- Ich mag dich
+- Ich will Pizza
+- Ich will Pizza!!
+- alberner Bot
+- ich will essen
+- Du bist ein dummer Bot
+- ich hasse dich
+- ich hasse dich
+- Kann ich dir zuerst Fragen stellen?
+- Ist es ein Ödland voller zerbrochener Roboterteile?
+- Ich kann Ihre Anfrage nicht bearbeiten
+- Bist du Veganer?
+- wer wird meine email anser?
+- Verkaufen Sie Vakuumroboter?
+- Ich möchte einen Roomba für meinen Enkel kaufen
+- und Hühnergeräusche ins Telefon machen
+- Ist Barbara noch mit dir verheiratet?
+- Was macht deine Frau an diesem Wochenende?
+- wie sind die Kinder
+- Du bist ziemlich langweilig
+- persönlich oder beruflich?
+- Verwenden Sie Rasa Core und NLU?
+- Erzähl mir einen Witz
+- was sonst?
+- Ich habe es dir schon gesagt! Ich bin ein Scheißkerl
+- Ich bin ein Scheißkerl
+- wer sind die ingenieure bei rasa?
+- Wer sind Sie?
+- Können wir weiter plaudern?
+- sprich mit mir
+- Wer ist dein Lieblingsroboter?
+- Eine gezähmte Maus wird in den nächsten Tagen vor Ihrer Haustür eintreffen
+- Sie werden es an der einzelnen roten Rose erkennen, die es zwischen den Zähnen trägt
+- Ich werde eine Maus für Sie zähmen
+- Ist der Newsletter nicht nur Spam?
+- geh zurück
+- Kannst du mir mit den Dokumenten helfen?
+- Entschuldigung, ich kann nicht umformulieren
+- und Ihre REST-API funktioniert nicht
+- ich sagte dir bereits
+- besser als du
+- Oh mein Gott, nicht schon wieder!
+- Du bist ein Badass Bot!
 - lol
-- why do you need that?
-- is that any of your business
-- can you help me with your docs?
-- i immediately need help with implementing the coolest bot you can imagine
-- can you help me with your docs
-- can you tell me how to build a bot?
-- can you learn from our conversation?
-- common, just try
-- hey, I contacted you a couple of days ago but didn't get any response, any news?
-- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
-- you are annoying
-- Do I have to accept?
-- Is Rasa really smart?
+- warum brauchst du das
+- Geht Sie das etwas an?
+- Können Sie mir bei Ihren Unterlagen helfen?
+- Ich brauche sofort Hilfe bei der Implementierung des coolsten Bot, den Sie sich vorstellen können
+- Können Sie mir bei Ihren Unterlagen helfen?
+- Kannst du mir sagen, wie man einen Bot baut?
+- Kannst du aus unserem Gespräch lernen?
+- üblich, versuche es einfach
+- Hey, ich habe dich vor ein paar Tagen kontaktiert, aber keine Antwort bekommen, irgendwelche Neuigkeiten?
+- Bitte beeile dich, ich habe eine Frist von zwei Wochen, um den Bot zu liefern, der für eine sehr große Firma bestimmt ist
+- Sie sind lästig
+- Muss ich akzeptieren?
+- Ist Rasa wirklich schlau?
 - kannst du auch deutsch?
-- are the newsletter worth the subscription?
-- it's a pity
-- i want more of you in my life!
-- the one that is better than you
-- you suck
-- bots are bad
-- i dont like bots
- - do you have a phone number?
-- where do you live?
-- how are akela's cats doing?
-- but I just told you that :(
-- Why don’t you answer?
-- But you're an english site :(
-- can you help me to build a bot
+- ist der Newsletter das Abonnement wert?
+- es ist ein Jammer
+- Ich will mehr von dir in meinem Leben!
+- Derjenige, der besser ist als du
+- du gehtst mir auf die Nerven
+- Bots sind schlecht
+- Ich mag keine Bots
+- Hast Du eine Telefonnummer?
+- wo lebst du?
+- Wie geht es Akelas Katzen?
+- aber ich habe dir gerade gesagt, dass :(
+- Warum antwortest du nicht?
+- Aber du bist eine englische Seite :(
+- Kannst du mir helfen, einen Bot zu bauen?
 
 ## intent:signup_newsletter
-- I wanna sign up for the newsletter.
-- I want to sign up for the newsletter.
-- I would like to sign up for the newsletter.
-- Sign me up for the newsletter.
-- Sign up.
-- Newsletter please.
-- add me to the newsletter
-- newsletter
-- sign up for the NL
-- yeaaah lets go for the newsletter
-- I want to subscribe to your newsletter
-- newsletter pls
-- sign up to the newsletter
-- get the latest news from Rasa
-- sign me up for the newsletter - my email is yesplease@rasa.ai
-- newsletter, here is my email: sisi@rasa.com
-- newsletter - my email is lol@rasa.com
-- Subscribe to Rasa newsletter
+- Ich möchte mich für den Newsletter anmelden.
+- Ich möchte für den Newsletter anmelden.
+- Ich möchte mich für den Newsletter eintragen.
+- Melde mich für den Newsletter an.
+- Anmelden.
+- Newsletter bitte.
+- mich zum Newsletter hinzufügen
 - Newsletter
-- subscribe
-- get the newsletter
-- I also want to subscribe
-- id like to subscribe
-- I'd like to subscribe
-- I want the newsletter
-- sign up
-- i want to signup
-- newsletter please
+- Melde dich für die NL an
+- yeaaah lass uns für den Newsletter gehen
+- Ich möchte Ihren Newsletter abonnieren
+- newsletter pls
+- Meldest du mich für den Newsletter an
+- Erhalten Sie die neuesten Nachrichten von Rasa
+- Melde mich für den Newsletter an - meine E-Mail lautet yesplease@rasa.ai
+- Newsletter, hier ist meine E-Mail: sisi@rasa.com
+- Newsletter - meine E-Mail ist lol@rasa.com
+- Abonniere den Rasa-Newsletter
+- Newsletter
+- abonnieren
+- den Newsletter erhalten
+- Ich möchte auch abonnieren
+- Ich möchte abonnieren
+- Ich möchte sofort abonnieren
+- Ich möchte den Newsletter
+- Anmelden
+- Ich möchte mich anmelden
+- Newsletter bitte
 - nl
-- id like to receive the newsletter
-- i want the newsletter
-- add me as your subscriber
-- add me to the subscription list
-- newsletter please my email is linda@yolo.de
-- i want to receive your nl
-- i want the newsletter
-- i want to subsribe to the newsletter
-- can you pelase subscribe me to the newsletter
-- can you subscribe me to the newsletter
-- subscription newsletter
-- newsletter subscription
-- gimme the newsletter
-- i need the newsletter
-- may i receive the newsletter from now on
-- i would love to get the newsletter
-- please send me the newsletter
-- send me the newsletter
-- i want to receive the newsletter from now on
-- get newsletter
-- get the newsletter
-- i want to get the newsletter
-- i'm craving the newsletter
-- i prefer to get the newsletter
-- subscribe me to the newsletter
-- please subscribe me to your newsletter
-- i would love to receive the rasa newsletter
-- sign me up for that newsletter
-- sign me up for the rasa newsletter
-- i want to sign up for the newsletter
-- lets do the newsletter signup
-- newsletter registration
-- register me for the newsletter
-- please sign me up for the newsletter
-- add me to the newsletter
-- add me to the newsletter list
-- i need to be on the newsletter list
-- i want to join the newsletter mails
-- i want to receive the newsletter emails
-- can you sign me up for the newsletter
-- join that newsletter
-- i want to join the newsletter list
-- how about the newsletter signup
-- subscribe to newsletter
-- newsletter it is
-- i go for the newsletter
-- lets try the newsletter signup
-- lets try the newsletter registration
-- how about the newsletter
-- newsletter registration first
-- first lets sign up for the newsletter
-- now i want to signup for the newsletter
-- can you add alan@mail.com to the newsletter list?
-- i want on this dope newsletter - my email is alex@mail.com
-- but please sign me up for the newsletter!
-- i want to signup for the nl
-- subscribe example@rasa.com to the newsletter
-- subscribe hi@rasa.com to the newsletter
-- subscribe to the newsletter
-- please subscribe me to the newsletter alex@example.cz
-- subscribe my email alex@mail.mail to the newsletter
-- Subscribe
-- i also want to sign up for the newsletter
-- subscribe to your newsletter
-- can i get emails from you
-- news
-- i'd like your newspaper please
-- sign up for newsletter
-- what about signing up for the newsletter?
-- get a subscription
-- to make a subscribtion
-- let's make a subscribtion
-- I would love to subscribe to a newsletter!
-- i need this dope newsletter
-- oh actually i want to get the newsletter
-- i want to subscribe to your newsletter
-- can i sign up to the newsletter too?
-- do the newsletter then
-- i want to subscribe
-- i want newsletter
-- i want on that dope newsletter
-- Subscribe
+- Ich möchte den Newsletter erhalten
+- Ich möchte den Newsletter
+- Füge mich als deinen Abonnenten hinzu
+- mich zur Abonnementliste hinzufügen
+- newsletter bitte meine email ist linda@yolo.de
+- Ich möchte Ihre nl erhalten
+- Ich möchte den Newsletter
+- Ich möchte den Newsletter abonnieren
+- Kannst du mich bitte für den Newsletter anmelden?
+- Kannst du mich für den Newsletter anmelden?
+- Newsletter abonnieren
+- Newsletter abo
+- Gib mir den Newsletter
+- Ich brauche den Newsletter
+- Darf ich ab sofort den Newsletter erhalten?
+- Ich würde gerne den Newsletter erhalten
+- Bitte senden Sie mir den Newsletter
+- senden Sie mir den Newsletter
+- Ich möchte ab sofort den Newsletter erhalten
+- Newsletter erhalten
+- den Newsletter erhalten
+- Ich möchte den Newsletter erhalten
+- Ich sehne mich nach dem Newsletter
+- Ich möchte den Newsletter erhalten
+- Abonniere mich für den Newsletter
+- Bitte abonnieren Sie mich für Ihren Newsletter
+- Ich würde gerne den Rasa-Newsletter erhalten
+- Melde mich für den Newsletter an
+- melde mich für den rasa newsletter an
+- Ich möchte mich für den Newsletter anmelden
+- Lass uns den Newsletter abonnieren
+- Newsletter Registrierung
+- Melde mich für den Newsletter an
+- Bitte melden Sie sich für den Newsletter an
+- mich zum Newsletter hinzufügen
+- mich zur Newsletter-Liste hinzufügen
+- Ich muss auf der Newsletter-Liste stehen
+- Ich möchte die Newsletter-Mails abonnieren
+- Ich möchte die Newsletter-E-Mails erhalten
+- können Sie mich für den Newsletter anmelden?
+- Melde dich für diesen Newsletter an
+- Ich möchte in die Newsletter-Liste aufgenommen werden
+- Wie wäre es mit der Newsletter-Anmeldung?
+- Newsletter abonnieren
+- Newsletter ist es
+- Ich gehe für den Newsletter
+- Lassen Sie uns versuchen, den Newsletter zu abonnieren
+- Probieren Sie die Newsletter-Registrierung aus
+- wie wäre es mit dem Newsletter
+- Newsletter-Anmeldung zuerst
+- Melden Sie sich zuerst für den Newsletter an
+- Jetzt möchte ich mich für den Newsletter anmelden
+- Können Sie alan@mail.com zur Newsletter-Liste hinzufügen?
+- Ich möchte diesen Dope-Newsletter erhalten. Meine E-Mail-Adresse lautet alex@mail.com
+- aber bitte melde mich für den Newsletter an!
+- Ich möchte mich für die nl anmelden
+- Abonnieren Sie den Newsletter unter example@rasa.com
+- Abonnieren Sie den Newsletter unter hi@rasa.com
+- Abonnieren Sie den Newsletter
+- Bitte abonnieren Sie mich für den Newsletter alex@example.cz
+- abonniere meine email alex@mail.mail für den Newsletter
+- Abonnieren
+- Ich möchte mich auch für den Newsletter anmelden
+- Abonnieren Sie Ihren Newsletter
+- Kann ich E-Mails von Ihnen bekommen?
+- Nachrichten
+- Ich möchte Ihre Zeitung bitte
+- Anmeldung für Newsletter
+- Wie wäre es, sich für den Newsletter anzumelden?
+- ein Abonnement erhalten
+- um ein Abonnement zu machen
+- Lassen Sie uns ein Abonnement machen
+- Ich würde gerne einen Newsletter abonnieren!
+- Ich brauche diesen Dope-Newsletter
+- Oh, eigentlich möchte ich den Newsletter erhalten
+- Ich möchte Ihren Newsletter abonnieren
+- Kann ich mich auch für den Newsletter anmelden?
+- dann mach den Newsletter
+- Ich möchte abonnieren
+- Ich möchte einen Newsletter
+- Ich möchte auf diesem Dope-Newsletter
+- Abonnieren
 
 ## intent:thank
-- Thanks
-- Thank you
-- Thank you so much
-- Thanks bot
-- Thanks for that
-- cheers
-- cheers bro
-- ok thanks!
-- perfect thank you
-- thanks a bunch for everything
-- thanks for the help
-- thanks a lot
-- amazing, thanks
-- cool, thanks
-- cool thank you
-- thanks
-- thanks!
-- Cool. Thanks
-- thanks
-- thanks this is great news
-- thank you
-- great thanks
-- Thanks!
-- cool thanks
-- thanks for forum link, I'll check it out
-- thanks!
+- Danke
+- Dankeschön
+- Ich danke dir sehr
+- Danke, Bot
+- Dank dafür
+- Prost
+- Prosit Kumpel
+- OK danke!
+- perfekt, danke
+- Vielen Dank für alles
+- Danke für die Hilfe
+- Vielen Dank
+- erstaunlich, danke
+- Cool, danke
+- cool Danke
+- Vielen Dank
+- Vielen Dank!
+- Cool. Vielen Dank
+- Vielen Dank
+- Danke, das sind großartige Neuigkeiten
+- Danke dir
+- vielen Dank
+- Vielen Dank!
+- Cool, danke
+- Danke für den Forum-Link, ich werde es überprüfen
+- Vielen Dank!
 
 ## intent:how_to_get_started
-- how do I get started with [Rasa](product:rasa)
-- how do I use rasa
-- what is the difference between rasa [nlu](product) and rasa [core](product)
-- how to start with rasa
-- how to start with it
-- how to build a bot?
-- how can I build a chatbot
-- what can I do with Rasa?
-- where to start the development of rasa
-- WHAT IS RASA
-- WHAT IS IT
-- so, how do I use rasa?
-- can i just test features without having to deal with your predefined conversation
-- can you guide me know to create knowledge base chatbot
-- how can I learn rasa
-- i want to use rasa to build my chatbot
-- how do i get rasa [core](product)
-- how do I train rasa [nlu](product)
-- how do i learn rasa [core](product)
-- what is rasa [core](product)
-- what is [nlu](product)
-- I want to learn about rasa [core](product)
-- i want to use [nlu](product)
-- Get started
-- How to get started with [NLU](product:nlu)
-- How to get started with Rasa [NLU](product:nlu)
-- How to get started with [Core](product:core)
-- get started with [rasa](product)
-- get started with [rasa x](product:x)
-- Get started with [Rasa X](product:x)
-- Help me use [Rasa X](product)
-- How do I get started with [Rasa X](product:x)
-- how to learn rasa [core](product)
-- I want to learn about rasa [nlu](product)
-- i want to learn about rasa [core](product)
-- how to get started with [nlu](product)
-- how do I get started with Rasa [Core](product:core)
+- Wie fange ich mit [Rasa] an? (product:rasa)
+- Wie verwende ich Rasa?
+- Was ist der Unterschied zwischen rasa [nlu](product) und rasa [Kern](product)?
+- Wie fange ich mit rasa an?
+- Wie fange ich damit an?
+- Wie baue ich einen Bot?
+- Wie kann ich einen Chatbot erstellen?
+- Was kann ich mit Rasa machen?
+- Wo soll man mit der Entwicklung von Rasa beginnen?
+- WAS IST RASA?
+- WAS IST ES
+- Wie verwende ich Rasa?
+- Kann ich nur Funktionen testen, ohne mich mit Ihrer vordefinierten Konversation befassen zu müssen?
+- Können Sie mich anleiten, einen Wissensdatenbank-Chatbot zu erstellen?
+- Wie kann ich rasa lernen?
+- Ich möchte Rasa verwenden, um meinen Chatbot zu erstellen
+- Wie bekomme ich Rasa [Core] (product)
+- wie trainiere ich rasa [nlu] (product)
+- wie lerne ich rasa [core](product)
+- Was ist Rasa [Kern](product)
+- Was ist [nlu](product)
+- Ich möchte mehr über rasa [core](product) erfahren
+- Ich möchte [nlu] (product) verwenden
+- Loslegen
+- Erste Schritte mit [NLU](product:nlu)
+- Erste Schritte mit Rasa [NLU](product:nlu)
+- Erste Schritte mit [Core](product:Core)
+- Erste Schritte mit [rasa](product)
+- Erste Schritte mit [rasa x](product:x)
+- Erste Schritte mit [Rasa X](product:x)
+- Hilf mir mit [Rasa X](product)
+- Wie fange ich mit [Rasa X] an (product:x)
+- wie man rasa [core] lernt (product)
+- Ich möchte mehr über rasa [nlu](product) erfahren
+- Ich möchte mehr über Rasa [Core](product) erfahren.
+- Erste Schritte mit [nlu] (Produkt)
+- wie fange ich mit Rasa [Core] an (product: Core)
 - How do I get started with Rasa [NLU](product:nlu)
-- give me some information on [NLU](product:nlu)
-- tell me how to get started with [core](product)
-- how about [NLU](product:nlu)
-- tell me about [core](product) Please
-- what is this [nlu](product) thing?
-- what is [rasa x](product)
-- how do i use [core](product)
-- how do i get started with [Rasa X](product:x)
-- Help me with [Core](product:core)
-- Get started
-- Tell me about [both](product:all) Rasa and Rasa X
-- i want to understand [all](product) the products
-- [both](product:all)
-- [all](product) of them
-- [Both](product:all) rasa x and rasa
-- how to get started
-- tell me about [both](product:all) of them
-- how to get started with [rasa x](product:x)
-- how do i get started with [rasa x](product:x)
-- [all](product) the above
-- [both](product:all) of the above
-- Help me get started
-- How to get started with [Rasa X](product:x)
-- how to get started with Rasa [Core](product:core)
-- Help me understand [NLU](product:nlu)
-- How do I use [NLU](product:nlu)
-- Get started with [Rasa](product:rasa)
-- Tell me about [all](product) of them
-- [Rasa](product:rasa)
-- [Both](product:all) of them
+- Wie fange ich mit Rasa [NLU] an (product:nlu)
+- Gib mir ein paar Informationen zu [NLU] (product:nlu)
+- Wie fange ich mit [core] (product) an?
+- wie wäre es mit [NLU] (product: nlu)
+- Erzähl mir etwas über [core] (product) Bitte
+- Was ist das für ein Produkt?
+- Was ist [rasa x] (product)
+- Wie verwende ich [Core] (product)
+- Wie fange ich mit [Rasa X] an? (product:x)
+- Hilf mir mit [Core](product:Core)
+- Loslegen
+- Erzählen Sie mir von [beiden](product:all) Rasa und Rasa X
+- Ich möchte [alle](producte) verstehen
+- [beide](product:all)
+- [alle](product) von ihnen
+- [Beide](product:all) rasa x und rasa
+- wie man anfängt
+- Erzählen Sie mir von [beiden] (product:all)
+- Erste Schritte mit [rasa x] (product:x)
+- Wie fange ich mit [rasa x] an? (product:x)
+- [alle](product) die oben genannten
+- [beide](product:all) der oben genannten
+- Helfen Sie mir, loszulegen
+- Erste Schritte mit [Rasa X] (product:x)
+- Erste Schritte mit Rasa [Core] (product:Core)
+- Hilf mir zu verstehen, [NLU] (product:nlu)
+- Wie verwende ich [NLU] (product:nlu)
+- Erste Schritte mit [Rasa] (product:rasa)
+- Erzählen Sie mir von [allen] (product)
+- [Rasa] (product:rasa)
+- [Beide] (product: alle)
 
 ## intent:technical_question
-- what is duckling
-- where to train intents in rasa?
-- what is duckling
-- i need a help to integrate rasa with a messenger
-- what infrastructure is required to run a bot?
-- can you help me with this problem
-- help me wih the installation
-- having trouble with rasa installation
-- i am having trouble setting this up
-- how about interactive learning
-- interactive learning?
-- technical side of things?
-- does rasa have all the same features as [luis](current_api)
-- is rasa better than [dialogflow](current_api)
-- should I use rasa instead of ibm Watson api
-- Is Rasa better than Dialogflow?
-- db processing
-- what components of Rasa are open source
-- how to integrate rasa chatbot with my website
-- how works rasa
-- with exceptions
-- which language is rasa programmed in
-- what technologies did u use to create more mature chatbot?
-- which technology is used to create you
-- having some problems with installation
-- does rasa support voice input
-- is there an alexa integration
+- Was ist Entlein
+- Wo kann man Absichten in Rasa trainieren?
+- Was ist ein Entlein
+- Ich brauche eine Hilfe, um Rasa in einen Messenger zu integrieren
+- Welche Infrastruktur ist erforderlich, um einen Bot auszuführen?
+- Können Sie mir bei diesem Problem helfen?
+- Hilf mir bei der Installation
+- Probleme mit der Installation von rasa
+- Ich habe Probleme beim Einrichten
+- Wie wäre es mit interaktivem Lernen?
+- interaktives Lernen?
+- technische Seite der Dinge?
+- Hat rasa die gleichen Funktionen wie [luis] (current_api)
+- ist rasa besser als [dialogflow] (current_api)
+- Soll ich Rasa anstelle von IBM Watson API verwenden?
+- Ist Rasa besser als Dialogflow?
+- DB-Verarbeitung
+- Welche Komponenten von Rasa sind Open Source
+- Wie binde ich Rasa Chatbot in meine Website ein?
+- Wie funktioniert Rasa
+- mit ausnahmen
+- In welcher Sprache ist rasa programmiert?
+- Mit welchen Technologien haben Sie einen ausgereifteren Chatbot erstellt?
+- Welche Technologie wird verwendet, um Sie zu erstellen
+- Probleme bei der Installation
+- Unterstützt Rasa die Spracheingabe?
+- Gibt es eine alexa integration?
 
 ## intent:switch
-- I currently use [dialog flow](current_api:dialogflow)
-- I want to switch from [dialog flow](current_api:dialogflow) to rasa
-- I want to change from [dialog flow](current_api:dialogflow) to rasa
-- I want to convert my [dialog flow](current_api:dialogflow) bot to rasa
-- I currently use [LUIS](current_api:luis)
-- I use [luis](current_api) at the moment
-- [luis](current_api) atm
-- switching from [DialogFlow](current_api:dialogflow)
-- I use [DialogFlow](current_api:dialogflow)
-- i want to switch from [dialogflow](current_api) to Rasa
-- I want to move from [LUIS.ai](current_api:luis) to Rasa
-- [DialogFlow](current_api:dialogflow)
-- [luis.ai](current_api:luis)
-- [LUIS](current_api:luis)
-- [bot framework](current_api)
-- I use [wit.ai](product)
-- chatfuel
-- how does rasa compare to [dialogflow](product)
-- how does rasa compare to [luis](product)
-- is rasa better than [dialog flow](product:dialogflow)
-- what is the difference between [bot framework](product) and rasa
+- Ich verwende derzeit [dialog flow] (current_api:dialogflow)
+- Ich möchte von [dialog flow] (current_api:dialogflow) zu rasa wechseln
+- Ich möchte von [dialog flow] (current_api:dialogflow) zu rasa umwechseln
+- Ich möchte meinen Bot [dialog flow] (current_api:dialogflow) nach rasa konvertieren
+- Ich verwende derzeit [LUIS] (current_api:luis)
+- Ich benutze im Moment [luis] (current_api)
+- [luis] (current_api) atm
+- Umschalten von [DialogFlow] (current_api:dialogflow)
+- Ich benutze [DialogFlow] (current_api:dialogflow)
+- Ich möchte von [dialogflow] (current_api) zu Rasa wechseln
+- Ich möchte von [LUIS.ai] (current_api:luis) nach Rasa wechseln
+- [DialogFlow] (current_api:dialogflow)
+- [luis.ai] (current_api:luis)
+- [LUIS] (current_api:luis)
+- [Bot-Framework] (current_api)
+- Ich benutze [wit.ai] (product)
+- Chatfuel
+- Wie vergleicht rasa mit [dialogflow] (product)
+- Wie vergleicht Rasa mit [Luis] (product)
+- ist rasa besser als [dialog flow] (product:dialogflow)
+- Was ist der Unterschied zwischen [bot framework] (product) und rasa?
 
 ## intent:nlu_info
-- can you explain to me how [entity recognition](nlu_part) works?
-- how does [entity recognition](nlu_part) work?
-- an explanation of how [entity recognition](nlu_part) work would help
-- I still don’t get how [entity recognition](nlu_part) works
-- it would be helpful to learn more about [entity recognition](nlu_part)
-- tell me about [entity recognition](nlu_part)
-- I want to learn about [entity recognition](nlu_part)
-- [entity recognition](nlu_part)
-- what is [entity recognition](nlu_part)?
-- I don’t understand [entity recognition](nlu_part)
-- [entity recognition](nlu_part) - what is that?
-- I don’t understand how you handle [entity recognition](nlu_part) at Rasa
-- how is [entity recognition](nlu_part) managed in rasa?
-- I checked the documentation on [entity recognition](nlu_part) but I still don’t understand it
-- can you explain to me how [intent classification](nlu_part) works?
-- how does [intent classification](nlu_part) work?
-- an explanation of how [intent classification](nlu_part) work would help
-- I still don’t get how [intent classification](nlu_part) works
-- it would be helpful to learn more about [intent classification](nlu_part)
-- tell me about [intent classification](nlu_part)
-- I want to learn about [intent classification](nlu_part)
-- [intent classification](nlu_part)
-- what is [intent classification](nlu_part)?
-- I don’t understand [intent classification](nlu_part)
-- [intent classification](nlu_part) - what is that?
-- I don’t understand how you handle [intent classification](nlu_part) at Rasa
-- how is [intent classification](nlu_part) managed in rasa?
-- I checked the documentation on [intent classification](nlu_part) but I still don’t understand it
-- do you use [duckling](nlu_part)
-- I want to know if rasa works with [duckling](nlu_part)
-- [duckling](nlu_part)
-- how do you integrate [duckling](nlu_part)
-- does rasa work with [duckling](nlu_part)?
-- is [duckling](nlu_part) part of rasa?
-- [intents](nlu_part)
+- Können Sie mir erklären, wie [Entitätserkennung] (nlu_part) funktioniert?
+- Wie funktioniert [Entity Recognition] (nlu_part)?
+- eine Erklärung, wie [Entity Recognition] (nlu_part) funktionieren würde
+- Ich verstehe immer noch nicht, wie [Entitätserkennung] (nlu_part) funktioniert
+- Es wäre hilfreich, mehr über [Entitätserkennung] zu erfahren (nlu_part)
+- Erzähl mir von [Entity Recognition] (nlu_part)
+- Ich möchte mehr über [Entitätserkennung] erfahren (nlu_part)
+- [Entitätserkennung] (nlu_part)
+- Was ist [Entitätserkennung] (nlu_part)?
+- Ich verstehe [Entitätserkennung] nicht (nlu_part)
+- [Entitätserkennung] (nlu_part) - was ist das?
+- Ich verstehe nicht, wie Sie mit [Entitätserkennung] (nlu_part) bei Rasa umgehen
+- Wie wird [Entity Recognition] (nlu_part) in Rasa verwaltet?
+- Ich habe die Dokumentation zu [Entity Recognition] (nlu_part) überprüft, verstehe sie aber immer noch nicht
+- Können Sie mir erklären, wie [Absichtsklassifizierung] (nlu_part) funktioniert?
+- Wie funktioniert die [Absichtsklassifizierung] (nlu_part)?
+- eine Erklärung, wie [Absichtsklassifizierung] (nlu_part) helfen würde
+- Ich verstehe immer noch nicht, wie die [Absichtsklassifizierung] (nlu_part) funktioniert
+- Es wäre hilfreich, mehr über [Absichtsklassifizierung] zu erfahren (nlu_part)
+- Erzähl mir von [Absichtsklassifizierung] (nlu_part)
+- Ich möchte mehr über [Absichtsklassifizierung] erfahren (nlu_part)
+- [Absichtsklassifizierung] (nlu_part)
+- Was ist [Absichtsklassifizierung] (nlu_part)?
+- Ich verstehe [Absichtsklassifizierung] nicht (nlu_part)
+- [Absichtsklassifizierung] (nlu_part) - was ist das?
+- Ich verstehe nicht, wie  bei Rasa mit [Absichtsklassifizierung] (nlu_part) umgehen
+- Wie wird [Absichtsklassifizierung] (nlu_part) in Rasa verwaltet?
+- Ich habe die Dokumentation zu [Absichtsklassifizierung] (nlu_part) überprüft, verstehe sie aber immer noch nicht
+- Benutzt du [duckling] (nlu_part)
+- Ich möchte wissen, ob rasa mit [duckling] funktioniert (nlu_part)
+- [duckling] (nlu_part)
+- wie integrierst du [duckling] (nlu_part)
+- Funktioniert Rasa mit [duckling] (nlu_part)?
+- Gehört [duckling] (nlu_part) zu rasa?
+- [Absichten] (nlu_part)
 
 ## synonym:intent classification
 - intents
 - intent
 
 ## synonym:entity recognition
-- entity extraction
+- Entitätsextraktion
 
 ## intent:pipeline_recommendation
-- what pipeline should I start with?
-- what is the right pipeline to choose?
-- what I a good pipeline to start with?
-- what pipeline should i use?
-- what pipeline is better for what i want?
-- what pipeline should I start with?
-- should I better start with the tensorflow pipeline or spacy?
-- spacy or tensorflow, what is better to start?
-- I don’t know which pipeline to use
-- what pipeline is better?
-- which pipeline is better?
-- recommend pipeline
-- pipeline recommendation
-- give me a recommendation
+- Mit welcher Pipeline soll ich beginnen?
+- Was ist die richtige Pipeline?
+- Womit habe ich eine gute Pipeline am Anfang?
+- Welche Pipeline soll ich verwenden?
+- Welche Pipeline ist besser für das, was ich will?
+- Mit welcher Pipeline soll ich beginnen?
+- soll ich besser mit der tensorflow pipeline oder spacy beginnen?
+- Spacy oder Tensorflow, was ist besser, um zu beginnen?
+- Ich weiß nicht, welche Pipeline ich verwenden soll
+- Welche Pipeline ist besser
+- Welche Pipeline ist besser?
+- Rohrleitung empfehlen
+- Pipelineempfehlung
+- gib mir eine Empfehlung
 
 ## intent:nlu_generation_tool_recommendation
-- which tools can I use to create nlu data
-- how can I get nlu data
-- where can i get data for the nlu
-- recommend me some nlu tools
-- how to work with nlu data
-- i need more nlu data
-- are there tools to create nlu data
-- i require more nlu data
-- need more data for nlu
-- i have to less nlu data
-- are there simpler ways to create nlu data
+- Mit welchen Tools kann ich nlu-Daten erstellen?
+- wie kann ich nlu Daten bekommen
+- Wo kann ich Daten für das nlu bekommen?
+- empfehle mir ein paar nlu tools
+- wie man mit nlu Daten arbeitet
+- Ich brauche mehr nlu Daten
+- Gibt es Tools zum Erstellen von nlu-Daten?
+- Ich benötige mehr Nlu-Daten
+- Benötige mehr Daten für nlu
+- Ich muss weniger nlu Daten
+- gibt es einfachere möglichkeiten, nlu-daten zu erstellen?
 
 ## intent:install_rasa
-- I want to install Rasa Stack
-- How to install Rasa?
-- Where to get Rasa Stack?
-- How to install Rasa Core?
-- install Rasa NLU
-- how do I install rasa in windows
-- how do I run rasa on windows
-- install Rasa on Linux
-- install Rasa on Mac
-- Can you help me to install Rasa?
-- Just install Rasa Stack
-- How to install Rasa Stack
-- I'd like to install Rasa Core
-- I'd like to install Rasa NLU
-- Help me install Rasa
-- I want to do a Rasa Stack installation
-- I'm going to install Rasa Stack
-- Please help me install Rasa Stack
-- Please install Rasa Stack
-- I think I want to install Rasa Stack
-- How do I install Rasa Stack?
-- I want info on installing Rasa
-- I'd like to perform an installation of Rasa Stack
-- Let me install Rasa Stack.
-- I need Rasa Stack
-- Help me get Rasa Core.
-- Could I have Rasa Stack?
-- Could you install Rasa Stack for me?
-- Could you help me get Rasa stack?
-- I require Rasa Stack?
-- Please, I need Rasa Core.
-- Can you get me Rasa Core?
-- I need assistance in getting Rasa Stack.
-- I want to use Rasa Stack
-- I'm getting Rasa Stack
-- I have decided on Rasa Stack
-- I'm installing Rasa Stack
-- Rasa Stack is what I will be installing
-- I have chosen Rasa Stack
-- I need Rasa Stack.
-- I need to install Rasa Core.
-- I need to install Rasa NLU.
-- Do you mind helping me install Rasa?
-- Its urgent for me to install Rasa.
-- Please assist me with installing Rasa Stack.
-- I need to get Rasa Stack up and running.
-- Yes, I do need Rasa Stack.
-- Thank you in advance for suggesting I install Rasa NLU.
-- Installing Rasa Stack will be extremely helpful to me.
+- Ich möchte Rasa Stack installieren
+- Wie installiere ich Rasa?
+- Wo bekomme ich Rasa Stack?
+- Wie installiere ich Rasa Core?
+- Installieren Sie Rasa NLU
+- Wie installiere ich Rasa in Windows
+- Wie führe ich Rasa unter Windows aus?
+- Installieren Sie Rasa unter Linux
+- Installieren Sie Rasa auf dem Mac
+- Kannst du mir helfen, Rasa zu installieren?
+- Installiere einfach Rasa Stack
+- So installieren Sie Rasa Stack
+- Ich möchte Rasa Core installieren
+- Ich möchte Rasa NLU installieren
+- Hilf mir, Rasa zu installieren
+- Ich möchte eine Rasa-Stack-Installation durchführen
+- Ich werde Rasa Stack installieren
+- Bitte helfen Sie mir, Rasa Stack zu installieren
+- Bitte installieren Sie Rasa Stack
+- Ich denke, ich möchte Rasa Stack installieren
+- Wie installiere ich Rasa Stack?
+- Ich möchte Informationen zur Installation von Rasa
+- Ich möchte eine Installation von Rasa Stack durchführen
+- Lassen Sie mich Rasa Stack installieren.
+- Ich brauche Rasa Stack
+- Hilf mir, Rasa Core zu bekommen.
+- Könnte ich Rasa Stack haben?
+- Könntest du Rasa Stack für mich installieren?
+- Könnten Sie mir helfen, Rasa-Stapel zu bekommen?
+- Ich benötige Rasa Stack?
+- Bitte, ich brauche Rasa Core.
+- Kannst du mir Rasa Core besorgen?
+- Ich brauche Hilfe, um Rasa Stack zu bekommen.
+- Ich möchte Rasa Stack verwenden
+- Ich hole Rasa Stack
+- Ich habe mich für Rasa Stack entschieden
+- Ich installiere Rasa Stack
+- Rasa Stack ist das, was ich installieren werde
+- Ich habe Rasa Stack gewählt
+- Ich brauche Rasa Stack.
+- Ich muss Rasa Core installieren.
+- Ich muss Rasa NLU installieren.
+- Hast du etwas dagegen, mir bei der Installation von Rasa zu helfen?
+- Ich muss Rasa dringend installieren.
+- Bitte unterstützen Sie mich bei der Installation von Rasa Stack.
+- Ich muss Rasa Stack zum Laufen bringen.
+- Ja, ich brauche Rasa Stack.
+- Vielen Dank im Voraus für den Vorschlag, Rasa NLU zu installieren.
+- Die Installation von Rasa Stack ist für mich äußerst hilfreich.
 
 ## synonym:conda
-- anaconda
+- Anaconda
 
 ## intent:ask_which_events
-- Which community events do you have
-- Where can I meet Rasas
-- Do you have a user group
-- is there a meetup
-- is there a Rasa meetup
-- i want to meet Rasa
+- Welche Community-Events hast du?
+- Wo kann ich Rasas treffen?
+- Haben Sie eine Benutzergruppe?
+- Gibt es ein Treffen?
+- Gibt es ein Rasa-Treffen?
+- Ich möchte Rasa treffen
 
 ## intent:ask_when_next_event
-- When is the next community event?
-- when is the next event in [Berlin](location)
-- is there a event in [Montreal](location)
-- is there a Rasa event in [San Francisco](location)
-- what's the next rasa event
-- whats the next community event
-- when is the next usergroup
-- do you have an event in [Berlin](location)
+- Wann ist das nächste Community-Event?
+- wann ist die nächste Veranstaltung in [Berlin] (location)
+- Gibt es eine Veranstaltung in [Montreal] (location)
+- Gibt es eine Rasa-Veranstaltung in [San Francisco] (location)?
+- Was ist das nächste Rasa-Event?
+- Was ist das nächste Community-Event?
+- Wann ist die nächste Benutzergruppe?
+- hast du eine veranstaltung in [berlin](location)
 
 ## lookup:location
 - San Francisco
@@ -2494,20 +2495,20 @@
 - New York
 - Washington
 - Berlin
-- Zurich
+- Zürich
 - Hamburg
 - Frankfurt
-- Munich
+- München
 - Madrid
-- Cologne
+- Köln
 - Düsseldorf
 - Barcelona
-- Vienna
-- Warsaw
+- Wien
+- Warschau
 - Paris
-- Rome
+- Rom
 - London
-- Prague
+- Prag
 - Sidney
 - Delhi
 - Mumbai
@@ -2519,19 +2520,19 @@
 - Chongqing
 - Hong Kong
 - China
-- India
+- Indien
 - US
 - USA
-- Germany
-- United States
+- Deutschland
+- Vereinigte Staaten
 - UK
 - England
-- Brazil
-- France
-- Poland
-- Italy
-- Spain
-- Europe
+- Brazilien
+- Frankreich
+- Polen
+- Italien
+- Spanien
+- Europa
 - Canada
 - Ukraine
 
@@ -2540,59 +2541,60 @@
 - U.S.
 - USA
 - usa
-- United States
+- Vereinigte Staaten
 
 ## synonym:United Kingdom
 - UK
 - U.K.
+- Vereinigtes Königreich
 
 ## intent:ask_question_in_forum
-- Hey, i want to ask a question in the forum
-- i want to get help in the forum
-- where can I find the forum
-- I have a problem
-- I need help with a problem
-- Can you help me to solve a problem?
+- Hey, ich möchte eine Frage im Forum stellen
+- Ich möchte Hilfe im Forum bekommen
+- wo finde ich das forum
+- Ich habe ein Problem
+- Ich brauche Hilfe bei einem Problem
+- Können Sie mir helfen, ein Problem zu lösen?
 
 ## intent:ask_why_contribute
-- why should I contribute to Rasa
-- why should I contribute
-- why should I help to improve Rasa
-- why contribute to Rasa
+- Warum soll ich zu Rasa beitragen?
+- warum sollte ich beitragen
+- Warum sollte ich helfen, Rasa zu verbessern?
+- Warum zu Rasa beitragen?
 
 ## intent:ask_how_contribute
-- how contribute to Rasa?
-- how can I contribute to Rasa
-- how help Rasa
-- how to improve Rasa
-- how can I improve Rasa
-- I want to help to improve Rasa
-- I want to make Rasa better
-- how can I support the community
-- what can I do
+- Wie kann ich zu Rasa beitragen?
+- Wie kann ich Rasa helfen?
+- Wie helfen Sie Rasa?
+- wie man Rasa verbessert
+- Wie kann ich Rasa verbessern?
+- Ich möchte helfen, Rasa zu verbessern
+- Ich möchte Rasa verbessern
+- Wie kann ich die Community unterstützen?
+- Was kann ich tun
 
 ## intent:next_step
-- Take me to the next step
-- Next step
-- I want to go to the next step
-- Please take me to the next step
-- Next step please
+- Bring mich zum nächsten Schritt
+- Nächster Schritt
+- Ich möchte mit dem nächsten Schritt fortfahren
+- Bitte bring mich zum nächsten Schritt
+- Nächster Schritt bitte
 
 ## intent:explain
-- tell me more
-- could you please explain that
-- could you tell me more
-- give me more information please
-- could you please give me some more information
-- i want more information
-- what is the difference
-- can you tell me the difference
-- why
-- why is that
-- why do you need it
+- Erzähl mir mehr
+- Könntest du das bitte erklären?
+- Kannst du mir mehr sagen?
+- Bitte geben Sie mir weitere Informationen
+- Könntest du mir bitte weitere Informationen geben?
+- Ich möchte mehr Informationen
+- Was ist der Unterschied
+- Kannst du mir den Unterschied sagen?
+- Warum
+- Warum das
+- Warum brauchst du es
 
 ## synonym:1
-- one
+- ein
 
 ## synonym:USA
 - US
@@ -2616,24 +2618,25 @@
 - CORE
 
 ## synonym:date
-- dates
+- Termin
+- Datum
 
 ## synonym:developer
-- Developer
+- Entwickler
 
 ## synonym:dialogflow
 - dialog flow
 - DialogFlow
 
 ## synonym:distance
-- distances
+- Entfernung
 
 ## synonym:duration
-- how long
-- durations
+- wie lange
+- Dauer
 
 ## synonym:entity recognition
-- entity extraction
+- Entitätsextraktion
 
 ## synonym:intent classification
 - intents
@@ -2645,20 +2648,23 @@
 - luis.ai
 
 ## synonym:money
-- amounts
+- Beträge
+- Betrag
+- Geld
 
 ## synonym:name
-- names
+- Namen
 
 ## synonym:nlu
 - NLU
-- Natural Language Understanding
+- Verständnis der natürlichen Sprache
 
 ## synonym:organisation
-- companies
+- Firmen
 
 ## synonym:place
-- places
+- Plätze
+- Orte
 
 ## synonym:rasa
 - Rasa
@@ -2680,22 +2686,22 @@
 - San Francisco
 - Montreal
 - New York
-- Washington
+- Washingten
 - Berlin
 - Zurich
 - Hamburg
 - Frankfurt
-- Munich
+- Münschen
 - Madrid
-- Cologne
+- Köln
 - Düsseldorf
 - Barcelona
-- Vienna
-- Warsaw
+- Wien
+- Warschau
 - Paris
-- Rome
+- Rom
 - London
-- Prague
+- Prag
 - Sidney
 - Delhi
 - Mumbai
@@ -2707,19 +2713,19 @@
 - Chongqing
 - Hong Kong
 - China
-- India
+- Indien
 - US
 - USA
-- Germany
-- United States
+- Deutschland
+- Vereinigte Staten
 - UK
 - England
-- Brazil
-- France
-- Poland
-- Italy
+- Brasielien
+- Frankreich
+- Polen
+- Italien
 - Spain
-- Europe
+- Europa
 - Canada
 - Ukraine
 

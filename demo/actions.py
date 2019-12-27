@@ -238,10 +238,13 @@ class ActionFaqs(Action):
             "ask_faq_slots",
             "ask_faq_channels",
             "ask_faq_differencecorenlu",
+            "ask_faq_differencerasarasax",
             "ask_faq_python_version",
             "ask_faq_community_size",
             "ask_faq_what_is_forum",
             "ask_faq_tutorials",
+            "ask_faq_differencerasarasax",
+            "ask_faq_rasax",
         ]:
             dispatcher.utter_template("utter_" + intent, tracker)
         return []
@@ -402,7 +405,7 @@ class ActionGreetUser(Action):
         intent = tracker.latest_message["intent"].get("name")
         shown_privacy = tracker.get_slot("shown_privacy")
         name_entity = next(tracker.get_latest_entity_values("name"), None)
-        if intent == "greet":
+        if intent == "greet" or (intent == "enter_data" and name_entity):
             if shown_privacy and name_entity and name_entity.lower() != "sara":
                 dispatcher.utter_template("utter_greet_name", tracker, name=name_entity)
                 return []
@@ -434,7 +437,7 @@ class ActionDefaultAskAffirmation(Action):
     def __init__(self) -> None:
         import pandas as pd
 
-        self.intent_mappings = pd.read_csv("data/" "intent_description_mapping.csv")
+        self.intent_mappings = pd.read_csv("demo/intent_description_mapping.csv")
         self.intent_mappings.fillna("", inplace=True)
         self.intent_mappings.entities = self.intent_mappings.entities.map(
             lambda entities: {e.strip() for e in entities.split(",")}
@@ -490,8 +493,8 @@ class ActionDefaultAskAffirmation(Action):
 
     def get_button_title(self, intent: Text, entities: Dict[Text, Text]) -> Text:
         default_utterance_query = self.intent_mappings.intent == intent
-        utterance_query = (
-            self.intent_mappings.entities == entities.keys() & default_utterance_query
+        utterance_query = (self.intent_mappings.entities == entities.keys()) & (
+            default_utterance_query
         )
 
         utterances = self.intent_mappings[utterance_query].button.tolist()
@@ -583,8 +586,9 @@ class CommunityEventAction(Action):
         event_items = ["- {} in {}".format(e.name_as_link(), e.city) for e in events]
         locations = "\n".join(event_items)
         dispatcher.utter_message(
-            "Here are the next Rasa events:\n"
-            "" + locations + "\nWe hope to see you at them!"
+            "Here are the next Rasa events:\n\n"
+            + locations
+            + "\n\nWe hope to see you at them!"
         )
 
     def _utter_next_event(

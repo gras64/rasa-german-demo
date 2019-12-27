@@ -20,9 +20,12 @@ pipeline:
   - amount-of-money
 - name: EntitySynonymMapper
 policies:
-- epochs: 50
-  max_history: 6
-  name: KerasPolicy
+- name: EmbeddingPolicy
+  max_history: 10
+  epochs: 20
+  batch_size:
+  - 32
+  - 64
 - max_history: 6
   name: AugmentedMemoizationPolicy
 - core_threshold: 0.3
