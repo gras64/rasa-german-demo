@@ -66,6 +66,19 @@
 - which languages supports rasa
 - How can I change the language
 
+## intent:ask_faq_is_programming_required
+- Does rasa require programming knowledge
+- Do I need programming skills to develop a chatbot in rasa
+- do I need programming experience to use rasa
+- how to programe rasa
+- Rasa can be programmed in python
+- programming language use
+- what programming languge do i use
+- How do I do the programming?
+- i have never programed before
+- what language do I need to program?
+- do i need to be able to program to use rasa?
+
 ## intent:ask_faq_opensource
 - is rasa a type of open source software?
 - is rasa open source?
@@ -515,7 +528,16 @@
 - what is [entity recognition](nlu_part)?
 - I don’t understand [entity recognition](nlu_part)
 
-## intent:out_of_scope
+## intent:out_of_scope/non_english
+- de donde eres
+- de que lugar eres?
+- epdi iruka
+- eres humana
+- kalhmera sara ti kaneis
+- kannst du auch deutsch?
+- spreek je Nederlands?
+
+## intent:out_of_scope/other
 - who is your favourite robot?
 - can you tell me how to build a bot?
 - kannst du auch deutsch?

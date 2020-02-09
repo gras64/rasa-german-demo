@@ -114,7 +114,6 @@
     - utter_great
     - utter_anything_else
 
-
 ## newsletter, don't continue, then contact sales
 * greet
     - action_greet_user
@@ -396,3 +395,20 @@
 ## negative reaction
 * react_negative
     - utter_react_negative
+
+## New Story
+
+* greet
+    - utter_greet_noname
+
+## New Story
+
+* ask_howdoing
+    - utter_ask_howdoing
+
+## New Story
+
+* greet
+    - action_greet_user
+* greet
+    - utter_ask_howdoing

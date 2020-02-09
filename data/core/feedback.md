@@ -41,3 +41,19 @@
     - slot{"feedback_value": "positive"}
     - utter_great
     - utter_anything_else
+
+## New Story
+
+* greet
+    - utter_greet_noname
+
+## New Story
+
+* how_are_you
+    - action_default_ask_affirmation
+* how_are_you
+    - action_revert_fallback_events
+* how_are_you
+    - action_default_fallback
+* ask_howdoing
+    - utter_ask_howdoing
