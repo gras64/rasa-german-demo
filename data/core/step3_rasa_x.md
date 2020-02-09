@@ -8,5 +8,5 @@
     - action_greet_user
     - slot{"step": "3"}
 * affirm
-    - utter_start_rasax
+    - utter_explain_x
     - utter_direct_to_step4

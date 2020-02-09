@@ -3,20 +3,20 @@ Montreal
 New York
 Washington
 Berlin
-Zurich
+Zürich
 Hamburg
 Frankfurt
-Munich
+München
 Madrid
-Cologne
+Köln
 Düsseldorf
 Barcelona
-Vienna
-Warsaw
+Wien
+Warschau
 Paris
-Rome
+Rom
 London
-Prague
+Prag
 Sidney
 Delhi
 Mumbai
@@ -28,18 +28,18 @@ Shanghai
 Chongqing
 Hong Kong
 China
-India
+Indien
 US
 USA
-Germany
+Deutschland
 United States
 UK
 England
-Brazil
-France
-Poland
-Italy
-Spain
-Europe
+Brazilien
+Frankreich
+Polen
+Italien
+Spanien
+Europa
 Canada
 Ukraine
