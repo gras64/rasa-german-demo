@@ -13,12 +13,12 @@ story_confmat.pdf
 demo/index.html
 credentials.yml
 .idea
-<<<<<<< HEAD
 venv
-=======
 test_train_split
 results
 .history
 rasa.*
 events.*
->>>>>>> fd21625c54364e0103766e15cd63091c82b719a9
+terms
+docker-local
+.pytype/
