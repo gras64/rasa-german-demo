@@ -410,5 +410,3 @@
 
 * greet
     - action_greet_user
-* greet
-    - utter_ask_howdoing

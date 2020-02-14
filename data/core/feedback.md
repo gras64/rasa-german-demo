@@ -57,3 +57,30 @@
     - action_default_fallback
 * ask_howdoing
     - utter_ask_howdoing
+
+## New Story
+
+* are_you_there
+    - utter_are_you_there
+
+## New Story
+
+* how_are_you{"language":"deutsch"}
+    - slot{"language":"deutsch"}
+    - utter_mycroft_german
+
+## New Story
+
+* mycroft_german{"language":"deutsch"}
+    - slot{"language":"deutsch"}
+    - utter_mycroft_german
+
+## New Story
+
+* are_you_there
+    - utter_are_you_there
+
+## New Story
+
+* know-mycroft
+    - utter_know_mycroft

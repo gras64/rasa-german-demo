@@ -28,7 +28,6 @@
 - Wie alt bist du
 - dein Alter
 - Alter von dir
-- Wie alt bist du
 - Ich würde gerne dein Alter erfahren
 - Bist du 21 Jahre alt
 - Wie alt ist deine Plattform
@@ -40,7 +39,6 @@
 - Du bist wirklich glücklich
 - Du bist so glücklich
 - Wie glücklich du bist
-- Du bist sehr glücklich
 - Du bist voller Glück
 - bist du jetzt glücklich
 - bist du heute glücklich
@@ -57,7 +55,6 @@
 - was ist dann los?
 - Was zittert?
 - wassup
-- Was ist los
 - was ist los
 - Was ist los?
 - Was kocht
@@ -83,7 +80,6 @@
 - Antworten
 - beantworte meine Frage
 - Gib mir eine Antwort
-- Gib mir eine Antwort
 - beantworte die Frage
 - Kannst du meine Frage beantworten
 - sag mir die Antwort
@@ -93,7 +89,6 @@
 - Ich möchte, dass du meine Frage beantwortest
 - Beantworte einfach die Frage
 - Kannst du mir antworten
-- Antworten
 - Kannst du mir eine Frage beantworten
 - kannst Du antworten
 - Fragen beantworten
@@ -121,7 +116,6 @@
 - das war schrecklich
 - es ist schlecht
 - das ist schlecht
-- das ist schlecht
 - nicht gut
 - Ich fürchte, es ist schlimm
 - Nein, es ist schlimm
@@ -130,13 +124,8 @@
 - so schlecht
 - Das ist schade
 - schrecklich
-- schrecklich
-- schrecklich
 - miserabel
-- es ist schlecht
-- nicht gut
 - das war schlecht
-- das war schrecklich
 - das ist lahm
 - Das ist nicht gut
 - das ist furchtbar
@@ -148,7 +137,6 @@
 - es ist nicht gut
 - nicht so gut
 - es ist sehr schlimm
-- Das ist schade
 - das ist nicht gut genug
 - Naja, schade
 - schlecht, sehr schlecht
@@ -156,12 +144,9 @@
 - wirklich schlecht
 - es ist sehr schlecht
 - schlechte Idee
-- das ist schlecht
 - das war nicht gut
 - es ist nicht so gut
-- nicht gut
 - Oh, das ist nicht gut
-- nicht so gut
 - so lahm
 - Das ist wirklich schlimm
 - Es ist schade
@@ -183,10 +168,8 @@
 - Du bist so hübsch
 - Du siehst fantastisch aus
 - Du siehst so gut aus
-- Du bist so hübsch
 - Du bist zu Schön
 - du siehst super aus
-- Du siehst so gut aus
 - Ich mag es, wie du jetzt aussiehst
 - Ich finde dich schön
 - warum bist du so schön
@@ -197,11 +180,9 @@
 - Du siehst großartig aus
 - Du siehst heute großartig aus
 - Du siehst heute wunderschön aus
-- Du siehst großartig aus
 - du siehst hübsch aus
 - Du siehst so schön aus
 - du siehst so gut aus
-- du bist hübsch
 - Sie sind wirklich schön
 - du bist wirklich süß
 - du bist sehr schön
@@ -210,16 +191,11 @@
 - du bist so süß
 - Du bist so wunderschön
 - Du bist so schön
-- Du bist so hübsch
 - Sie sind sehr attraktiv
 - du bist wunderschön
 - Du bist sehr süß
-- du bist sehr schön
-- du siehst super aus
 - du siehst cool aus
-- Du siehst fantastisch aus
 - du siehst wunderschön aus
-- Du siehst heute großartig aus
 - du siehst perfekt aus
 - Du siehst ziemlich gut aus
 - du siehst so wunderschön aus
@@ -298,7 +274,6 @@
 - Ich bin schlaflos
 - Ich kann nicht schlafen
 - Ich kann nicht einschlafen
-- Ich bin schlaflos
 
 ## intent:chatbot
 - Du bist ein Chatbot
@@ -320,7 +295,6 @@
 - bist du verrückt
 - Sind Sie wütend auf mich
 - Bist du verrückt oder was
-- bist du verrückt
 - Du bist ein Sonderling
 - du bist wahnsinnig
 - du bist wütend
@@ -365,8 +339,6 @@
 - Ich werde dich feuern
 - Du bist von nun an arbeitslos
 - Ich werde dich arbeitslos machen
-- Ich werde dich feuern
-- Ich feuere dich
 - du bist entlassen
 
 ## intent:friend
@@ -406,7 +378,6 @@
 - könntest du mein Freund sein?
 - Ich möchte mein Freund sein
 - sei mein bester Freund
-- Können wir beste Freunde sein
 
 ## intent:funny
 - du bringst mich oft zum Lachen
@@ -424,6 +395,7 @@
 - du bist so lustig
 - Du bist sehr lustig
 - das war lustig
+- Bist du lustig
 
 ## intent:go_to_bed
 - Lass uns schlafen gehen
@@ -489,12 +461,9 @@
 - Ausgezeichnet
 - brillant
 - das ist großartig
-- das ist gut
 - Es ist toll
 - gut
-- gut
 - nett
-- das ist gut
 - sehr gut
 - tolle
 - Fantastisch
@@ -504,7 +473,6 @@
 - wirklich gut
 - es ist in Ordnung
 - es ist gut
-- Es ist toll
 - es ist perfekt
 - viel besser
 - nicht schlecht
@@ -520,7 +488,6 @@
 - super
 - Super fantastisch
 - Süss
-- sehr gut
 - das ist genial
 - das ist nett
 - das ist wundervoll
@@ -530,7 +497,6 @@
 - das war ziemlich gut
 - das war sehr gut
 - das ist eine gute Idee
-- das ist gut
 - das ist erstaunlich
 - Das ist großartig, danke
 - das ist besser
@@ -546,8 +512,6 @@
 - das ist süß von dir
 - das ist sehr nett
 - das ist wunderbar
-- das ist fantastisch
-- das ist gut
 - das ist toll
 - Sehr schön
 - sehr dann
@@ -564,13 +528,8 @@
 - Naja
 - gute Sache
 - das war gut
-- Es ist toll
-- OK gut
 - Das ist gut
 - nein das ist in Ordnung
-- das ist großartig
-- Sehr schön
-- es ist sehr gut
 
 ## intent:goodbye
 - Okay, bis später
@@ -582,9 +541,7 @@
 - Auf Wiedersehen
 - wir sehen uns
 - bis bald
-- Tschüss
 - Auf Wiedersehen, gute Nacht
-- Auf Wiedersehen
 - Tschüss. Man sieht sich
 - Tschüss, bis bald
 - Tschüss, pass auf dich auf
@@ -595,18 +552,15 @@
 - das ist es auf Wiedersehen
 - Lass mich alleine
 - Geh ins Bett
-- Auf Wiedersehen
 - Wir sprechen später
 - du kannst jetzt gehen
 - Hau ab
 - Tschüss, bis später
 - OK tschüss
-- Tschüss
 - Danke auf Wiedersehen
 - Okay, tschüss
 - Okay, danke auf Wiedersehen
 - bis morgen
-- OK tschüss
 
 ## intent:goodevening
 - guten Abend
@@ -614,6 +568,7 @@
 - Hallo guten Abend
 - abends
 - Guten Abend dort
+- Guten abend
 
 ## intent:goodmorning
 - guten Morgen
@@ -624,10 +579,9 @@
 - guten Morgen an alle
 - Bis zum nächsten Morgen
 - Guten Morgen
-- guten Morgen
-- Hallo, guten Morgen
 - und dir einen guten Morgen
 - auch einen guten Morgen
+- Guten morgen
 
 ## intent:goodnight
 - Träum süß
@@ -636,17 +590,14 @@
 - danke gute Nacht
 - Tschüss gute Nacht
 - gute Nacht, tschüss
-- Tschüss gute Nacht
 - gute gute Nacht
 - Gute Nacht für jetzt
-- Gute Nacht
 - Nacht
 - danke, gute Nacht
 - Gute Nacht bis Morgen
 - in Ordnung gute Nacht
 - Gut heute Nacht
 - Okay, gute Nacht
-- Nacht
 - gute Nacht
 
 ## intent:ha_ha
@@ -672,7 +623,6 @@
 - haha ​​haha ​​haha
 - haha ​​das ist lustig
 - haha ​​sehr witzig
-- hahaha
 - hahaha lustig
 - hahaha sehr lustig
 - er
@@ -687,7 +637,6 @@
 - Wenn du glücklich bist, bin ich glücklich
 - Ich freue mich für dich
 - Ich helfe gerne
-- Ich freue mich, dich zu sehen
 
 ## intent:help
 - Ich brauche deine Hilfe
@@ -699,14 +648,12 @@
 - können Sie mir helfen
 - Hilf mir
 - Hilfe
-- Ich brauche deine Hilfe
 - Ich brauche Hilfe
 - ihr könnt mir helfen
 - Kannst du mir mit etwas helfen
 - kannst du helfen
 - helfen
 - kannst du mir helfen
-- Ich brauche Hilfe
 - Du hilfst mir
 - hilfst du mir
 - kann mir helfen
@@ -718,12 +665,9 @@
 - Ich will deine Hilfe
 - brauche deine Hilfe
 - assistiere mir
-- wirst du mir helfen
 - können Sie mir damit helfen
-- Hilfe
 - Ich brauche dich jetzt
 - könntest du mir helfen
-- Kannst du mir helfen
 - sos
 - willst du mir helfen
 - Bitte hilf mir
@@ -754,7 +698,6 @@
 - Wie ist das
 - Wie gehts
 - Wie geht es Heute
-- Wie läuft dein Tag
 - Wie ist dein Abend
 - wie war dein Tag
 - hast du einen guten Tag
@@ -767,12 +710,11 @@
 - Wie ist dein Morgen
 - wie ist es mit Ihnen
 - Wie ist dein Tag
-- Wie läuft dein Tag
-- Wie war dein Tag
-- Wie ist dein Tag
 - wie geht es dir heute Morgen
-- Wie läuft dein Tag
 - wie geht es dir
+- bot wie geht es dir
+- hallo digga was geht
+- hallo wie geht es dir
 
 ## intent:hug
 - willst du eine Umarmung
@@ -846,12 +788,10 @@
 - aber ich mag dich
 - Ich mag Dich
 - genau wie du
-- Ich mag dich sehr
 - du bist etwas Besonderes
 - Ja, Ich mag dich
 - Okay, ich mag dich
 - du bist etwas Besonderes für mich
-- du bist etwas Besonderes
 - du bist so süß
 - Du weißt, dass ich dich mag
 - darum mag ich dich
@@ -860,8 +800,6 @@
 - Ich mag dich einfach
 - Hey ich mag dich
 - Danke, ich mag dich auch
-- Ich mag dich
-- du bist etwas Besonderes für mich
 - nein, ich mag dich so wie du bist
 - Ich mag dich jetzt schon
 - Nun, du bist etwas Besonderes
@@ -879,15 +817,11 @@
 - gut ich mag dich
 - Ja, du bist etwas Besonderes
 - Ich mag dein Lächeln
-- Ich mag dich so, wie du bist
 - Ich beginne dich zu mögen
 - Du bist großartig, ich mag dich
-- Ich mag dich auch
-- aber ich mag dich
 - Natürlich mag ich dich
 - Ich mag dich auch, du bist einer meiner liebsten Gesprächspartner
 - aber ich mag dich so sehr
-- mag dich sehr
 - Du bist lustig, ich mag dich
 - Ich mag dich irgendwie
 - Du bist so besonders zu mir
@@ -896,17 +830,14 @@
 - aber ich mag dich so wie du bist
 - Okay, ich mag dich auch
 - Ich mag dich, du bist cool
-- Ich mag dich sehr
 - Ich mag dich, du bist nett
 - Entschuldigung, ich mag dich
-- Danke, ich mag dich auch
 - Du bist wirklich etwas Besonderes
 - Du bist so besonders für mich
 - Weil ich dich mag
 - Ich mag dich jetzt
 - Ich mag dich so
 - Ich mag dich zu sehr
-- Ich mag dich wirklich
 - Ich mag dich wirklich sehr, sehr, sehr
 - Ich mag dich so wie du bist
 
@@ -916,7 +847,6 @@
 - Ich verehre dich
 - Ich liebe dich so
 - Ich liebe dich so sehr
-- Ich liebe dich auch
 - Ich glaube, ich liebe dich
 - dich lieben
 - Du weist, ich liebe dich
@@ -953,7 +883,6 @@
 - es war schön, Sie kennen zu lernen
 - es war sehr schön, Sie zu treffen
 - gut, dich zu kennen
-- Freut mich, dich kennenzulernen
 - schön dich zu treffen
 - es ist mir eine Freude dich kennen zu lernen
 - Ich freue mich auch, dich kennenzulernen
@@ -966,14 +895,12 @@
 - Froh dich zu sehen
 - wie schön es ist, dich zu sehen
 - Es ist immer eine Freude, dich zu sehen
-- schön dich zu sehen
 - Schön, dich wiederzusehen
 - Schön dich auch zu sehen
 - Ich freue mich, dich wiederzusehen
 - schön dich wieder zu sehen
 - Ich bin auch froh, dich zu sehen
 - Schön dich wieder zu sehen
-- Schön dich auch zu sehen
 
 ## intent:nice_to_talk
 - Es war so schön, mit dir zu reden
@@ -987,7 +914,6 @@
 ## intent:no_problem
 - keine Sorge
 - kein Problem
-- kein Problem
 - es gibt keine Probleme
 - sicher kein Problem
 - kein Problem damit
@@ -996,7 +922,6 @@
 
 ## intent:occupation
 - arbeitest du
-- wo arbeitest du
 - wo arbeitest du
 - wo ist deine Arbeit
 - wo ist dein Büro
@@ -1021,7 +946,6 @@
 - bist du bereit
 - Bist du jetzt bereit
 - Bist du heute bereit
-- Bist du jetzt bereit
 - Bist du heute Abend fertig
 - Warst du bereit
 
@@ -1072,7 +996,6 @@
 - Du musst lernen
 - Sei schlau
 - Sei schlauer
-- Sei schlauer
 - seien Sie clever
 - dich qualifizieren
 - Du bist so intelligent
@@ -1089,26 +1012,20 @@
 - du hast viel Wissen
 - Du weißt so viel
 - Wie schlau du bist
-- Wie schlau du bist
-- Wie schlau du bist
 - Wie brillant du bist
 - Du bist intelligent
 - Du bist qualifiziert
-- Du bist wirklich schlau
 - du bist sehr schlau
 - du bist so schlau
 - Du bist zu schlau
 - du bist sehr klug
 - du bist sehr intelligent
-- du bist sehr klug
-- Du bist intelligent
-- du bist ein Genie
 - Du bist ein schlauer Keks
-- Du bist schlau
 - Du bist ziemlich schlau
-- Du bist qualifiziert
 - Warum bist du so schlau
 - du bist so klug
+- /smart{}
+- Bist du noch da
 
 ## intent:sorry
 - Entschuldige
@@ -1120,7 +1037,6 @@
 - Entschuldige mich
 - Entschuldigung
 - Entschuldigung an mich
-- Entschuldigung
 - Ausrede
 - Ich bitte Sie um Entschuldigung
 - Verzeihung
@@ -1151,9 +1067,6 @@
 - Rede mit mir
 - Plaudere einfach mit mir
 - sprich zu mir
-- Rede mit mir
-- sprich mit mir
-- Warum sprichst du nicht mit mir
 - du kannst mit mir sprechen
 
 ## intent:testing_agent
@@ -1198,10 +1111,8 @@
 - perfekt, danke
 - so nett von dir
 - Danke schön
-- Gut, danke
 - Danke
-- Dankeschön
-- Danke
+- ich könnte nicht ohne dich leben
 
 ## intent:unhelpful
 - Du hilfst mir nicht
@@ -1220,14 +1131,11 @@
 - du bist nicht gut
 - du bist so böse
 - Du bist so nutzlos
-- du bist schrecklich
 - du bist völlig nutzlos
-- Du bist sehr schlecht
 - Du bist Verschwendung
 - Du bist ein schlechter
 - Du bist kein guter
 - Du bist nicht sehr gut
-- du bist schrecklich
 - du bist der schlechteste
 - Du bist der Schlimmste aller Zeiten
 
@@ -1262,13 +1170,11 @@
 - sehe ich gut aus
 - Weißt du, wie ich aussehe
 - Kannst du sehen, wie ich aussehe
-- Wie sehe ich aus
 
 ## intent:user_sad
 - Ich bin traurig
 - Ich trauere
 - Ich bin deprimiert
-- Ich bin traurig
 - Ich bin sauer
 - Ich bin unglücklich
 - Ich habe einen schlechten Tag
@@ -1288,9 +1194,6 @@
 - Ich bin müde
 - Ich bin erschöpft
 - Ich werde müde
-- Ich bin erschöpft
-- Ich werde müde
-- Ich bin müde
 
 ## intent:user_waiting
 - Ich warte
@@ -1337,13 +1240,11 @@
 - Gute Arbeit
 - tolle Arbeit
 - Bravo
-- gute Arbeit
 
 ## intent:what_you_mean
 - was genau meinst du
 - Was meinst du
 - meinst Du das
-- was genau meinst du
 - aber was meinst du
 
 ## intent:whatsup
@@ -1357,7 +1258,6 @@
 - was ist dann los
 - Was zittert
 - wassup
-- Was ist los
 - Was kocht
 - Halli-Hallo was ist los
 - was steht heute an
@@ -1377,8 +1277,32 @@
 - es ist nicht richtig
 - das ist nicht richtig
 - es ist falsch
-- das ist falsch
-- falsch
 - nicht richtig
 - du liegst falsch
-- nicht richtig
+
+## intent:are_you_there
+- bist du noch da
+- Hallo bist du noch da
+- sarah bist du da
+- hallo gist du noch da
+
+## intent:mycroft_german
+- wie verwende ich mycroft in [deutsch](language)
+
+## intent:know-mycroft
+- kennst du mycroft
+
+## intent:reboot
+- neustart
+- kannst du von vorne beginnen
+- starte neu
+- Neustart
+- ich muss dich wohl neustarten
+- restart
+- Restart
+
+## lookup:location.txt
+  data/nlu/lookups/location.txt
+
+## lookup:products.txt
+  data/nlu/lookups/products.txt

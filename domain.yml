@@ -151,6 +151,10 @@ intents:
 - beautiful
 - wow
 - unhelpful
+- are_you_there
+- mycroft_german
+- know-mycroft
+- reboot
 entities:
 - amount-of-money
 - company
@@ -828,6 +832,30 @@ templates:
   utter_x_tutorial:
   - text: Das Video-Intro von Juste findest du  [hier] (https://www.youtube.com/watch?v=VXvWdrr2yw8&feature=youtu.be).
       Es ist ein großartiger Ort, um Ihre Reise mit Rasa X zu beginnen!
+  utter_smart:
+  - text: nett von dir
+  - text: Danke net von dir
+  utter_are_you_there:
+  - text: für dich immer
+  - text: Was kann ich für dich tun
+  - text: ''
+  - text: für dich binn ich immer da
+  - text: was kann ich für dich tun
+  utter_mycroft_german:
+  - text: gras64 hat eine Anleitung unter https://github.com/gras64/docs-rewrite/blob/master/_pages/german.md
+      veröffentlicht
+  - text: versuche es mal da https://github.com/gras64/docs-rewrite/blob/master/_pages/german.md
+  - text: villeicht hilft dir das https://github.com/gras64/docs-rewrite/blob/master/_pages/german.md
+  utter_know_mycroft:
+  - text: sicher kenne ich mycroft
+  - text: Ich wurde für mycroft ausgebildet
+  - text: du meinst sicher mycroft A.I.
+  - text: klar kenne ich mycroft, wie kann ich dir dabei helfen
+  utter_thanks:
+  - text: Danke lieb von dir
+  - text: ich mag dich auch
+  - text: das hast du schön gesagt
+  - text: danke für das kompliment
 actions:
 - action_chitchat
 - action_default_ask_affirmation
@@ -1006,6 +1034,12 @@ actions:
 - utter_what_language
 - utter_x_tutorial
 - respond_out_of_scope
+- utter_smart
+- utter_are_you_there
+- utter_mycroft_german
+- utter_now_mycroft
+- utter_know_mycroft
+- utter_thanks
 forms:
 - sales_form
 - subscribe_newsletter_form

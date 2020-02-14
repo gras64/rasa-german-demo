@@ -16,7 +16,6 @@
 - Ich werde
 - Ich würde das absolut lieben
 - Ich bin mir sicher ich werde!
-- Ich benutze es
 - Nett
 - IN ORDNUNG
 - Na sicher
@@ -71,7 +70,6 @@
 - gehen Sie geradeaus
 - Tue es
 - geht super gut
-- gut
 - gut.
 - großartig
 - Großartig, machen wir das
@@ -80,8 +78,6 @@
 - Auf jedenfall
 - Hm, das würde mir gefallen
 - wie schön!
-- Ich nehme an
-- Genau
 - ich bin!
 - ich will das
 - ich werde!
@@ -97,9 +93,7 @@
 - Lass uns das machen
 - nett
 - nicht schlecht
-- Na sicher
 - Natürlich tue ich
-- Na sicher
 - Oh toll!
 - Oh cool
 - Oh gut !!
@@ -114,9 +108,7 @@
 - Okay, Sara
 - Ok, ich benehme mich jetzt
 - OK ich habe verstanden
-- Okay, Sara
 - in Ordnung...
-- in Ordnung
 - alles klar
 - Okie
 - Ok
@@ -140,8 +132,6 @@
 - y
 - Du bist cool
 - Du machst es
-- Ja, ich will
-- Ja bitte
 - Ja, das ist cool
 - Jaah
 - Yay
@@ -155,15 +145,12 @@
 - Jaaa
 - Ja, das will ich
 - Ja, wenn ich muss
-- Ja bitte
 - Ja, das ist schön
-- Ja, das ist cool
 - Ja, ich werde es Ihnen danken
 - Ja. : /
 - ja, ich will
 - ja bitte annehmen
 - ja Baby
-- ja cool
 - Ja, gib mir Informationen
 - ja, fahre fort
 - Ja, mach schon
@@ -175,8 +162,6 @@
 - ja ist es
 - ja es war okay
 - ja natürlich
-- ja bitte
-- Ja bitte
 - ja bitte!
 - Ja, bitte
 - Ja, Sir
@@ -185,10 +170,8 @@
 - Ja, du kannst
 - Ja'
 - Ja, würde ich gerne
-- ja cool
 - Ja, bitte geben Sie mir Informationen
 - ja bin ich
-- Ja.
 - Jaaaa
 - Ja, ja
 - ja Ja Ja
@@ -196,8 +179,14 @@
 - Sie haben mir eine Ja- oder Nein-Frage gestellt, die ich mit Ja beantwortet habe
 - Du hast mich, ich akzeptiere, wenn du willst, dass ich es tue
 - Jahre
-- Jep
 - yyeeeh
+- Jawoll
+- ok
+- Ja natürlich
+- ich nehme an
+- yes
+- ja
+- toll
 
 ## intent:ask_builder
 - Von wem wurdest du gebaut?
@@ -220,15 +209,12 @@
 - Wer hat dich entwickelt?
 - Wer hat dich erfunden?
 - Wer hat dich generiert?
-- Wer hat dich gebaut?
 - Wer ist dafür verantwortlich, dich zu machen?
 - Wer ist der Erbauer von dir?
 - Wer ist der rechtmäßige Eigentümer von dir?
 - Wer ist der Name Ihres Erbauers?
 - Wie heißt dein Schöpfer?
 - Wer ist für Ihren Bau verantwortlich?
-- Wer hat dich erfunden?
-- Wer hat dich gebaut?
 - Wer ist dein Schöpfer?
 - Wer ist Ihr Programmierer?
 - Wer dich gemacht hat?
@@ -237,13 +223,9 @@
 - Wer hat dich produziert?
 - Wer hat dich zusammengestellt?
 - Wer hat gedacht, dich zu machen?
-- Wer hat dich gebaut?
 - Wer hat dich gemacht?
-- Wer hat dich gebaut?
-- Wer hat dich erschaffen?
 - Wer hat Sie zusammengestellt?
 - Wer hat sich die Mühe gemacht, Sie einzurichten?
-- Von wem wurdest du gebaut?
 - Von wem wurdest du geschaffen?
 - Von wem wurdest du gemacht?
 - Wer ist dein Chef?
@@ -269,37 +251,35 @@
 - Wer ist dein Autor?
 - wer sind deine Eltern
 - Wer baut dich?
-- Wer hat dich gebaut?
-- Wer hat dich gebaut?
 - Wer erschafft dich?
-- Wer hat dich erschaffen?
 - wer hat sich entwickelt
-- Wer hat dich entwickelt?
 - Für wen arbeitest du?
 - Wer hatte die Idee, dich zu bauen?
 - Wer hatte die Idee, dich zu generieren?
 - Wer hatte die Idee, dich zu machen?
 - Wer erfindet dich?
 - Wer steckt dahinter?
-- Wer ist dein Autor?
 - wer ist dein Chef
 - Wer ist dein Chef, sag es mir
 - wer ist dein Chef?
 - Wer ist dein Schöpfer
-- Wer ist dein Schöpfer?
 - wer ist dein Vater
 - Wer ist Ihr Arbeitgeber?
 - Wer ist dein Vater ?
 - Wer ist deine Mutter?
 - Wer ist dein Elternteil?
-- Wer hat dich gemacht?
 - Wer dich gemacht hat
-- Wer dich gemacht hat?
 - Wer sind deine Autoren?
 - Wer ist Baumeister?
 - Warum wurdest du gemacht?
 - du wirst von wem gemacht?
 - du arbeitest für welches Unternehmen?
+- Ich möchte Ihren Besitzer kennenlernen
+- Bitte teile mir die Firma mit, die dich gegründet hat
+- Wer ist dein rechtmäßiger Eigentümer?
+- Wer ist dein Programmierer?
+- Wie wurdest du gemacht?
+- Wer hat dich gemacht
 
 ## intent:ask_faq_rasax
 - Was ist Rasa X?
@@ -324,7 +304,6 @@
 - kann mir jemand mit infos über rasa x helfen
 - Ich möchte mehr über Rasa X erfahren
 - Sag mir, was ist rasa x
-- Was ist Rasa X?
 
 ## intent:ask_faq_channels
 - Kannst du feststellen, welche Nachrichtenkanäle von Rasa unterstützt werden?
@@ -370,25 +349,24 @@
 - Welche Chat-Kanäle verwendet Rasa?
 - Welcher UI-Kanal wird von Rasa verwendet?
 - Welche Nachrichtenkanäle sind mit rasa kompatibel?
-- Welche Nachrichtenkanäle werden von Rasa unterstützt?
 - Welche Nachrichtenkanäle kann ich mit rasa verwenden?
-- Welche Nachrichtenkanäle können mit rasa verwendet werden?
-- Welche Nachrichtenkanäle werden von Rasa unterstützt?
 - Welche bestimmten Nachrichtenkanäle werden von Rasa unterstützt?
 - Welche Chat-Dienste unterstützt du?
+- Nein, ich meine, wie es möglich ist, Skype als Kanal zu verwenden?
+- Welche Kanäle werden von Rasa NLU unterstützt?
+- rasa unterstützt welche Nachrichtenkanäle?
+- rasa kann welche verschiedenen Nachrichtenkanäle nutzen?
+- Rasa unterstützt einige Nachrichtenkanäle. Welch sind das?
 
 ## intent:ask_faq_community_size
 - Wusstst du, wie groß die rasa-Community ist?
 - Weißt du, wie groß die Rasa-Community ist?
 - Weißt du, wie viele Leute in der Rasa-Community sind?
 - Wie groß ist die Rasa-Community?
-- Wie groß ist die Rasa-Community?
 - Wie groß ist die Community?
 - Wie groß ist diese Community?
 - Wie weit verbreitet sich die Rasa-Community?
 - Wie wenige Mitglieder in der Community?
-- Wie groß ist die Rasa-Community?
-- Wie groß ist die Community?
 - Wie groß ist die Rasa-Gemeinschaft ungefähr?
 - Wie viele in der Gemeinde?
 - Wie viele Personen sind in deiner Gemeinde?
@@ -407,12 +385,8 @@
 - Ist das Rasa-Community-Medium?
 - Ist die Rasa-Community klein?
 - Ist die Community groß?
-- Wie groß ist die Rasa-Gemeinschaft?
 - Wie groß ist die Gemeinde?
 - Wie viele Personen sind in dieser Community?
-- Wie groß ist die Community?
-- Wie groß ist die Rasa-Community?
-- Wie groß ist die Community?
 - Hast du eine große Community?
 - Wie groß ist deine Community?
 - Wie viele Forumsmitglieder hast du?
@@ -447,35 +421,53 @@
 - Unterschied zwischen rasa [core](product) und rasa [nlu](product)
 - Ich kenne den Unterschied nicht
 - rasa [core](product) vs rasa [nlu](product)
-- Was ist der Unterschied zwischen [NLU](product) und [core](product)?
 - Was ist der Unterschied?
-- Was sind die Unterschiede?
 - Was sind die Hauptunterschiede zwischen [core](product) und [nlu](product)?
 - Welche Unterschiede gibt es zwischen [core](product) und [nlu](product)?
 - Welche Unterschiede bestehen zwischen [core](product) und [nlu](product)?
 - was ist anders
-- Was unterscheidet [core](product) von [nlu](product)?
 - Was ist der Unterschied zwischen [core](product) und [nlu](product)
 - Was ist der Unterschied zwischen [core](product) und [nlu](product)?
 - Was ist der Unterschied zwischen [nlu](product) und [core](product)
 - Was ist der Unterschied zwischen [nlu](product) und [core](product)?
 - Was ist der Unterschied zwischen [nlu](product) und rasa [core](product)?
-- Was ist der Unterschied zwischen rasa [nlu](product) und rasa [core](product)?
 - Was ist der Unterschied zwischen rasa [nlu](product) und rasa [core](product)
 - Was ist der Unterschied zwischen den beiden?
-- Was ist der Unterschied?
 - was ist das anders
 - Was ist der Hauptunterschied zwischen [core](product) und [nlu](product)?
 - Was unterscheidet [core](product) und [nlu](product) voneinander?
-- Was unterscheidet [core](product) von [nlu](product)?
-- Was ist der Unterschied zwischen rasa [nlu](product) und rasa [core](product)?
 - Was ist der Unterschied zwischen [core] (product) und [nlu](product)?
-- Was ist der Unterschied zwischen rasa [nlu](product) und rasa [core](product)
-- Was ist der Unterschied zwischen [NLU](product) und [core](product)?
-- Was ist der Unterschied zwischen [core](product) und [nlu](product)?
 - was ist der Unterschied?
 - Was ist der Unterschied
-- Was ist der Unterschied zwischen [core](product) und [nlu](product)
+- Was unterscheidet [core] (product) und [nlu] (product)?
+- Was ist der Hauptunterschied zwischen [core] (product) und [nlu] (product)?
+- Was ist deiner Meinung nach der Unterschied zwischen [core] (product) und [nlu] (product)?
+- Welche Unterschiede gibt es zwischen [core] (product) und [nlu] (product)?
+- Welche Unterschiede bestehen zwischen [core] (product) und [nlu] (product)?
+- Was unterscheidet [core] (product) von [nlu] (product)?
+- Was unterscheidet [core] (product) und [nlu] (product) voneinander?
+- Was sind die Hauptunterschiede zwischen [core] (product) und [nlu] (product)?
+- Kennst du den Unterschied zwischen [core] (product) und [nlu] (product)?
+- Was sind die Ähnlichkeiten zwischen [core] (product) und [nlu] (product)?
+- Wie unterscheidet sich [core] (product) von [nlu] (product)?
+- Was bietet [core] (product), was [nlu] (product) nicht bietet?
+- Unterscheidet sich [nlu] (Produkt) von [core] (Produkt) und wenn ja, wie?
+- Wie unterscheidet sich [nlu] (Produkt) von [core] (Produkt)?
+- Was unterscheidet [nlu] (Produkt) von [core] (Produkt)?
+- Wie vergleicht sich [core] (Produkt) mit [nlu] (Produkt)?
+- Kennest du den Unterschied zwischen [core] (product) und [nlu] (product)?
+- Was bedeuten [core] (product) und [nlu] (product)?
+- Inwiefern unterscheidet sich [nlu] (Produkt) von [core] (Produkt)?
+- Liste die unterschiedlichen Qualitäten von [core] (product) und [nlu] (product) auf
+- Wie unterscheiden sich [core] (product) und [nlu] (product)?
+- Was macht [core] (product) und [nlu] (product) inkompatibel?
+- Wie kommt es zu Konflikten zwischen [core] (product) und [nlu] (product)?
+- Welche Tatsachen weichen [Kern] (Produkt) von [nlu] (Produkt) ab?
+- Inwiefern unterscheiden sich [core] (product) und [nlu] (product)?
+- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)
+- Unterschied zwischen rasa [core] (product) und rasa [nlu] (product)
+- rasa [core] (produkt) vs rasa [nlu] (produkt)
+- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)?
 
 ## intent:ask_faq_differencerasarasax
 - Sind [Rasa](product) und [Rasa X](product) dasselbe?
@@ -492,8 +484,23 @@
 - Sag mir den Unterschied zwischen [rasa](product) und [rasa x](product)
 - Sag mir den Unterschied zwischen [rasa](product) und [x](product)
 - Was ist der Unterschied zwischen [rasa](product) und [rasa x](product)
-- Was ist der Unterschied zwischen [rasa](product) und [rasa x](product)
 - Wann soll ich [rasa](Produkt) und wann soll ich [rasa x](Produkt) verwenden
+- Was ist der Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt)
+- Was ist der Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt: x)
+- Inwiefern unterscheidet sich [Rasa X] (Produkt: x) von [Rasa] (Produkt: rasa)?
+- Sind [Rasa] (Produkt) und [Rasa X] (Produkt: x) dasselbe?
+- Was ist neu in [Rasa X] (Produkt: x) im Vergleich zu [Rasa] (Produkt: rasa)?
+- Wenn ich [Rasa] (Produkt: rasa) verwende, benötige ich auch [Rasa X] (Produkt: x)?
+- Ich verwende [rasa] (rasa) nlu. Warum brauche ich [rasa x] (Produkt: x)?
+- Bitte vergleiche [rasa] (Produkt) und [rasa x] (Produkt: x)
+- Nenn mir den Unterschied zwischen [rasa] (Produkt) und [x] (Produkt)
+- Sag mir den Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt: x)
+- zeige mir einen Vergleich zwischen [rasa x] (Produkt: x) und [[rasa
+- Wie kann sich [rasa x] (Produkt: x) gegen [rasa] (Produkt: rasa) behaupten?
+- Wann soll ich [rasa] (Produkt: rasa) und wann [rasa x] (Produkt: x) verwenden?
+- Brauche ich sowohl [Rasa] (Produkt: rasa) als auch [Rasa X] (Produkt: x)?
+- Kann ich [rasa] (Produkt: rasa) ohne [rasa x] (Produkt: x) verwenden?
+- Kann ich [Rasa X] (Produkt: x) ohne [Rasa] (Produkt: rasa) verwenden?
 
 ## intent:ask_faq_ee
 - Kannst du mir etwas über die Enterprise Edition erzählen?
@@ -518,6 +525,8 @@
 - Erzähl mir von Rasa Enterprise
 - Rasa Unternehmen bitte
 - mehr Infos zum Unternehmen
+- Kannst du  mir etwas über die Enterprise Edition erzählen?
+- was ich sehe?
 
 ## intent:ask_faq_is_programming_required
 - Benötigt rasa Programmierkenntnisse?
@@ -559,12 +568,10 @@
 - Ich würde gerne Java als Programmiersprache für Rasa kennenlernen
 - Wie programmiere ich den Bot?
 - Welche Programmiersprache kann ich verwenden?
-- Welche Programmiersprachen unterstützt du?
 - Muss ich wissen, wie man einen Bot erstellt?
 - Welche Programmierkenntnisse muss ich lernen?
 - Was ist Ihre Programmiersprache?
 - In welcher Programmiersprache sind Sie geschrieben?
-- Welche Programmiersprache verwendet Rasa?
 - In welcher Programmiersprache ist deine API?
 - Gibt es eine API für andere Programmiersprachen?
 - In welcher Sprache ist rasa programmiert?
@@ -585,12 +592,10 @@
 - Ich möchte zuerst die Kosten wissen.
 - Abonnementkosten?
 - Einschreibegebühr
-- Was kostet Rasa?
 - Was kostet RASA?
 - Was ist der Preis ?
 - Was kostet das?
 - Sind Sie frei ?
-- Bist du wirklich frei?
 - Bist du wirklich frei?
 - Können Sie mir die Preise nennen?
 - Kannst du mir die Preise nennen?
@@ -602,11 +607,7 @@
 - wie viel kostest du
 - Wie viel kostet RASA?
 - Wie viel kostet Rasa?
-- Wie viel kostet es
 - wie viel kostet es normalerweise?
-- Wie viel kostet es?
-- Wie viel kostet Rasa?
-- Wie viel kostet Rasa?
 - Wie viel kostet das
 - wie viel kostet es?
 - Wie viel Brei kostet Rasa?
@@ -621,11 +622,9 @@
 - Das ist gratis?
 - Wie viel kostet das?
 - Was ist die Preisgestaltung von Rasa
-- Was kostet Rasa?
 - Was ist der Enterprise Pricing Schedule?
 - Was ist der Preis von Rasa
 - was ist der Preis?
-- Was kostet Rasa?
 - Deine Kosten?
 - Sind Sie Open Source?
 - Können Sie mir sagen, ob Rasa Open Source ist oder nicht?
@@ -645,16 +644,12 @@
 - Verwendet Rasa Open Source Software?
 - Wie bekomme ich die Open Source Rasa
 - Ist RASA Open Source?
-- Ist Rasa Open Source?
-- Ist es Open Source?
 - Ist es Open Source?
 - Ist rasa Open-Source?
 - Ist Rasa eine Art Open-Source-Software?
 - Ist Rasa eine Open Source Software?
 - Wird Rasa als Open-Source-Software betrachtet?
-- Ist Rasa Open Source?
 - Ist rasa wie eine Open Source Software
-- Ist Rasa Open Source?
 - Ist Rasa-Software als Open Source klassifiziert?
 - Ist das Rasa-Projekt Open Source?
 - Ist das Projekt Open Source?
@@ -688,6 +683,41 @@
 - Ich möchte ein Tutorial über Rasa
 - Ich brauche ein Rasa-Tutorial
 - Bitte zeigen Sie mir ein Tutorial
+- Hattest du ein Tutorial?
+- Groß. Gibt es Tutorials?
+- Gibt es ein Tutorial für Rasa?
+- LERNPROGRAMM !!!!!!!!!!
+- Tutorials zum Erlernen von Rasa?
+- irgendwelche Tutorials zur Verwendung von Rasa?
+- Gibt es ein paar Tutorials, die ich mir ansehen könnte?
+- Gibt es Tutorials zu Rasa?
+- grundlegende Tutorials
+- Bestes Tutorial für Rasa
+- Kannst du mir ein Tutorial schicken?
+- Kannst du mir eine Online-Anleitung zu Rasa geben?
+- Kannst du mir ein gutes Handbuch über Rasa zeigen?
+- Hast du ein Rasa-Tutorial?
+- Laden Sie das Tutorial herunter
+- Hol mir ein paar Tutorials
+- Ich kann kein Tutorial für Rasa finden
+- Ich brauche ein gutes Tutorial für Rasa
+- Ich möchte ein Tutorial von Rasa
+- Ich möchte ein Tutorial
+- Ich suche das YouTube-Tutorial
+- gibt es ein Tutorial dafür?
+- Gibt es ein Tutorial?
+- Rasa-Bot-Tutorial
+- Rasa-Tutorials
+- Zeigst du mir ein Tutorial?
+- Lernprogramm
+- Lernprogramm?
+- Tutorials
+- Was ist das beste Tutorial
+- Wo kann ich Tutorials für Rasa finden?
+- Wo finde ich Tutorials?
+- Wo bekomme ich ein Tutorial zu Rasa?
+- Ja, wo finde ich praktische Anleitungen zur Verwendung von RASA-Produkten?
+- Ich muss RASA Schritt für Schritt studieren. Welches ist der beste Ort, an dem ich studieren kann?
 
 ## intent:ask_faq_python_version
 - Welche Python-Version soll ich installieren
@@ -752,44 +782,22 @@
 - Erzähl mir von Slots
 - Sag mir die Slots?
 - Was ist mit Slots?
-- Was sind Slots?
 - Was meinst du mit Slots?
 - Was denkst du Slots sind?
 - Was ist ein Slot?
 - Was ist Slots
 - Welche Slots gibt es?
-- Was sind Slots?
 - Wann kannst du mir sagen, was ein Slot ist?
 - Wo kann ich herausfinden, was ein Slot ist?
 - Wo Slots Werte bekommen
-- Was sind die Slots?
-- Welche Slots gibt es?
-
-## intent:ask_faq_channels
-- Nein, ich meine, wie es möglich ist, Skype als Kanal zu verwenden?
-- Welche Kanäle unterstützt du?
-- Welche Chat-Kanäle verwendet Rasa?
-- Kanäle
-- Von Rasa unterstützte Kanäle
-- Welche Kanäle werden von Rasa NLU unterstützt?
-- Welcher UI-Kanal wird von Rasa verwendet?
-- Welche Nachrichtenkanäle werden von Rasa unterstützt?
-- Welche bestimmten Nachrichtenkanäle werden von Rasa unterstützt?
-- Welche Nachrichtenkanäle werden von Rasa unterstützt?
-- rasa unterstützt welche Nachrichtenkanäle?
-- Welche Nachrichtenkanäle kann ich mit rasa verwenden?
-- Welche Nachrichtenkanäle können mit rasa verwendet werden?
-- Welche Nachrichtenkanäle sind mit rasa kompatibel?
-- Welche Nachrichtenkanäle können mit rasa verwendet werden?
-- rasa kann welche verschiedenen Nachrichtenkanäle nutzen?
-- WELCHE BOTSCHAFTSPORTALE UNTERSTÜTZT RASA?
-- UNTERSTÜTZT RASA MESSENGER?
-- UNTERSTÜTZT RASA DIE WHATS-APP?
-- UNTERSTÜTZT RASA SMS?
-- Wiesst du, welche Nachrichtenkanäle von Rasa unterstützt werden?
-- Kannst du feststellen, welche Nachrichtenkanäle von Rasa unterstützt werden?
-- Rasa unterstützt einige Nachrichtenkanäle. Welch sind das?
-- Welche Kommunikationskanäle unterstützt rasa?
+- Hilf mir mit Slots
+- Helfe mir mit Slots
+- Ich muss über das Füllen von Slots Bescheid wissen
+- Wie man das Tastensystem für die Auswahl der Steckplätze beibehält
+- Wie werden Slots gefüllt?
+- Was sind Slots
+- ich binn mir nicht sicher, welche Slots es sind?
+- Können Sie mir die Bedeutung von Slots mitteilen?
 
 ## intent:ask_faq_tutorialcore
 - Gibt es einige Core-Tutorials, die ich mir ansehen könnte?
@@ -807,60 +815,6 @@
 - Bitte zeige mir ein Kern-Tutorial
 - Rasa Core Tutorial
 
-## intent:ask_faq_differencecorenlu
-- Was unterscheidet [core] (product) und [nlu] (product)?
-- Was ist der Hauptunterschied zwischen [core] (product) und [nlu] (product)?
-- Was ist der Hauptunterschied zwischen [core] (product) und [nlu] (product)?
-- Was ist deiner Meinung nach der Unterschied zwischen [core] (product) und [nlu] (product)?
-- Welche Unterschiede gibt es zwischen [core] (product) und [nlu] (product)?
-- Welche Unterschiede bestehen zwischen [core] (product) und [nlu] (product)?
-- Was unterscheidet [core] (product) von [nlu] (product)?
-- Was unterscheidet [core] (product) von [nlu] (product)?
-- Was unterscheidet [core] (product) und [nlu] (product) voneinander?
-- Was sind die Hauptunterschiede zwischen [core] (product) und [nlu] (product)?
-- Kennst du den Unterschied zwischen [core] (product) und [nlu] (product)?
-- Was sind die Ähnlichkeiten zwischen [core] (product) und [nlu] (product)?
-- Wie unterscheidet sich [core] (product) von [nlu] (product)?
-- Was bietet [core] (product), was [nlu] (product) nicht bietet?
-- Unterscheidet sich [nlu] (Produkt) von [core] (Produkt) und wenn ja, wie?
-- Wie unterscheidet sich [nlu] (Produkt) von [core] (Produkt)?
-- Was unterscheidet [nlu] (Produkt) von [core] (Produkt)?
-- Wie vergleicht sich [core] (Produkt) mit [nlu] (Produkt)?
-- Was unterscheidet [core] (product) von [nlu] (product)?
-- Kennest du den Unterschied zwischen [core] (product) und [nlu] (product)?
-- Was bedeuten [core] (product) und [nlu] (product)?
-- Was unterscheidet [core] (product) von [nlu] (product)?
-- Inwiefern unterscheidet sich [nlu] (Produkt) von [core] (Produkt)?
-- Liste die unterschiedlichen Qualitäten von [core] (product) und [nlu] (product) auf
-- Wie unterscheiden sich [core] (product) und [nlu] (product)?
-- Was macht [core] (product) und [nlu] (product) inkompatibel?
-- Wie kommt es zu Konflikten zwischen [core] (product) und [nlu] (product)?
-- Welche Tatsachen weichen [Kern] (Produkt) von [nlu] (Produkt) ab?
-- Inwiefern unterscheiden sich [core] (product) und [nlu] (product)?
-- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)
-- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)
-- Unterschied zwischen rasa [core] (product) und rasa [nlu] (product)
-- rasa [core] (produkt) vs rasa [nlu] (produkt)
-- Was ist der Unterschied zwischen [core] (product) und [nlu] (product)?
-
-## intent:ask_faq_differencerasarasax
-- Was ist der Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt)
-- Was ist der Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt: x)
-- Inwiefern unterscheidet sich [Rasa X] (Produkt: x) von [Rasa] (Produkt: rasa)?
-- Sind [Rasa] (Produkt) und [Rasa X] (Produkt: x) dasselbe?
-- Was ist neu in [Rasa X] (Produkt: x) im Vergleich zu [Rasa] (Produkt: rasa)?
-- Wenn ich [Rasa] (Produkt: rasa) verwende, benötige ich auch [Rasa X] (Produkt: x)?
-- Ich verwende [rasa] (rasa) nlu. Warum brauche ich [rasa x] (Produkt: x)?
-- Bitte vergleiche [rasa] (Produkt) und [rasa x] (Produkt: x)
-- Nenn mir den Unterschied zwischen [rasa] (Produkt) und [x] (Produkt)
-- Sag mir den Unterschied zwischen [rasa] (Produkt) und [rasa x] (Produkt: x)
-- zeige mir einen Vergleich zwischen [rasa x] (Produkt: x) und [[rasa
-- Wie kann sich [rasa x] (Produkt: x) gegen [rasa] (Produkt: rasa) behaupten?
-- Wann soll ich [rasa] (Produkt: rasa) und wann [rasa x] (Produkt: x) verwenden?
-- Brauche ich sowohl [Rasa] (Produkt: rasa) als auch [Rasa X] (Produkt: x)?
-- Kann ich [rasa] (Produkt: rasa) ohne [rasa x] (Produkt: x) verwenden?
-- Kann ich [Rasa X] (Produkt: x) ohne [Rasa] (Produkt: rasa) verwenden?
-
 ## intent:ask_faq_tutorialnlu
 - Gibt es ein paar nlu-Tutorials, die ich mir ansehen könnte?
 - Kannst du mir ein nlu Tutorial zeigen?
@@ -877,45 +831,6 @@
 - Bitte zeigen Sie mir ein nlu Tutorial
 - rasa nlu Tutorial
 - Ich suche ein Tutorial für Rasa NLU
-
-## intent:ask_faq_tutorials
-- Hattest du ein Tutorial?
-- Groß. Gibt es Tutorials?
-- Ich suche ein Tutorial
-- Gibt es ein Tutorial für Rasa?
-- LERNPROGRAMM !!!!!!!!!!
-- Tutorials zum Erlernen von Rasa?
-- irgendwelche Tutorials zur Verwendung von Rasa?
-- Gibt es ein paar Tutorials, die ich mir ansehen könnte?
-- Gibt es Tutorials zu Rasa?
-- grundlegende Tutorials
-- Bestes Tutorial für Rasa
-- Kannst du mir ein Tutorial schicken?
-- Kannst du mir eine Online-Anleitung zu Rasa geben?
-- Kannst du mir ein gutes Handbuch über Rasa zeigen?
-- Hast du ein Rasa-Tutorial?
-- Laden Sie das Tutorial herunter
-- Hol mir ein paar Tutorials
-- Ich kann kein Tutorial für Rasa finden
-- Ich brauche ein gutes Tutorial für Rasa
-- Ich möchte ein Tutorial von Rasa
-- Ich möchte ein Tutorial
-- Ich suche das YouTube-Tutorial
-- gibt es ein Tutorial dafür?
-- Gibt es ein Tutorial?
-- Rasa-Bot-Tutorial
-- Rasa-Tutorial
-- Rasa-Tutorials
-- Zeigst du mir ein Tutorial?
-- Lernprogramm
-- Lernprogramm?
-- Tutorials
-- Was ist das beste Tutorial
-- Wo kann ich Tutorials für Rasa finden?
-- Wo finde ich Tutorials?
-- Wo bekomme ich ein Tutorial zu Rasa?
-- Ja, wo finde ich praktische Anleitungen zur Verwendung von RASA-Produkten?
-- Ich muss RASA Schritt für Schritt studieren. Welches ist der beste Ort, an dem ich studieren kann?
 
 ## intent:ask_faq_languages
 - Unterstützt Rasa andere Sprachen wie Spanisch?
@@ -961,7 +876,6 @@
 - Wäre rasa Open Source Software?
 - Würdest du rasa Open Source Software nennen?
 - Würden die Leute Rasa als Open-Source-Software bezeichnen?
-- Ist Rasa Open Source?
 - Ist die Rasa-Software Open Source?
 - Die Rasa-Software, ist das Open Source?
 - Können Sie mir sagen, ob Rasa Open Source ist oder nicht?
@@ -974,66 +888,6 @@
 - Verwendet Rasa Open Source Software?
 - Ist rasa wie eine Open Source Software
 - ist diese Open Source Lizenz
-
-## intent:ask_faq_ee
-- kann mir jemand mit infos zur enterprise edition helfen
-- Ich möchte Informationen über die Enterprise Edition
-- wir haben mit rasa x einen bot gebaut, aber jetzt interessieren wir uns für die enterprise edition
-- Ich möchte mehr über Rasa X EE erfahren
-- Was ist rasa x ee?
-- Was ist die Enterprise Edition?
-- Was ist die rasa x Enterprise Edition?
-- Was ist Rasa x Enterprise?
-- Kannst du  mir etwas über die Enterprise Edition erzählen?
-- Kannst du mir von rasa x ee erzählen?
-- Erzähl mir von rasa x ee
-- was ich sehe?
-- Erzähl mir von rasa x EE
-- Unternehmensfunktionen
-- erzähl mir mehr über rasa x EE
-- Was ist Rasa x Enterprise?
-- Erzähl mir von rasa x ee
-- Sag mir, was ist rasa x ee
-
-## intent:ask_faq_slots
-- Wie funktionieren Slots?
-- Wofür werden in Rasa Slots verwendet?
-- Was sind Slots?
-- Schlüssel
-- Hilf mir mit Slots
-- Helfe mir mit Slots
-- Erzähl mir von Slots
-- Ich muss über das Füllen von Slots Bescheid wissen
-- Ich muss etwas über das Füllen von Slots wissen
-- Wie man das Tastensystem für die Auswahl der Steckplätze beibehält
-- Wie können wir Knöpfe behalten, um Slots zu bekommen?
-- Was sind Slots?
-- Was ist mit Slots?
-- Wie werden Slots gefüllt?
-- Wo Slots Werte bekommen
-- wie man einen Textschlitz ohne json einstellt
-- Wo Slots Werte bekommen
-- Was sind Slots
-- Was ist Slots
-- Sag mir die Slots?
-- ich binn mir nicht sicher, welche Slots es sind?
-- Slots, was meinst du?
-- Nicht sicher, welche Slots sind.
-- Können Sie mir die Bedeutung von Slots mitteilen?
-- Ich würde gerne wissen, was Slots bedeuten
-- Slots sind was genau?
-- Was denkst du Slots sind?
-- Ich weiß nicht, was ein Slot ist
-- Was ist die Definition von Slots
-- Weißt du was Slots sind?
-- Was meinst du mit Slots?
-- Was sind Slots?
-- Was sind die Slots?
-- Welche Slots gibt es?
-- Was sind die Slots?
-- Wie sind die Slots?
-- Welche Slots gibt es?
-
 
 ## intent:ask_faq_voice
 - Kann ich mit rasa einen Voice Bot bilden?
@@ -1050,7 +904,6 @@
 - Wie man mit rasa einen Voice-Bot erstellt.
 - Kann ich einen Rasa Voice Bot bauen?
 - Könnte ich einen Rasa Voice Bot bauen?
-- Kann man mit rasa einen Voice Bot bauen?
 - Wie könnte ich mit rasa einen Voice Bot konstruieren?
 - Kann man mit rasa einen Voice Bot machen?
 - Wie groß ist die Chance, einen Rasa-Voice-Bot zu bauen?
@@ -1058,7 +911,6 @@
 - Kann ich mit rasa einen Voice Bot bauen?
 - Wie baue ich einen Voice Bot?
 - Wie baue ich einen Voice Bot mit Rasa?
-- Kann man mit rasa einen Voice Bot bauen?
 - Weißt du, wie man mit rasa einen Voice Bot baut?
 - Erstellen eines Voice Bot mit Rasa.
 - Rasa Voice Bot Gebäude.
@@ -1069,7 +921,6 @@
 - Ich kann mit Rasa einen Voice Bot bauen, oder?
 - Wird es richtig sein, wenn ich sage, dass ich mit rasa einen Voice-Bot bauen kann?
 - Kann ein Voice Bot mit Rasa erstellt werden?
-- Kann man mit rasa einen Voice Bot bauen?
 - Rasa kann nicht verwendet werden, um einen Voice Bot zu erstellen, oder?
 - Ist rasa geeignet, um Voice-Bots zu erstellen?
 - Siehst du eine Anwendung von Rasa im Voice Bot Building?
@@ -1078,8 +929,6 @@
 - Weißt du, ob ich mit rasa einen Voice Bot bauen kann?
 - Ich möchte einen Voice Bot bauen
 - Kann ich einen Voice Bot bauen?
-- Kann ich mit rasa einen Voice Bot bauen?
-
 
 ## intent:ask_faq_what_is_forum
 - Könntest du bitte das Rasa-Forum beschreiben?
@@ -1146,31 +995,22 @@
 - Geben an, wie du erstellt wurden.
 - Ich möchte wissen, wie du zusammengesetzt wurdest?
 - Könntest sagen, wie Sie gebaut wurdest?
-- Wie wurdest du gemacht?
 - Wie wurdest du zu dem gemacht, der du bist?
 - Wie wurdest du erfunden?
 - Wie genau wurdest du gemacht?
 - Wie genau wurdest du erfunden?
-- Wie wurdest du gemacht?
 - Wie bist du dazu gekommen?
-- Wie wurdest du gemacht?
-- Wie wurdest du gebaut?
 - Wie bist du entstanden?
 - Wie hast du dich gemacht?
 - Wie hast du dich gebaut?
 - Wie hast du dich erschaffen?
-- Wie wurdest du gemacht?
 - Weißt du, wie du gemacht wurdest?
 - Weißt du, wie du gebaut wurdest?
 - Welcher Prozess wurde verwendet, um dich zu erstellen?
 - Welcher Prozess wurde verwendet, um dich zu bauen?
-- Wie bist du entstanden?
 - Wie wurdest du gezeugt?
 - Auf welche Weise wurdest du erfunden?
-- Wie wurdest du gebaut?
 - Wie wurdest du geformt?
-- Wie bist du entstanden?
-- Wie wurdest du gemacht?
 - Wie sind Sie entstanden?
 - Wie bist du eingerichtet?
 - Nach welcher Methode wurdest du hergestellt?
@@ -1189,12 +1029,10 @@
 - Wie geht es dir heute?
 - Wie geht es Ihnen?
 - Wie war dein Tag?
-- Wie geht's?
 - Wie geht's
 - Wie hängt es?
 - Wie geht es deinem Freund im Leben?
 - Wie ist es dir ergangen?
-- Wie geht's
 - Es geht mir gut und dir
 - Ist alles in Ordnung?
 - Was ist los?
@@ -1205,9 +1043,7 @@
 - geht es dir gut
 - bist du glücklich
 - hast du einen guten Tag
-- Geht es dir gut?
 - bist du in Ordnung
-- Wie geht es dir?
 - Hallo wie geht's dir?
 - Hallo, wie geht es dir?
 - Hi wie geht's
@@ -1215,23 +1051,15 @@
 - Wie ?
 - Wie läuft es so
 - Wie geht es euch?
-- Wie geht's
-- Wie geht's?
-- Wie geht es dir?
-- Wie geht es Ihnen
 - Wie geht es Ihnen ?
 - wie geht es dir
 - wie geht es dir heute Morgen
 - Wie geht es dir heute, mein süßer Freund?
 - wie geht es dir heute?
 - wie geht es dir?
-- wie geht es dir
 - Wie geht es Ihnen heute
 - Wie geht es Ihnen'
-- Wie geht es Ihnen?
 - Wie geht es Ihnen????
-- Wie geht es dir?
-- Wie geht's?
 - Wie ist es dir gegangen
 - Wie gehts
 - Wie geht es Heute
@@ -1239,14 +1067,10 @@
 - Wie ist dein Abend
 - wie geht's
 - wie geht's ?
-- Wie geht es dir?
-- Wie geht's
-- Wie geht's?
 - wie geht's?
 - wie ist das Leben
 - Wie hat dich das Leben behandelt?
 - Wie läuft dein Tag
-- Wie geht es Ihnen
 - Wie geht's dir?
 - ist alles in Ordnung
 - Ist alles in Ordnung
@@ -1256,15 +1080,15 @@
 - Wie war dein Tag
 - Was hast du vor?
 - was ist gut
-- Was geht
 - Was ist los, Sara?
 - Was geht?
 - Was machst du?
-- Was hast du vor?
 - Was ist hier los
 - Was gibt's Neues
 - WhatsApp
 - Und du?
+- Wie geht es dir
+- Wie geht es dir heute
 
 ## intent:ask_howold
 - wie alt?
@@ -1277,7 +1101,6 @@
 - Wie alt bist du genau?
 - In welchem ​​Jahr wurdest du geboren?
 - Kannst du mir dein Alter sagen?
-- Wie alt bist du?
 - Wann ist dein Geburtstag?
 - Wie alt wirst du an deinem nächsten Geburtstag sein?
 - Wann feiern Sie Ihren Geburtstag?
@@ -1285,21 +1108,16 @@
 - Wie viele Kerzen waren auf Ihrer letzten Geburtstagstorte?
 - Hast du Freunde im gleichen Alter wie dich, wenn ja, wie alt bist du?
 - Nenne mir deinen Tag, Monat und Jahr der Geburt.
-- Wie alt bist du?
 - Und du bist wie viele Jahre alt?
 - Was ist dein Geburtsjahr?
 - In welchem ​​Alter haben Sie Ihren letzten Geburtstag gefeiert?
 - Wie alt warst du, als du deinen letzten Geburtstag gefeiert hast?
 - Sag mir dein Alter?
 - Wie steht es mit deinem Alter?
-- Wie alt warst du an deinem letzten Geburtstag?
 - wie alt bist du
 - Wie alt wirst du in diesem Jahr sein?
-- Wie alt bist du?
-- In welchem ​​Jahr wurdest du geboren?
 - Wie lange bist du schon da?
 - Wie lange lebst du schon?
-- Wie alt warst du an deinem letzten Geburtstag?
 - In welchem ​​Alter bist du am nächsten Geburtstag?
 - Wie viele Jahre hast du gelebt?
 - Seit wie vielen Jahren lebst du?
@@ -1311,8 +1129,6 @@
 - Bist du ein computer
 - Bist du wirklich ein Bot?
 - Bist du ein Roboter
-- Bist du ein Roboter
-- Bist du ein Rasa-Bot?
 - Bist du ein Rasa-Bot?
 - Was bist du, ein Bot?
 - Sag mir, bist du ein Bot?
@@ -1331,8 +1147,6 @@
 - Bist du der Bot?
 - Hallo, bist du der Bot?
 - Bist du ein Chat-Bot?
-- Bist du ein Rasa-Bot?
-- Bist du ein Bot?
 - Bist du ein Roboter?
 - Bist du echt?
 - Was bist du ?
@@ -1355,7 +1169,6 @@
 - Welche Sprachen beherrschen Sie?
 - Welche Sprachen kennst du?
 - In welchen Sprachen sprechen Sie fließend genug?
-- Welche Sprachen kannst du sprechen?
 - In welchen Sprachen sprechen Sie gerne?
 - In welchen Sprachen sprechen Sie gut?
 - Mit welchen Sprachen sind Sie gut vertraut?
@@ -1365,13 +1178,11 @@
 - Kennst du irgendwelche anderen Sprachen?
 - Sprichst du irgendwelche anderen Sprachen?
 - Welche Sprachen kannst du?
-- Welche Sprachen sprichst du?
 - Was sprichst du?
 - Sprichst du noch andere Sprachen?
 - Kannst du in anderen Sprachen kommunizieren?
 - In welchen Sprachen kannst du kommunizieren?
 - Wie viele Sprachen kannst du?
-- Welche Sprachen kennst du?
 - nenne mir einige Sprachen, die du kennenst?
 - sprichst du irgendwelche anderen Sprachen?
 - Was weißt du außer Deutsch noch?
@@ -1382,15 +1193,9 @@
 - Welche Fremdsprachen kennst du?
 - Welche Sprache benutzt du
 - In welchen Sprachen sprichst du gerne?
-- Welche Sprachen kennst du?
 - In welchen Sprachen sprichst gut?
-- Welche Sprachen kennst du?
 - welche Sprachen sprichst du
 - Mit welchen Sprachen bist du gut vertraut?
-- In welchen Sprachen kannst du dich wohlfühlen?
-- Welche Sprachen beherrschst du gut?
-- Welche Sprachen kannst du sprechen?
-- Welche Sprachen kennst du?
 - In welchen Sprachen sprechst du am liebsten?
 - Welche Sprachen verstehst du?
 - weißt du, [Französisch] (Sprache)
@@ -1462,13 +1267,11 @@
 - Was ist ein guter Ort, um in der Nähe zu essen
 - Empfehle mir hier ein Restaurant.
 - Such dir bitte ein Restaurant für mich aus
-- Hilf mir, ein Restaurant zu finden
 - Kannst du ein Restaurant für mich finden?
 - Finde ein Restaurant für mich?
 - Würdest du mir ein Restaurant suchen?
 - Würdest du ein Restaurant für mich finden?
 - Kannst du mir ein Restaurant finden?
-- Kannst du ein Restaurant für mich finden?
 - Kannst du mir ein Restaurant zum Essen besorgen?
 - Finde ein Restaurant, in dem ich essen kann.
 - Such mir ein Restaurant, in dem ich essen kann.
@@ -1498,29 +1301,18 @@
 - Weißt du wie spät es ist?
 - Kannst du mir die Zeit sagen?
 - Könnten Sie mir bitte die Uhrzeit mitteilen?
-- Wie spät ist es?
-- Weißt du, wie spät es ist?
-- Kannst du mir sagen, wie spät es ist?
 - Zeit bitte!
 - Verzeihung, aber kennst du die Zeit?
-- Zeit?
 - Wie viel Uhr ist es?
-- Weißt du wie spät es ist?
-- Wie spät ist es?
 - Wie spät ist es gerade?
 - Hast du die Zeit?
-- Kannst du mir sagen, wie spät es ist?
 - Hallo, ich brauche die Zeit.
 - Ich muss wissen, wie spät es ist.
-- Sag mir die Uhrzeit.
-- Wie spät ist es?
-- Wie spät ist es gerade?
-- Wie ist die aktuelle Zeit?
 - Kannst du mir sagen wie spät es ist?
 - Wie spät könnte es sein?
 - Was ist die Stunde und Minute jetzt?
 - Wann haben wir?
-- Wie spät ist es gerade?
+- uhrzeit
 
 ## intent:ask_weather
 - Gibt es meteorologische Veränderungen, die ich beachten muss?
@@ -1548,7 +1340,6 @@
 - Wie ist die Wettervorhersage?
 - Wie ist das Wetter dort?
 - Wie ist das Wetter, wo ich gerade bin?
-- Wie ist das Wetter?
 - Benötige ich heute meinen Regenmantel?
 - Wird der Himmel heute klar sein?
 - Werden wir heute einen Schneemann bauen?
@@ -1557,10 +1348,7 @@
 - wie ist das Wetter ?
 - wie ist das wetter in [berlin](location)?
 - wie ist das Wetter?
-- wie ist das Wetter ?
 - wie ist das wetter in [Berlin](location)
-- wie ist das Wetter?
-- wie ist das Wetter
 - Wie geht's?
 - Wie ist das Wetter in der Bot-Welt?
 - wie ist das wetter heute in [berlin](location)?
@@ -1574,7 +1362,6 @@
 - das Wetter heute
 - Weatger
 - wetter
-- Wetter?
 - na wenn du willst: was ist mit dem Wetter?
 - wie ist es mit dem Wetter in [Lüneburg]
 - wie ist die Temperatur
@@ -1584,23 +1371,17 @@
 - wie ist das wetter in [berlin](location)
 - wie ist das wetter in [zürich](location)?
 - wie ist das wetter wo du bist
-- wie ist das Wetter?
 - was ist das ob heute
-- Wie ist das Wetter?
-- wie ist das Wetter
-- wie ist das Wetter
-- Wie ist das Wetter
 - wie ist das Wetter in [LA](location)
-- wie ist das wetter wo du bist
-- Wie ist das Wetter?
 - wie ist das Wetter heute
 - wie ist das Wetter heute?
 - Wie ist die Temperatur
 - Wie ist die Temperatur in [Delhi](location)?
-- wie ist das wetter in [berlin](location)?
 - Wie ist das Wetter morgen?
 - Wie ist das Wetter bei Ihnen?
 - Wie ist es bei dir?
+- Wie ist das Wetter von morgen?
+- wie ist das wetter in berlin
 
 ## intent:ask_whatismyname
 - was ist mein Name?
@@ -1612,16 +1393,13 @@
 - Wie könnte ich heißen?
 - Unter welchem ​​Namen gehe ich?
 - Welchen Namen soll ich für mich selbst erkennen?
-- was ist mein Name?
 - Kannst du mir meinen Namen sagen?
-- Was ist mein Name?
 - Habe ich einen Namen?
 - Habe ich einen Namen? Was ist es?
 - Wie wurde ich genannt?
 - Sag meinen Namen.
 - Kennst du meinen Namen?
 - Wie nennen mich die Leute?
-- Kannst du mir meinen Namen sagen?
 - Wie nennen mich die Leute sonst noch?
 - Ich habe einen Namen, was ist das?
 - Sag mir meinen Namen
@@ -1638,14 +1416,14 @@
 - Weißt du, wie ich heiße?
 - Wie ist mein Vorname?
 - Wie ist mein voller Name?
-- Wie nennen mich die Leute?
 - Wie genau ist mein Name?
+- wie heißt du
+- Wie ist dein Name?
 
 ## intent:ask_whatisrasa
 - Können Sie mich über Rasa informieren?
 - Kannst du mir mehr über Rasa erzählen?
 - Kannst du mir sagen, was Rasa tut?
-- Kannst du mir mehr über Rasa erzählen?
 - Gib mir mehr Informationen über Rasa
 - Wie arbeitet Rasa?
 - Ich möchte über RSA wissen
@@ -1666,12 +1444,8 @@
 - Was machst du bei Rasa?
 - Was baut Rasa?
 - Was macht Rasa?
-- Was macht Rasa?
 - Was macht rasa genau?
 - Was genau ist Rasa?
-- Was ist Rasa?
-- Was macht rasa genau?
-- Was ist Rasa?
 - Was ist der RASA-Stack?
 - Was ist rasa?
 - Kannst du rasa erklären?
@@ -1680,8 +1454,6 @@
 - Erkläre mir, was Rasa macht
 - Erkläre mir, was Rasa ist
 - Wie arbeitet RASA?
-- Wie funktioniert Rasa?
-- Wie funktioniert Rasa?
 - Wie funktioniert Rasa?
 - Wie funktioniert Rasa
 - Ich verstehe nicht, was Rasa ist
@@ -1693,7 +1465,6 @@
 - Wie funktioniert das alles?
 - Entschuldigung, erzähl mir etwas über Rasa
 - Erzähl mir von Rasa
-- Erzähl mir von Rasa
 - Erzähl mir mehr über Rasa
 - Erzählen Sie mir mehr über Ihr Unternehmen
 - Was sind die Komponenten von RASA
@@ -1701,8 +1472,6 @@
 - was kann ich mit rasa [core](produkt) bauen?
 - was kann ich mit rasa machen
 - Was macht ihr bei Rasa?
-- Was macht Rasa?
-- was macht rasa
 - was macht rasa
 - Was bedeutet Rasa?
 - Was ist [core] (product)
@@ -1710,13 +1479,15 @@
 - Was ist [rasa] (Firma)?
 - Was ist in Rasa
 - wofür ist das?
-- Was ist Rasa?
 - Was ist Rasa [Kern] (Produkt)
 - Was ist Rasa [Core] (Produkt)?
 - Was ist eigentlich Rasa?
-- Was ist Rasa?
 - Was ist rasa
 - Ja, erkläre weiter, was Rasa ist
+- Erzähle mir mehr über dein Unternehmen
+- Was ist Rasa Core?
+- was kann ich mit rasa core bauen?
+- Was machst du als Unternehmen?
 
 ## intent:ask_wherefrom
 - Wo lebst du
@@ -1735,25 +1506,18 @@
 - Wo ist deine Heimatstadt?
 - Aus welchem ​​Land kommst du?
 - Bist du von hier?
-- Wo bist du aufgewachsen?
 - woher kommen deine Eltern?
 - Wo hast du deine Jugend verbracht?
-- Wo kommst du her?
-- Wo bist du geboren?
 - Wo denkst du nach Hause?
 - Welche Stadt behauptest du für deine Geburt?
 - Auf welche Staatsbürgerschaft erhebst du Anspruch?
 - Was ist dein Erbe?
 - Was ist dein Geburtsort?
-- Wo bist du aufgewachsen?
 - Du wurdest an welchem ​​Ort gezeugt?
 - Was ist deine Wurzel?
 - Woher bist du gekommen?
-- Wo kommst du her?
 - Wo sind deine Wurzeln?
-- Woher kommst du?
 - Aus welcher Gegend kommst du?
-- Woher kommst du?
 - Wie heißt der Ort, von dem du gekommen bist??
 
 ## intent:ask_whatspossible
@@ -1771,7 +1535,6 @@
 - Was können Sie Demo
 - Was kannst du tun
 - Was kannst du für mich tun?
-- Was kannst du tun?
 - Was kannst du mir erzählen?
 - Wie geht's
 - irgendetwas anderes
@@ -1800,7 +1563,6 @@
 - wie du mir hilfst
 - Ich habe dich gefragt, ob du noch etwas tun kannst
 - Ich weiß nicht, was ich will
-- Ich brauche Hilfe
 - Mehr Info
 - was jetzt?
 - Optionen
@@ -1822,13 +1584,10 @@
 - Was machen Sie
 - Worin bist du gut?
 - was kann ich fragen
-- Was kann ich dich fragen?
 - was kann ich hier machen
 - was kann ich mit Sara machen?
 - was kann ich mit diesem bot machen
-- was kann ich hier machen
 - Was kann ich jetzt machen
-- Was kannst du tun
 - Worüber können wir reden?
 - Was kannst du antworten?
 - was kannst du tun
@@ -1838,8 +1597,6 @@
 - was kannst du mir anbieten?
 - Was kannst du mir erzählen
 - was können Sie?
-- Was kannst du für mich tun?
-- Wie geht's
 - Wie geht's?
 - Was weißt du außer diesem?
 - was kann ich sonst noch hier machen?
@@ -1849,14 +1606,18 @@
 - Womit kannst du noch helfen?
 - was ich machen muss
 - Wofür ist dieser Bot?
-- Was kannst du tun?
-- Was kannst du tun?
 - was du tun kannst
-- Was kannst du für mich tun?
 - was du tun kannst?
 - was tust du
 - Was machst du?
 - Wovon redest du?
+- Also, was kannst du machen
+- Wie können Sie mir helfen
+- Wie können Sie mir helfen?
+- Können Sie mir in einem Satz erklären, was Sie tun?
+- Wie lauten die Optionen?
+- Kannst du auch Englisch
+- Was kannst du alles
 
 ## intent:ask_whoami
 - Wer bin ich?
@@ -1868,9 +1629,6 @@
 - Wie finde ich heraus, wer ich bin?
 - Wie kann ich feststellen, wer ich bin?
 - Weißt du wer ich bin?
-- Kannst du mir sagen, wer ich bin?
-- Wie finde ich heraus, wer ich bin?
-- Wie kann ich feststellen, wer ich bin?
 - wer bin ich
 - Wer darf ich?
 - Soll ich wissen, wer ich bin?
@@ -1880,56 +1638,6 @@
 - Was ist meine Identität?
 - Sag mir, was meine Identität ist?
 - Kannst du mir sagen, was meine Identität ist?
-- Kannst du mir sagen, wer ich bin?
-- Wer bin ich
-
-## intent:ask_builder
-- Kannst du deinen Chef mit mir teilen?
-- Ich möchte Ihren Besitzer kennenlernen
-- Ich möchte die Firma kennen, die dich entworfen hat
-- Ich möchte die Firma kennen, die dich hervorgebracht hat
-- Ich möchte die Firma kennen, die dich erfunden hat
-- Ich möchte wissen, wer dich erfunden hat
-- Darf ich fragen, wer dich erfunden hat?
-- Bitte teile mir die Firma mit, die dich gegründet hat
-- Bitte sag mir, wer dich erschaffen hat
-- erzähl mir mehr über deine Schöpfer
-- Erzähl mir mehr über deine Gründer
-- Welche Firma hat dich ins Leben gerufen?
-- Welche Firma hat dich gegründet?
-- Welche Firma hat dich erfunden?
-- Wer ist dein Chef?
-- Wer ist dein Erbauer?
-- Wer hat dich gebaut?
-- Wer hat dich erschaffen?
-- Wer ist dein Schöpfer?
-- Wer hat dich entworfen?
-- Für wen arbeitest du?
-- Wer hat dich erfunden?
-- Wer hat dich generiert?
-- Wer hatte die Idee, dich zu bauen?
-- Wer hatte die Idee, dich zu generieren?
-- Wer hatte die Idee, dich zu machen?
-- Wer steckt dahinter?
-- Wer ist dein rechtmäßiger Eigentümer?
-- Wer ist dein Chef, sag es mir
-- wer ist dein Chef?
-- Wer ist dein Schöpfer?
-- Wer ist dein Programmierer?
-- Wer dich gemacht hat?
-- Wer hat dich modelliert?
-- Wer besitzt dich?
-- Wer hat dich produziert?
-- Wer hat gedacht, dich zu machen?
-- Wer hat sich die Mühe gemacht, Sie einzurichten?
-- Und wer hat dich gebaut?
-- Wer hat dich gebaut?
-- Wer baut dich?
-- Wer dich gemacht hat?
-- Wo wurdest du gemacht?
-- Warum wurdest du gemacht?
-- Wie wurdest du gemacht?
-- Wer hat dich erschaffen?
 
 ## intent:ask_which_events
 - Gibt es in Zukunft noch eine andere Veranstaltung wie rasa meetup?
@@ -1959,7 +1667,6 @@
 - Welche Arten von Veranstaltungen sind geplant?
 - Wo kann ich Rasas treffen?
 - Welche Community-Events hast du?
-- Welche Veranstaltungen gibt es?
 - Welche Events hast du?
 - Welche Ereignisse hast du?
 - Du hast Rasa-Meetups?
@@ -1981,7 +1688,6 @@
 - Wann finden die Veranstaltungen in [Paris](location) statt?
 - Was sind die Ereignisse in [Berlin](location)?
 - Was sind die Ereignisse in [der Schweiz](location)?
-- Wann finden die Veranstaltungen in [Paris](location) statt?
 - Was sind die Ereignisse in [berlin](location)?
 - Was sind die Ereignisse für [Detroit](location)?
 - Wann sind die Veranstaltungen für [Paris](location)?
@@ -2039,160 +1745,6 @@
 - When is the next event for [India](location)?
 - What is the next event for [paris](location)?
 
-
-## intent:ask_howdoing
-- Ahoi Kumpel, wie geht es dir?
-- geht es dir gut
-- hast du einen guten Tag
-- Geht es dir gut?
-- bist du in Ordnung
-- Fühlst du dich gut?
-- Wie läuft es so
-- Wie geht es dir?
-- Wie geht's?
-- Wie geht es dir
-- wie geht es dir heute Morgen
-- Wie geht es dir heute
-- Wie geht es dir?
-- Wie geht's?
-- Wie ist es dir gegangen
-- Wie gehts
-- Wie geht es Heute
-- Wie läuft dein Tag?
-- Wie ist dein Abend
-- Wie war dein Tag?
-- Wie geht's
-- Wie hängt es?
-- wie ist das Leben
-- Wie hat dich das Leben behandelt?
-- Wie geht es deinem Freund im Leben?
-- Wie läuft dein Tag
-- Wie ist es dir ergangen?
-- Es geht mir gut und dir
-- ist alles in Ordnung
-- Ist alles in Ordnung?
-- Wie war dein Tag
-- Was ist los?
-- was ist gut
-- Was gibt's Neues?
-- Was ist los Mann
-- Was geht
-- Wie geht es dir?
-- Hast du einen tollen Tag?
-- Wie geht es dir heute, mein süßer Freund?
-- wie geht es dir?
-- Wie geht's
-- Wie geht es dir?
-
-## intent:ask_weather
-- Wie ist das Wetter heute?
-- Wie ist das Wetter?
-- Wie ist das Wetter?
-- Wie ist das Wetter bei dir?
-- Hast du gutes Wetter?
-- Regnet es?
-- Wie ist es da draußen?
-- Ist es heiß oder kalt?
-- Schöner Tag, nicht wahr?
-- Wie ist die Wettervorhersage?
-- Ist es draußen ziemlich windig?
-- Benötige ich heute meinen Regenmantel?
-- Wie ist das Wetter für morgen?
-- Schöner Tag heute?
-- Wie ist die Temperatur heute?
-- Können wir mit Gewittern rechnen?
-- Wird der Himmel heute klar sein?
-- Stehen wir vor einem Scorcher?
-- Sieht nach einem schönen Tag aus, hey?
-- Werden wir heute einen Schneemann bauen?
-- Ist es heute draußen feucht?
-- Gibt es meteorologische Veränderungen, die ich beachten muss?
-- Wie ist das Wetter von morgen?
-- Wie ist das Wetter in der Bot-Welt?
-- wie ist das wetter in berlin
-- wie ist das Wetter heute?
-- wie ist das Wetter?
-- wie ist das wetter wo du bist
-- Ist die Sonne draußen wo du bist?
-- ist es sonnig
-- Ist die Sonne draußen, wo du bist?
-- wie ist das Wetter
-- wie ist das wetter in berlin
-
-## intent:ask_whatisrasa
-- Wie arbeitet Rasa?
-- Kannst du mir mehr über Rasa erzählen?
-- Was baut Rasa?
-- Was machst du bei Rasa?
-- Was ist Rasa?
-- Was macht Rasa?
-- Kannst du mir sagen, was Rasa tut?
-- Gib mir mehr Informationen über Rasa
-- was macht rasa
-- Ich möchte lernen, was Rasa macht
-- Was macht rasa genau?
-- Erzähl mir mehr über Rasa
-- Erzähle mir mehr über dein Unternehmen
-- Erzähl mir mehr über Rasa
-- Ich möchte lernen, was Rasa ist
-- was kann ich mit rasa machen
-- Was macht ihr bei Rasa?
-- Was macht Rasa?
-- Was ist Rasa?
-- Ich möchte wissen, was Rasa tatsächlich tut, das ist mir noch nicht klar
-- Ich habe noch nicht verstanden, was Rasa eigentlich ist
-- Kannst du bitte erklären, was Rasa tut?
-- Erkläre mir, was Rasa macht
-- Erkläre mir, was Rasa ist
-- Ich verstehe nicht, was Rasa ist
-- Was ist eigentlich Rasa?
-- Was ist Rasa?
-- Ich möchte etwas über Rasa lernen
-- Ich möchte wissen, was Rasa macht
-- Was ist Rasa Core?
-- was kann ich mit rasa core bauen?
-- Was macht rasa genau?
-- Was machst du als Unternehmen?
-
-## intent:ask_whatspossible
-- Hilfe
-- Hilfe bitte
-- Ich weiß nicht, was ich will
-- Ich brauche Hilfe
-- Optionen
-- Zeig mir die Speisekarte
-- Zeig mir, was möglich ist
-- Also, was kannst du machen
-- Also, womit kannst du mir helfen?
-- Worin bist du gut?
-- was kann ich hier machen
-- was kann ich mit diesem bot machen
-- Wofür ist dieser Bot?
-- cool! kann ich hier noch was machen
-- Hilf mir
-- sprich mit mir!
-- Komm zurück
-- Wie können Sie mir helfen
-- Was kann ich sonst noch tun
-- Gibt es noch andere Möglichkeiten?
-- Hm, das hilft mir nicht wirklich. Kannst du sonst noch etwas tun?
-- was kann ich hier machen
-- Was kann ich jetzt machen
-- ähm was jetzt
-- Also was jetzt?
-- Hilfe?
-- was jetzt?
-- Großartig, gibt es noch etwas, was du tun kannst, Bot?
-- was kannst du tun?
-- Wie können Sie mir helfen?
-- Kannst du noch etwas tun?
-- Ich habe dich gefragt, ob du noch etwas tun kannst
-- irgendetwas anderes
-- na und dann?
-- was kann ich sonst noch hier machen?
-- Können Sie mir in einem Satz erklären, was Sie tun?
-- Wie lauten die Optionen?
-
 ## intent:ask_whoisit
 - Wer ist das
 - mit wem spreche ich
@@ -2208,13 +1760,12 @@
 - wer bist du und was willst du von mir?
 - Wer bist du?
 - Wer ist es?
-- Wer bist du?
-- Wer bist du
 - Ich will wissen, wer du bist
 - wer sind y
 - Ja, aber wer bist du in deinem Herzen?
 - Wer ist das?
 - Hallo! Wie heißt du?
+- wer bist du
 
 ## intent:bye
 - Auf Wiedersehen
@@ -2223,20 +1774,16 @@
 - Gut Nacht
 - Tschüss
 - toodle-oo
-- Tschüss
 - muss gehen
 - Abschied
 - bis später
 - Tschüss für heute
-- Tschüss
 - Tschüss war nett mit dir zu reden
 - Tschüss Udo
-- Tschüss Bot
 - Tschüss Bot
 - k byyye #slay
 - Bis später
 - Ciao
-- Tschüss
 - dann tschüss
 - Tschüssikowski
 - Tschüss!
@@ -2253,7 +1800,6 @@
 - Das führt zu nichts
 - Dieses Gespräch ist nicht wirklich hilfreich
 - Du kannst mir nicht mit dem helfen, was ich will
-- Du kannst mir nicht helfen
 - Ich glaube nicht, dass du tun kannst, was ich will
 - halt
 - Hör auf zurückzugehen
@@ -2280,7 +1826,6 @@
 - Gebe mir jemanden, der dein Geschäftsmodell erklären kann
 - Rufe das Verkaufsteam an
 - Lass mich mit deinen Verkäufern reden
-- Der Umsatz
 - Ich möchte einen Verkaufsanruf
 - Ich möchte das Verkaufsteam kontaktieren
 - Ich möchte mit deinen Verkäufern sprechen
@@ -2289,12 +1834,10 @@
 - Ich möchte den Vertrieb kontaktieren
 - Ich möchte einen Anruf bei deiem Verkaufsteam tätigen
 - den Vertrieb kontaktieren
-- Ich möchte den Vertrieb kontaktieren
 - Ich würde gerne anrufen, bitte
 - Ich hätte gerne einen Anruf beim Verkaufsteam
 - Ich möchte, dass mich jemand anruft
 - um einen Anruf bitten
-- Ich möchte mit dem Vertrieb sprechen
 - Ich möchte mit einem Verkäufer sprechen
 - Aber ich wollte einen Verkaufsanruf
 - Ich will mit deinem Verkäufer reden
@@ -2309,7 +1852,6 @@
 - wir haben mit rasa einen bot gebaut, aber jetzt interessieren wir uns für die plattform
 - Lasse mich mit deinen Verkäufern sprechen
 - Ich möchte mehr über Ihre Preise erfahren
-- den Vertrieb kontaktieren
 - Ich möchte jetzt den Vertrieb kontaktieren
 - Lasse mich den Vertrieb kontaktieren
 - mit dem Vertrieb verbinden
@@ -2361,13 +1903,10 @@
 - Ok, ich möchte mit deinen Verkäufern sprechen
 - Ich möchte die Rasa-Plattform kaufen
 - Ich möchte eine Verbindung zu deinem Verkaufsteam herstellen
-- Ich möchte die Rasa-Plattform kaufen
-- Ich möchte einen Verkaufsanruf
 - Verkaufsgespräch
 - Ich möchte bitte Ihr Verkaufsteam kontaktieren
 - Ok, ich möchte sofort mit deinem Verkaufsteam sprechen
 - hm ok dann will ich mit dem verkäufer reden
-- Ich möchte mit dem Vertrieb sprechen
 - ein Anruf
 - Lasse uns jetzt Kontakt mit dem Vertrieb aufnehmen
 - Sprechen Sie natürlich mit Ihrem großartigen Verkaufsteam
@@ -2407,7 +1946,6 @@
 - verweigern
 - ich lehne ab
 - keine Ursache
-- keine Ursache
 - Ich gebe dir meine E-Mail-Adresse nicht
 - nein, ich habe mich noch nicht entschieden, ob ich mich anmelden möchte
 - Ich will es dir nicht geben
@@ -2425,9 +1963,9 @@
 - Beides will ich nicht
 - nein danke
 - keines von denen
+- Nein danke
 
 ## intent:enter_data
-- 100k
 - 100k
 - 240k/year
 - 150,000 USD
@@ -2460,8 +1998,6 @@
 - [BCG digital ventures](company)
 - Ich arbeite für [Stanford University](company)
 - ich arbeite für [AI research group of the turing centre of the UBC, Vancouver, Canada](company)
-- maxmeier@firma.de
-- bot-fan@bots.com
 - maxmeier@firma.de
 - bot-fan@bots.com
 - mein e-mail adresse ist email@rasa.com
@@ -2521,7 +2057,6 @@
 - ich bin von Beruf [Frontend-Entwickler](job_function)
 - [project manager](job_function)
 - Ich bin [project manager](job_function)
-- Ich bin [project manager](job_function)
 - sie ist foo@bar.com
 - 10000000
 - [ACME Mops](company)
@@ -2537,7 +2072,7 @@
 - adele@gmx.com
 - Mein name ist [marc](name)
 - eine trillion dollar
-- Ich bin [full stack developer](job_function:full stack developer)
+- Ich bin [full stack developer](job_function)
 - moabit@yoga.com
 - ist die [moabit yoga studio](company)
 - Mein name ist [oli miller](name)
@@ -2552,7 +2087,7 @@
 - Mein name ist [loretta meier](name)
 - Ich möchte einen Super-Bot bauen, um mir süße Tierbilder zu schicken
 - 10000k
-- [Entwikler](job_function:Entwikler)
+- [Entwikler](job_function)
 - Ich möchte einen Verkaufs-Bot bauen
 - 50k
 - Ich möchte einen Bot bauen
@@ -2592,7 +2127,6 @@
 - ich habe keine
 - Ein Bot
 - akela@philipp.com
-- Ich möchte einen Bot bauen
 - oov
 - Mein Budget ist oov
 - Meine E-Mail ist oov
@@ -2613,7 +2147,6 @@
 - Ich möchte alle Bots bauen
 - 20k
 - Ich möchte Bots bauen
-- [Entwikler](job_function)
 - ein cooler bot
 - [Entwikler Fürsprecher](job_function)
 - [reddit](company)
@@ -2634,12 +2167,10 @@
 - ulrikovitcheisenkleber@eisenkleberlimitedcokg.com
 - eisenkleber limited co kg
 - ulrikovitch eisenkleber
-- Ich habe keine
 - [designer](job_function)
 - Ein Pizzabot
 - Operationen
 - Keine, ich werde es aus Trümmern bauen
-- keine Ahnung
 - [Vladimir](name)
 - ungefär 200k
 - Ich möchte einen Bot über mich bauen
@@ -2649,7 +2180,6 @@
 - [product manager](job_function)
 - help@rasa.com email
 - [BBC](name)
-- Ich möchte alle Bots bauen
 - Ich bin ein [product manager](job_function)
 - [Freya](name)
 - 300k nummer
@@ -2725,7 +2255,7 @@
 - Ein großartiger
 - Eine, die mich befördert
 - Konversation
--  propella@daskapital.de
+- propella@daskapital.de
 - [Bolschewistische Kurkapelle Schwarz-Rot](company)
 - [akela propella](name)
 - schlabberjimmy@glibberglitter.edu
@@ -2858,34 +2388,21 @@
 - es ist nur in [german](language) aber ich habe vor, ihn in anderen Sprachen zu trainieren
 - Sprache: [german](language)
 - Sprache = [german](language)
-- es ist ein [german](language) bot
 - Ich bin trainiert in [german](language)
 - Alle Trainingsdaten wurden trainiert in [deutsch](language)
 - Es ist trainiert in [deutsch](language)
 - Es ist nur trainiert in [deutsch](language)
-- Mein Bot ist in [german](language)
-- Die Sprache ist [german](language)
-- es ist in [german](language)
-- [german](language)
-- [german](language) ist die Sprache meines Bots
 - ich spreche [german](language)
 - Ich bin in [german](language) geschrieben
-- es ist ein [german](language) bot
-- es ist in [german](language)
 - Benutzer kann mit meinem Bot in [german](language) sprechen
 - Die menschen können mit mir in [german](language)
-- Benutzer kann mit dem Bot in [german](language) kommunizieren
-- Der Assistent ist in [german](language)
 - Die sprache des ai assistenten ist [german](language)
 - Der bot spricht [german](language)
 - Die Assistentin spricht [german](language)
 - Es ist verfügbar in [german](language)
 - bis jetzt ist es nur in [german](language)
 - Bisher spricht es nur [german](language)
-- [german](language) ist die einzige Sprache, aber ich möchte mehr hinzufügen
 - Es ist nur in [german](language) aber ich habe vor, es in anderen Sprachen zu trainieren
-- Sprache: [german](language)
-- Sprache = [german](language)
 - Es ist ein [german](language) bot
 - Ich habe es trainiert [german](language)
 - Alle Trainingsdaten waren in [german](language)
@@ -2899,7 +2416,6 @@
 - ich spreche [spanish](language)
 - Ich habe es geschrieben [spanish](language)
 - Es ist ein [spanish](language) bot
-- Es ist in [spanish](language)
 - Benutzer kann mit meinem Bot in [spanish](language) sprechen
 - Die Leute sprechen [spanish](language)
 - Benutzer kann mit dem Bot in [spanish](language) kommunizieren
@@ -2914,7 +2430,6 @@
 - Es ist nur in [spanish](language) aber ich habe vor, es in anderen Sprachen zu trainieren
 - Sprache: [spanish](language)
 - Sprache = [spanish](language)
-- Es ist ein [spanish](language) bot
 - Ich habe es trainiert in [spanish](language)
 - Alle Trainingsdaten waren in [spanish](language)
 - Es ist trainiert in [spanish](language)
@@ -3109,6 +2624,7 @@
 - please give me instructions for [pip](package_manager)
 - please [conda](package_manager)
 - [pip](package_manager) please
+- wer ist donald trump
 
 ## intent:greet
 - Hallo
@@ -3121,7 +2637,6 @@
 - Hallo Leute
 - Hallo Herr
 - Hi, Kumpel!
-- Hallo
 - Schöne Grüße
 - Hallo zusammen
 - Hallo ist da jemand
@@ -3131,7 +2646,6 @@
 - hi hi
 - Hallodio
 - Hey, hey
-- Hallo
 - hi
 - Hallö
 - yo
@@ -3146,38 +2660,33 @@
 - Sie da
 - Hiihihi
 - Hallo Schatz
-- Hallo
 - verdammt
 - Heyo
 - ayyyy whaddup
-- Hallo?
-- Hallo
 - Heya
-- Hey Bot
 - Hallöle
 - Hellllooooooo
 - wie geht's
 - Hei
 - Na hallo da;)
 - Ich sagte, helllllloooooO !!!!
-- Heya
 - Was ist los, mein Bot?
 - hiii
 - Heyho
-- Hey, lass uns reden
 - Hey, lass uns reden
 - Jojojo
 - Hey Mann
 - Hallo, ich bin es wieder
 - was geht
 - guten Tag
-- Hallo
 - jop
-- Hallo Freund
 - Hallo, ich bin es
 - guten Abend
-- guten Morgen
 - guten Nachmittag
+- hallo du
+- hey
+- Hallo Sara
+- Guten Tag
 
 ## intent:human_handoff
 - Ich möchte mit einem Menschen sprechen
@@ -3194,7 +2703,6 @@
 - Kannst du mich mit einem Menschen in Kontakt bringen?
 - Lass mich mit einem Menschen reden
 - Ich würde gerne mit einem echten rasa-Mitarbeiter sprechen
-- Ich möchte nicht mit einem Bot sprechen
 - mit einem bot zu reden ist dumm
 - Ich möchte mit jemandem sprechen, der schlauer ist als Sie
 - Kann ich bitte mit einem Menschen sprechen?
@@ -3202,7 +2710,6 @@
 - Ich möchte mit jemand anderem sprechen
 - Lass mich mit einer realen Person sprechen
 - Bitte gib mir einen Menschen
-- Ich möchte mit einer Person sprechen
 - Kundendienst
 - Ich möchte mit dem Kundenservice sprechen
 - jemand aus der Kundenbetreuung
@@ -3217,64 +2724,17 @@
 - Ich möchte mit jemandem bei Rasa sprechen
 - Ich möchte mit einem Manager sprechen
 - Ich möchte mit den Gründern sprechen
-- Ich möchte mit einem Menschen sprechen
 - Ich bin mir nicht sicher, wie ich einen Befehl ausführen soll
 - Ja, mein Pip wirft mir einen seltsamen Fehler
 - Ich habe ein Problem mit Berechtigungen
-
-## intent:affirm
-- Ja
-- Na sicher
-- sicher
-- Jawoll
-- ok
-- cool
-- Ja natürlich
-- Ja, ich werde es Ihnen danken
-- Ich bin mir sicher ich werde!
-- Oh toll!
-- natürlich
-- akzeptieren
-- Ich nehme an
-- ich nehme an
-- Okay, ich akzeptiere
-- Ich habe meine Meinung geändert. Ich möchte es akzeptieren
-- OK Cool
-- in Ordung
-- ich werde!
-- Ok, ich benehme mich jetzt
-- Hoppla
-- alles klar
-- ja bitte
-- ja bitte!
-- Jo
-- Ja, wenn ich muss
-- amayzing
-- bestätigen
-- nett
-- coolio
-- Auf jeden Fall ja ohne Zweifel
-- yes
-- Jep
-- perfekt
-- sichere Sache
-- absolut
-- Oh ok
-- Sicher
-- Hm, das würde mir gefallen
-- ja
-- sicher!
-- ja, ich akzeptiere
-- Süss
-- tolle!
-- wie schön!
-- cool!
-- Yay
-- ja bitte annehmen
-- toll
-- Oh cool
-- Ja
-- gut
+- Könnte ich mit [Tyrone King](name) sprechen?
+- Kann ich mit einer Person sprechen?
+- Kannst du mich bitte mit einem echten rasa-Mitarbeiter verbinden?
+- Hast du menschliche Unterstützung?
+- Ich möchte mit einem [Manager](job_function) sprechen
+- Ich möchte mit Menschen sprechen
+- Ich möchte mit jemandem sprechen, der schlauer ist als du
+- das hilft nicht, kann ich mit Menschen sprechen?
 
 ## intent:out_of_scope
 - Bitte helfe mir mit meinem Eis, es tropft
@@ -3319,7 +2779,6 @@
 - ich will essen
 - Du bist ein dummer Bot
 - ich hasse dich
-- ich hasse dich
 - Kann ich dir zuerst Fragen stellen?
 - Ist es ein Ödland voller zerbrochener Roboterteile?
 - Ich kann Ihre Anfrage nicht bearbeiten
@@ -3360,7 +2819,6 @@
 - Geht Sie das etwas an?
 - Können Sie mir bei Ihren Unterlagen helfen?
 - Ich brauche sofort Hilfe bei der Implementierung des coolsten Bot, den Sie sich vorstellen können
-- Können Sie mir bei Ihren Unterlagen helfen?
 - Kannst du mir sagen, wie man einen Bot baut?
 - Kannst du aus unserem Gespräch lernen?
 - üblich, versuche es einfach
@@ -3404,7 +2862,6 @@
 - Newsletter, hier ist meine E-Mail: sisi@rasa.com
 - Newsletter - meine E-Mail ist lol@rasa.com
 - Abonniere den Rasa-Newsletter
-- Newsletter
 - abonnieren
 - den Newsletter erhalten
 - Ich möchte auch abonnieren
@@ -3416,12 +2873,10 @@
 - Newsletter bitte
 - nl
 - Ich möchte den Newsletter erhalten
-- Ich möchte den Newsletter
 - Füge mich als deinen Abonnenten hinzu
 - mich zur Abonnementliste hinzufügen
 - newsletter bitte meine email ist linda@yolo.de
 - Ich möchte Ihre nl erhalten
-- Ich möchte den Newsletter
 - Ich möchte den Newsletter abonnieren
 - Kannst du mich bitte für den Newsletter anmelden?
 - Kannst du mich für den Newsletter anmelden?
@@ -3435,10 +2890,7 @@
 - senden Sie mir den Newsletter
 - Ich möchte ab sofort den Newsletter erhalten
 - Newsletter erhalten
-- den Newsletter erhalten
-- Ich möchte den Newsletter erhalten
 - Ich sehne mich nach dem Newsletter
-- Ich möchte den Newsletter erhalten
 - Abonniere mich für den Newsletter
 - Bitte abonnieren Sie mich für Ihren Newsletter
 - Ich würde gerne den Rasa-Newsletter erhalten
@@ -3447,9 +2899,7 @@
 - Ich möchte mich für den Newsletter anmelden
 - Lass uns den Newsletter abonnieren
 - Newsletter Registrierung
-- Melde mich für den Newsletter an
 - Bitte melden Sie sich für den Newsletter an
-- mich zum Newsletter hinzufügen
 - mich zur Newsletter-Liste hinzufügen
 - Ich muss auf der Newsletter-Liste stehen
 - Ich möchte die Newsletter-Mails abonnieren
@@ -3458,7 +2908,6 @@
 - Melde dich für diesen Newsletter an
 - Ich möchte in die Newsletter-Liste aufgenommen werden
 - Wie wäre es mit der Newsletter-Anmeldung?
-- Newsletter abonnieren
 - Newsletter ist es
 - Ich gehe für den Newsletter
 - Lassen Sie uns versuchen, den Newsletter zu abonnieren
@@ -3490,13 +2939,52 @@
 - Ich würde gerne einen Newsletter abonnieren!
 - Ich brauche diesen Dope-Newsletter
 - Oh, eigentlich möchte ich den Newsletter erhalten
-- Ich möchte Ihren Newsletter abonnieren
 - Kann ich mich auch für den Newsletter anmelden?
 - dann mach den Newsletter
-- Ich möchte abonnieren
 - Ich möchte einen Newsletter
 - Ich möchte auf diesem Dope-Newsletter
-- Abonnieren
+- Ich möchte den Rasa-Newsletter abonnieren
+- Ich werde den Newsletter abonnieren
+- Abonniere mich bitte für den Newsletter!
+- Abonniere mich für deinen Newsletter
+- Abonniere den Newsletter
+- Abonnieren Sie den Rasa-Newsletter
+- Kann ich den Newsletter abonnieren?
+- Können Sie Edward@Paul.com zur Newsletter-Liste hinzufügen?
+- Abonnement abschließen
+- Hallo Sara, kannst du mich für den Newsletter anmelden?
+- Wie abonniere ich?
+- Ich möchte mich nur für unseren Newsletter anmelden
+- Ich möchte mich nur für Ihren Newsletter anmelden
+- Ich möchte diesen Dope-Newsletter erhalten. Meine E-Mail-Adresse lautet R_Grove@gmail.com
+- Ich möchte Teil des Newsletters sein
+- Ich möchte mich für den NL anmelden
+- Ich möchte mich für Ihren Newsletter anmelden
+- Ich möchte den Newsletter mit Joseph_Pyles@yahoo.com abonnieren
+- Probiere die Newsletter-Registrierung aus
+- neuer Brief
+- Newsletter - meine E-Mail ist Mabel@Brown.com
+- Newsletter bitte meine Email ist M_Moore@yahoo.com
+- Newsletter, hier ist meine E-Mail: Marcus.Miller@yahoo.com
+- Bitte sende mir den Newsletter
+- Bitte sende den Newsletter an Robert@yahoo.com
+- Bitte melde mich für den Newsletter an
+- Bitte abonniere mich für den Newsletter gregory_lilley@yahoo.com
+- Bitte abonniere mich für Ihren Newsletter
+- sende mir den Newsletter
+- Melde mich für den Newsletter an - meine E-Mail lautet Carolyn_Caskey@yahoo.com
+- Melden Sie sich für den Newsletter an
+- Abonniere den Newsletter unter Bruce_harryman@Olsen.com
+- Abonniere den Newsletter unter Denise@gmail.com
+- mich zum Newsletter anmelden
+- abonniere meine E-Mail Evan@Palmer.net für den Newsletter
+- Abonniere unseren Newsletter
+- Abonniere deinen Newsletter
+- Abonniere mich
+- Abonnieren Sie unseren Newsletter
+- Ja, wie wäre es mit dem Newsletter
+- Ja, ich möchte abonnieren
+- Ja, abonniere mich
 
 ## intent:thank
 - Danke
@@ -3514,17 +3002,18 @@
 - erstaunlich, danke
 - Cool, danke
 - cool Danke
-- Vielen Dank
 - Vielen Dank!
 - Cool. Vielen Dank
-- Vielen Dank
 - Danke, das sind großartige Neuigkeiten
 - Danke dir
 - vielen Dank
-- Vielen Dank!
-- Cool, danke
 - Danke für den Forum-Link, ich werde es überprüfen
-- Vielen Dank!
+- Danke, Sara
+- danke
+- OK danke
+- ok danke sara
+- Trotzdem Danke
+- ja danke
 
 ## intent:handleinsult
 - SCHEISSE
@@ -3551,8 +3040,6 @@
 - Du hast kein Verständnis.
 - Du bist ein Idiot.
 - Du bist ein Trottel.
-- Du bist ein Idiot.
-- Du bist dumm.
 - Ihre Intelligenz ist lächerlich.
 - Ihre Denkweise ist naiv.
 - Ein Baby weiß mehr als du
@@ -3564,10 +3051,7 @@
 - Aber du bist ein Idiot
 - Pass auf meinen Arsch auf, du Schlampe
 - f * ck
-- Scheiße
-- Verpiss dich
 - Fick Rasa
-- Fick dich
 - Fick dich maschinell lernender Bot
 - Fick dich, Sara
 - Fick dich!
@@ -3604,7 +3088,6 @@
 - du bist dumm
 - Du bist bescheuert
 - du bist verdammt dumm Mädel
-- du bist ein Idiot
 - Du bist idiotisch
 - Du bist so unwissend
 - Du bist dumm
@@ -3616,13 +3099,14 @@
 - Du Hurensohn
 - du gehtst mir auf die Nerven
 - Du bist ein Lmao-Verlierer
-- du bist ein Idiot
-- Du bist dumm
 - Du bist nicht schlau
 - Du bist so dumm
 - Du bist die schwachsinnigste Person, die ich kenne
 - Deine Mutter ist schwul
 - du bist lästig
+- bist du dumm
+- dumm
+- doof
 
 ## intent:how_to_get_started
 - Wie fange ich mit [Rasa] an? (product:rasa)
@@ -3636,7 +3120,6 @@
 - Wo soll man mit der Entwicklung von Rasa beginnen?
 - WAS IST RASA?
 - WAS IST ES
-- Wie verwende ich Rasa?
 - Kann ich nur Funktionen testen, ohne mich mit Ihrer vordefinierten Konversation befassen zu müssen?
 - Können Sie mich anleiten, einen Wissensdatenbank-Chatbot zu erstellen?
 - Wie kann ich rasa lernen?
@@ -3651,7 +3134,7 @@
 - Loslegen
 - Erste Schritte mit [NLU](product:nlu)
 - Erste Schritte mit Rasa [NLU](product:nlu)
-- Erste Schritte mit [Core](product:Core)
+- Erste Schritte mit [Core](product)
 - Erste Schritte mit [rasa](product)
 - Erste Schritte mit [rasa x](product:x)
 - Erste Schritte mit [Rasa X](product:x)
@@ -3672,8 +3155,7 @@
 - Was ist [rasa x] (product)
 - Wie verwende ich [Core] (product)
 - Wie fange ich mit [Rasa X] an? (product:x)
-- Hilf mir mit [Core](product:Core)
-- Loslegen
+- Hilf mir mit [Core](product)
 - Erzählen Sie mir von [beiden](product:all) Rasa und Rasa X
 - Ich möchte [alle](producte) verstehen
 - [beide](product:all)
@@ -3723,49 +3205,77 @@
 - Probleme bei der Installation
 - Unterstützt Rasa die Spracheingabe?
 - Gibt es eine alexa integration?
-
-## intent:human_handoff
-- Kann ich mit jemandem sprechen, der mir wirklich helfen kann?
-- Könnte ich mit [Tyrone King](name) sprechen?
-- Ich möchte nicht mit einem Bot sprechen
-- Ich rede nicht gern mit einer Maschine
-- Ich möchte mit einem Menschen sprechen
-- Ich möchte mit den Gründern sprechen
-- Gibt es auch Menschen, die für Ihr Unternehmen arbeiten?
-- Kann ich mit einer Person sprechen?
-- Kann ich bitte mit einem Menschen sprechen?
-- Kannst du mich an dein Team weiterleiten?
-- Kannst du mich bitte mit einem echten rasa-Mitarbeiter verbinden?
-- Kannst du mich mit einem Menschen in Kontakt bringen?
-- Hast du menschliche Unterstützung?
-- Gib mir einen richtigen Menschen
-- Gib mir einen Menschen
-- Gib mir jetzt einen Menschen
-- menschliche Übergabe
-- Ich möchte nicht mit einem Bot sprechen
-- Ich möchte mit einem [Manager](job_function) sprechen
-- Ich möchte mit einer realen Person sprechen
-- Ich möchte mit dem Kundenservice sprechen
-- Ich möchte mit einem Menschen sprechen
-- Ich möchte mit einer Person sprechen
-- Ich möchte mit Menschen sprechen
-- Ich möchte mit jemandem bei Rasa sprechen
-- Ich möchte mit jemand anderem sprechen
-- Ich möchte mit jemandem sprechen, der schlauer ist als du
-- Ich möchte mit einer Person sprechen
-- Ich würde lieber mit einem echten rasa-Mitarbeiter sprechen
-- Ich würde gerne mit einem echten rasa-Mitarbeiter sprechen
-- Lass mich bitte mit einer echten Person sprechen
-- Lass mich mit einem Menschen reden
-- Lass mich mit einer realen Person sprechen
-- Bitte gib mir einen Menschen
-- Serviceagent
-- jemand aus der Kundenbetreuung
-- mit einer realen Person sprechen
-- mit einem bot zu reden ist dumm
-- Das ist ärgerlich. Ich möchte mit jemandem sprechen, der echt ist
-- das hilft nicht, kann ich mit Menschen sprechen?
-- Falsch, ich möchte mit einem Menschen sprechen
+- E-Commerce-Bot erstellen
+- Wie kann ich den Gesprächsfluss visualisieren?
+- Wie viele Sprachen unterstützt Spacy?
+- und Ihre REST-API funktioniert nicht
+- Kann ich mich ausruhen?
+- Können wir Regex verwenden, ist Rasa-Code
+- Unterstützt es AI?
+- Wie können Sie frühere Nachrichten abrufen?
+- Mit wie vielen Wörtern können Sie umgehen?
+- Wie benutzt man einen Kolben?
+- Wie man den Dialogfluss visualisiert
+- Ist dieser Test mit Linux kompatibel?
+- Welche Datenbank Rasa verwendet
+- Welche Bedeutung hat die Datei domain.yml?
+- Was ist die Politik
+- Funktioniert dies unter Windows Server?
+- mit Knöpfen arbeiten?
+- Kann ich das auf einem Mac installieren?
+- Die Datenbank rasa wird verwendet
+- Was ist der Unterschied zwischen dir und LUIS?
+- Was ist die neueste Version von Rasa?
+- Kann ich Rasa für E-Mails verwenden?
+- Kannst du Nachrichten basierend auf Ereignissen senden?
+- Wie hat Rasa funktioniert?
+- Wie verwende ich ngrok mit [rasa x] (product)?
+- Ich möchte mehr über Tracker erfahren
+- Was ist der Unterschied zwischen Entities und Slots?
+- Woher bekomme ich den Quellcode von Rasa?
+- Mit welchen anderen Tools können Chatbots erstellt werden?
+- Ich verwende Rasa für E-Mail-Anwendungen
+- Haben irgendwelche Open Source GUI Rasa?
+- irgendwelche anderen Tools, um Chatbots zu erstellen?
+- Kann ich auf einem Mac installieren?
+- Kann rasa Standalone laufen
+- Haben Sie ein Docker-Image für Rasa?
+- Unterstützt Rasa Prestashop?
+- Hey, kann ich diese Onpremise ausführen?
+- Wie bekomme ich ein Docker-Image?
+- Wie kann ich Daten trainieren?
+- Wie kann ich meinen Server in der Produktion bereitstellen?
+- Wie setze ich meinen Bot auf dem Produktionsserver ein?
+- Wie erhalte ich die Metadatendatei?
+- Wie kann RASA in Kundendaten integriert werden?
+- Wie benutzt man Formaction?
+- Verwendung von Formularaktionen
+- Wie benutzt man Formulare?
+- Kann rasa core Standalone laufen?
+- ok schnelle Frage hier lade ich diese API herunter
+- tensorflow 1.10.0 hat die Anforderung numpy <= 1.14.5,> = 1.13.3, aber Sie haben numpy 1.16.0, was nicht kompatibel ist.
+- Trainingsmodell?
+- Welche Richtlinien gibt es?
+- Ich brauche Hilfe bei der Politik
+- Wie verbinde ich Mongodb?
+- Was ist Fallback-Politik in Rasa
+- Was ist ein Webhook?
+- wie Sie geplante Nachrichten an benutzerdefinierte Webhooks senden
+- Aktionen
+- Aktionen auf Rasa
+- Wie füge ich Dropdowns hinzu?
+- Ersetzen Sie Default Nlu durch eine benutzerdefinierte Komponente
+- Rasa-Core-Fehler
+- Ich bekomme einen Fehler
+- Ich habe ein Problem
+- Ich brauche Hilfe bei einem Problem
+- Können Sie uns bei der Dokumentation helfen?
+- Conda hat einen seltsamen Fehler gemacht
+- conda löst einen unerwarteten Fehler aus
+- Irgendeinen Fehler bekommen
+- Es liegt ein Fehler vor
+- Warum erhalte ich bei der Verwendung von rasa Fehler?
+- Es gibt einige Python-Inkompatibilitäten
 
 ## intent:install_rasa
 - Kannst du mir Rasa [Core](product) besorgen?
@@ -3778,7 +3288,6 @@
 - Wie installiere ich Rasa?
 - So installieren Sie Rasa Stack
 - Wie installiere ich Rasa [Core](product)?
-- Wie installiere ich Rasa?
 - Wie installiere ich rasa?
 - Wie installiere ich den Rasa Stack?
 - Ich habe Rasa Stack gewählt
@@ -3798,7 +3307,6 @@
 - Ich möchte Rasa [Core](product) installieren
 - Ich möchte rasa installieren
 - Ich möchte Rasa Stack verwenden
-- Ich möchte Rasa [Core](product) installieren
 - Ich möchte Rasa [NLU](product) installieren
 - Ich möchte eine Installation von Rasa Stack durchführen
 - Ich hole Rasa Stack
@@ -3827,31 +3335,20 @@
 - Probleme bei der Installation
 - Hilf mir bei der Installation
 - Hallo, ich bin nicht in der Lage, Rasa Demo auf meinem Computer zu installieren
-- herunterladen
-- Alter, ich möchte rasa installieren
-- Probleme bei der Installation
-- Hilf mir bei der Installation
-- Hallo, ich bin nicht in der Lage, Rasa Demo auf meinem Computer zu installieren
 - Wie kann ich RASA installieren?
 - Wie kann ich Python installieren
 - Wie kann ich Rasa installieren
-- Wie installiere ich Rasa?
 - Wie installiere ich es?
 - Wie installiere ich Rasa in Windows
-- Wie installiere ich Rasa?
 - Wie führe ich Rasa unter Windows aus?
 - Wie installiere ich
-- Wie installiere ich Rasa?
 - wie installiert man
 - Wie installiert man am Fenster
 - Wie installiere ich rasa [core](product)?
 - Wie installiere ich Rasa in meinem System?
 - Wie installiere ich Rasa unter Windows?
-- Wie installiere ich den Rasa Stack?
-- Wie installiere ich Rasa?
 - Wie installiere ich rasa_nlu?
 - Wie installiere ich Sara auf meinem Server?
-- Wie installiere ich den Rasa Stack?
 - Ich brauche Hilfe beim Einrichten
 - Ich muss Rasa herunterladen
 - Ich möchte installieren
@@ -3876,7 +3373,6 @@
 - nächster Schritt
 - jetzt nächster Schritt
 - Nächster Schritt bitte
-- nächster Schritt
 - ok weiter bitte
 - Ok, nächster Schritt
 - Bitte fahren Sie mit dem nächsten Schritt fort
@@ -3897,7 +3393,6 @@
 - Tolle Interaktion mit dir
 - Schön dich zu sehen
 - Schön, Sie kennenzulernen!
-- Schön dich zu treffen.
 - Freut mich, dich zu sehen.
 - Hallo Sara, wollte dich nur testen
 - Hallo, ich freue mich, Sie kennenzulernen.
@@ -3926,8 +3421,6 @@
 - Schön, dich kennen zu lernen.
 - Schön dich kennengelernt zu haben.
 - Ich freu mich dich kennenzulernen!
-- Schön dich zu treffen!
-- Schön dich zu treffen.
 - Bis demnächst. Es war schön dich kennenzulernen.
 - Danke für dieses Treffen. Es war toll dich zu sehen.
 - Freut mich, dich kennenzulernen
@@ -4188,9 +3681,7 @@
 - Ich will Essen
 - Ich will eine gute Flycam
 - Ich will mehr von dir in meinem Leben!
-- Ich will Pizza
 - Ich will Pizza!!
-- Ich möchte ein Hotel buchen
 - Ich möchte einen Roomba für meinen Enkel kaufen
 - ich will essen
 - Ich möchte neue Freunde finden
@@ -4209,7 +3700,6 @@
 - Geht Sie das etwas an?
 - Ist der Newsletter nicht nur Spam?
 - es ist ein Jammer
-- Ich habe Hunger
 - Lizenz
 - ljljl
 - Mittagessen
@@ -4323,7 +3813,6 @@
 - warum brauchst du das
 - Warum heißt es rasa?
 - Willst du mich töten?
-- Willst du mich töten?
 - Der Winter geht schon los
 - mit mir empfehlen Sie?
 - möchten Sie etwas Wasser
@@ -4344,7 +3833,6 @@
 - Womit habe ich eine gute Pipeline am Anfang?
 - Welche Pipeline soll ich verwenden?
 - Welche Pipeline ist besser für das, was ich will?
-- Mit welcher Pipeline soll ich beginnen?
 - soll ich besser mit der tensorflow pipeline oder spacy beginnen?
 - Spacy oder Tensorflow, was ist besser, um zu beginnen?
 - Ich weiß nicht, welche Pipeline ich verwenden soll
@@ -4359,8 +3847,6 @@
 - Ich fühle mich schlecht
 - Ich bin traurig
 - Ich bin super traurig
-- Ich bin traurig
-- Ich bin super traurig
 - Jetzt bin ich traurig
 - Das ist schlecht
 - Du bist ziemlich schlecht
@@ -4372,8 +3858,6 @@
 - ich bin traurig
 - Ich bin traurig darüber
 - ich bin sehr traurig
-- ich bin traurig
-- Ich bin traurig
 - Rasa ist schlecht
 - traurig
 - so traurig
@@ -4409,12 +3893,9 @@
 - Du bist echt cool
 - hahaha
 - ha ha
-haha
 - hahah
-- hahaha
 - glücklich
 - ich bin glücklich
-- Ich bin fröhlich
 - Ich bin heute glücklich
 - Ich bin sehr zufrieden mit Ihrer Antwort
 - ich liebe dich
@@ -4426,161 +3907,19 @@ haha
 - so eine tolle Demo
 - das ist lustig
 - Das war eine großartige Interaktion
-- das ist lustig
 - Heute war ein schöner Tag
-- Wow
 - Du bist ein Badass Bot!
 - Du bist toll
 - du bist cool
 - Du bist ein cooler Mann
-- Du bist großartig
 - du bist lustig
 - du bist großartig
 - Du bist mein neuer bester Freund
 - Du siehst ziemlich cool aus: D
 - Ich mag dich
-- Ich liebe dich
 - Sie sind wirklich intelligent
-
-## intent:signup_newsletter
-- Ich möchte auch abonnieren
-- Ich möchte mich für den Newsletter anmelden.
-- Ich möchte den Newsletter
-- Ich möchte mich für den Newsletter anmelden
-- Ich möchte mich für den Newsletter anmelden.
-- Ich möchte Ihren Newsletter abonnieren
-- Ich möchte den Rasa-Newsletter abonnieren
-- Ich möchte mich für den Newsletter anmelden.
-- Ich würde gerne einen Newsletter abonnieren!
-- Ich möchte abonnieren
-- Ich werde den Newsletter abonnieren
-- Newsletter
-- Newsletter bitte.
-- Melde mich für den Newsletter an.
-- Anmelden.
-- Abonnieren
-- Abonniere mich bitte für den Newsletter!
-- Abonniere mich für deinen Newsletter
-- Abonniere den Newsletter
-- Abonnieren Sie den Rasa-Newsletter
-- Füge mich als deinen Abonnenten hinzu
-- mich zum Newsletter hinzufügen
-- mich zur Newsletter-Liste hinzufügen
-- mich zur Abonnementliste hinzufügen
-- aber bitte melde mich für den Newsletter an!
-- Kann ich E-Mails von Ihnen bekommen?
-- Kann ich mich auch für den Newsletter anmelden?
-- Kann ich den Newsletter abonnieren?
-- Können Sie Edward@Paul.com zur Newsletter-Liste hinzufügen?
-- Kannst du mich bitte für den Newsletter anmelden?
-- können Sie mich für den Newsletter anmelden?
-- Kannst du mich für den Newsletter anmelden?
-- dann mach den Newsletter
-- Melden Sie sich zuerst für den Newsletter an
-- Abonnement abschließen
-- Newsletter erhalten
-- Erhalten Sie die neuesten Nachrichten von Rasa
-- den Newsletter erhalten
-- Gib mir den Newsletter
-- Hallo Sara, kannst du mich für den Newsletter anmelden?
-- wie wäre es mit dem Newsletter
-- Wie wäre es mit der Newsletter-Anmeldung?
-- Wie abonniere ich?
-- Ich möchte mich auch für den Newsletter anmelden
-- Ich gehe für den Newsletter
-- Ich möchte mich nur für unseren Newsletter anmelden
-- Ich möchte mich nur für Ihren Newsletter anmelden
-- Ich brauche den Newsletter
-- Ich brauche diesen Dope-Newsletter
-- Ich muss auf der Newsletter-Liste stehen
-- Ich möchte den Newsletter erhalten
-- Ich möchte einen Newsletter
-- Ich möchte auf diesem Dope-Newsletter
-- Ich möchte diesen Dope-Newsletter erhalten. Meine E-Mail-Adresse lautet R_Grove@gmail.com
-- Ich möchte abonnieren
-- Ich möchte den Newsletter
-- Ich möchte mich anmelden
-- Ich möchte Teil des Newsletters sein
-- Ich möchte den Newsletter erhalten
-- Ich möchte in die Newsletter-Liste aufgenommen werden
-- Ich möchte die Newsletter-Mails abonnieren
-- Ich möchte die Newsletter-E-Mails erhalten
-- Ich möchte ab sofort den Newsletter erhalten
-- Ich möchte Ihre nl erhalten
-- Ich möchte mich für den Newsletter anmelden
-- Ich möchte mich anmelden
-- Ich möchte mich für den Newsletter anmelden
-- Ich möchte mich für den NL anmelden
-- Ich möchte mich für Ihren Newsletter anmelden
-- Ich möchte abonnieren
-- Ich möchte den Newsletter mit Joseph_Pyles@yahoo.com abonnieren
-- Ich möchte Ihren Newsletter abonnieren
-- Ich möchte den Newsletter abonnieren
-- Ich möchte den Newsletter abonnieren
-- Ich möchte abonnieren
-- Ich möchte Ihren Newsletter abonnieren
-- Ich würde gerne den Newsletter erhalten
-- Ich würde gerne den Rasa-Newsletter erhalten
-- Ich möchte Ihre Zeitung bitte
-- Ich sehne mich nach dem Newsletter
-- Ich möchte den Newsletter erhalten
-- Ich möchte abonnieren
-- Melde dich für diesen Newsletter an
-- Lassen Sie uns ein Abonnement machen
-- Lass uns den Newsletter abonnieren
-- Probiere die Newsletter-Registrierung aus
-- Lassen Sie uns versuchen, den Newsletter zu abonnieren
-- Darf ich ab sofort den Newsletter erhalten?
-- neuer Brief
-- Nachrichten
-- Newsletter
-- Newsletter - meine E-Mail ist Mabel@Brown.com
-- Newsletter ist es
-- Newsletter bitte
-- Newsletter bitte meine Email ist M_Moore@yahoo.com
-- newsletter pls
-- Newsletter Registrierung
-- Newsletter-Anmeldung zuerst
-- Newsletter abonnieren
-- Newsletter, hier ist meine E-Mail: Marcus.Miller@yahoo.com
-- nl
-- Jetzt möchte ich mich für den Newsletter anmelden
-- Oh, eigentlich möchte ich den Newsletter erhalten
-- Bitte sende mir den Newsletter
-- Bitte sende den Newsletter an Robert@yahoo.com
-- Bitte melde mich für den Newsletter an
-- Bitte abonniere mich für den Newsletter gregory_lilley@yahoo.com
-- Bitte abonniere mich für Ihren Newsletter
-- Melde mich für den Newsletter an
-- sende mir den Newsletter
-- Melde mich für den Newsletter an
-- Melde mich für den Newsletter an - meine E-Mail lautet Carolyn_Caskey@yahoo.com
-- melde mich für den rasa newsletter an
-- Anmelden
-- Anmeldung für Newsletter
-- Melde dich für die NL an
-- Newsletter abonnieren
-- Melden Sie sich für den Newsletter an
-- abonnieren
-- Abonniere den Newsletter unter Bruce_harryman@Olsen.com
-- Abonniere den Newsletter unter Denise@gmail.com
-- mich zum Newsletter anmelden
-- Abonniere mich für den Newsletter
-- abonniere meine E-Mail Evan@Palmer.net für den Newsletter
-- Newsletter abonnieren
-- Abonniere unseren Newsletter
-- Abonniere den Newsletter
-- Abonniere deinen Newsletter
-- Abonniere unseren Newsletter
-- Abonniere mich
-- Newsletter abonnieren
-- Abonnieren Sie unseren Newsletter
-- um ein Abonnement zu machen
-- Wie wäre es, sich für den Newsletter anzumelden?
-- yeaaah lass uns für den Newsletter gehen
-- Ja, wie wäre es mit dem Newsletter
-- Ja, ich möchte abonnieren
-- Ja, abonniere mich
+- Du bist nett
+- Bist du nett
 
 ## intent:source_code
 - Kannst du sagen, wo dein Code ist?
@@ -4631,7 +3970,6 @@ haha
 - Ich möchte meinen Bot [dialog flow](current_api) nach rasa konvertieren
 - Ich möchte von [LUIS.ai](current_api) nach Rasa wechseln
 - Ich möchte von [dialog flow](current_api) wechseln
-- Ich möchte von [dialogflow](current_api) zu rasa wechseln
 - Migration bitte
 - Ja, ich möchte von [LUIS](current_api) zu rasa wechseln
 - [DialogFlow](current_api)
@@ -4657,86 +3995,6 @@ haha
 - Migration von [dialogflow](current_api)
 - Umschalten
 - Umschalten von [DialogFlow](current_api)
-
-## intent:technical_question
-- E-Commerce-Bot erstellen
-- Wie kann ich den Gesprächsfluss visualisieren?
-- Wie viele Sprachen unterstützt Spacy?
-- und Ihre REST-API funktioniert nicht
-- Kann ich mich ausruhen?
-- Können wir Regex verwenden, ist Rasa-Code
-- Unterstützt es AI?
-- Wie können Sie frühere Nachrichten abrufen?
-- Mit wie vielen Wörtern können Sie umgehen?
-- Wie benutzt man einen Kolben?
-- Wie man den Dialogfluss visualisiert
-- Ist dieser Test mit Linux kompatibel?
-- Welche Datenbank Rasa verwendet
-- Welche Bedeutung hat die Datei domain.yml?
-- Was ist die Politik
-- Funktioniert dies unter Windows Server?
-- mit Knöpfen arbeiten?
-- Kann ich das auf einem Mac installieren?
-- Die Datenbank rasa wird verwendet
-- Was ist der Unterschied zwischen dir und LUIS?
-- Was ist die neueste Version von Rasa?
-- Kann ich Rasa für E-Mails verwenden?
-- Kannst du Nachrichten basierend auf Ereignissen senden?
-- Wie hat Rasa funktioniert?
-- Wie verwende ich ngrok mit [rasa x] (product)?
-- Ich möchte mehr über Tracker erfahren
-- Was ist der Unterschied zwischen Entities und Slots?
-- Woher bekomme ich den Quellcode von Rasa?
-- Mit welchen anderen Tools können Chatbots erstellt werden?
-- Ich verwende Rasa für E-Mail-Anwendungen
-- Haben irgendwelche Open Source GUI Rasa?
-- irgendwelche anderen Tools, um Chatbots zu erstellen?
-- Kann ich auf einem Mac installieren?
-- Kann rasa Standalone laufen
-- DB-Verarbeitung
-- Haben Sie ein Docker-Image für Rasa?
-- Unterstützt Rasa Prestashop?
-- Hey, kann ich diese Onpremise ausführen?
-- Wie wäre es mit interaktivem Lernen?
-- Wie bekomme ich ein Docker-Image?
-- Wie kann ich Daten trainieren?
-- Wie kann ich meinen Server in der Produktion bereitstellen?
-- Wie setze ich meinen Bot auf dem Produktionsserver ein?
-- Wie erhalte ich die Metadatendatei?
-- Wie kann RASA in Kundendaten integriert werden?
-- Wie benutzt man Formaction?
-- Verwendung von Formularaktionen
-- Wie benutzt man Formulare?
-- interaktives Lernen?
-- Kann rasa core Standalone laufen?
-- ok schnelle Frage hier lade ich diese API herunter
-- tensorflow 1.10.0 hat die Anforderung numpy <= 1.14.5,> = 1.13.3, aber Sie haben numpy 1.16.0, was nicht kompatibel ist.
-- Trainingsmodell?
-- Welche Richtlinien gibt es?
-- Ich brauche Hilfe bei der Politik
-- Wie verbinde ich Mongodb?
-- Was ist Fallback-Politik in Rasa
-- Was ist ein Webhook?
-- wie Sie geplante Nachrichten an benutzerdefinierte Webhooks senden
-- Aktionen
-- Aktionen auf Rasa
-- Wie füge ich Dropdowns hinzu?
-- Ersetzen Sie Default Nlu durch eine benutzerdefinierte Komponente
-- Welche Technologie wird verwendet, um Sie zu erstellen
-- Rasa-Core-Fehler
-- Ich bekomme einen Fehler
-- Ich habe ein Problem
-- Ich brauche Hilfe bei einem Problem
-- Können Sie mir bei diesem Problem helfen?
-- Können Sie uns bei der Dokumentation helfen?
-- Conda hat einen seltsamen Fehler gemacht
-- conda löst einen unerwarteten Fehler aus
-- Irgendeinen Fehler bekommen
-- Ich habe Probleme beim Einrichten
-- technische Seite der Dinge?
-- Es liegt ein Fehler vor
-- Warum erhalte ich bei der Verwendung von rasa Fehler?
-- Es gibt einige Python-Inkompatibilitäten
 
 ## intent:telljoke
 - einen Witz erzählen
@@ -4780,155 +4038,7 @@ haha
 - Erzähl mir einen Geschichtenwitz
 - Erzähl mir etwas Lustiges, wie einen Witz
 - Du kannst einen Scherz sagen
-
-## intent:thank
-- Cool. Vielen Dank
-- Vielen Dank
-- Danke, Sara
-- Ich danke dir sehr
-- Vielen Dank!
-- Danke, Bot
-- Dank dafür
-- erstaunlich, danke
-- Prost
-- Prosit Kumpel
-- cool Danke
-- Cool, danke
-- Cool, danke
-- danke
-- vielen Dank
-- OK danke
-- ok danke sara
-- OK danke!
-- perfekt, danke
-- Danke
-- Trotzdem Danke
-- Vielen Dank für alles
-- Danke für den Forum-Link, ich werde es überprüfen
-- Danke für die Hilfe
-- Danke, das sind großartige Neuigkeiten
-- ja danke
-
-## lookup: location
-data/nlu/lookups/location.txt
-
-## lookup: product
-data/nlu/lookups/products.txt
-
-## synonym: duration
-- wie lang
-- dauert
-
-## synonym:USA
-- US
-- U.S.
-- United States
-
-## synonym:United Kingdom
-- UK
-- U.K.
-
-## synonym:all
-- both
-
-## synonym:core
-- Core
-- CORE
-
-## synonym:custom actions
-- action
-- Action
-- nutzer action
-
-## synonym:date
-- Termin
-- Datum
-
-## synonym:dialogflow
-- DialogFlow
-- DialogFlwo
-- dialog flow
-- google
-
-## synonym:distance
-- Entfernung
-
-## synonym:entity recognition
-- Entitätsextraktion
-- ner
-- NER
-- entitätserkennung
-- erkennung
-
-## synonym:full stack developer
-- full stack develope
-
-## synonym:helvetia
-- Helvetia
-
-## synonym:intent classification
-- intents
-- intent
-- intents
-- intent Erkennung
-
-## synonym:italian
-- italien
-- Italien
-
-## synonym:luis
-- LUIS
-- Luis
-- LUIS.ai
-- luis.ai
-
-## synonym:money
-- Beträge
-- Betrag
-- Geld
-
-## synonym:name
-- Namen
-
-## synonym:nlu
-- NLU
-- Verständnis der natürlichen Sprache
-- Nlu
-- rasa_nlu
-
-## synonym:organisation
-- companies
-- firma
-- Firmen
-- Betrieb
-
-## synonym:rasa
-- Rasa
-
-## synonym:stack
-- fullstack
-- Full Stack
-- Full
-- full stack
-- full staclk
-- Full stack
-- full
-- full framework
-
-## synonym:wit.ai
-- wit
-
-## synonym:x
-- rasa x
-- Rasa X
-- X
-- Rasax
-- rasax
-- RASAX
-- RASA X
-
-## regex:greet
-- hey[^\s]*
-
-## regex:zipcode
-- [0-9]{5}
+- kannst du mir einen witz erzählen
+- erzähle einen witz
+- Erzâhle mir einen witz
+- Kennst du noch einen witz

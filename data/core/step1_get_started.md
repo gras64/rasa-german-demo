@@ -641,3 +641,12 @@
 * source_code
     - utter_source_code
     - utter_anything_else
+
+## New Story
+
+* know-mycroft
+    - utter_know_mycroft
+* handleinsult
+    - action_chitchat
+* handleinsult
+    - action_chitchat

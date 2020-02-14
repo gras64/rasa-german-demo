@@ -68,3 +68,13 @@
     - utter_thumbsup
     - action_deactivate_form
     - form{"name": null}
+
+## New Story
+
+* ask_whatismyname
+    - utter_ask_whoisit
+
+## New Story
+
+* ask_whoisit
+    - utter_greet
