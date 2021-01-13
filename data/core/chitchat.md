@@ -940,3 +940,65 @@
 * deny
     - utter_thumbsup
     - utter_anything_else
+
+## Story from conversation with mycroft_user on February 22nd 2020
+
+* greet
+    - utter_greet_noname
+* ask_howdoing
+    - utter_ask_howdoing
+* ask_whoisit
+    - utter_ask_whoisit
+
+## Story from conversation with mycroft_user on February 22nd 2020
+
+* greet
+    - utter_greet_noname
+* ask_howdoing
+    - utter_ask_howdoing
+* know-mycroft
+    - utter_know_mycroft
+* mycroft_german
+    - utter_mycroft_german
+
+## Story from conversation with gras64 on February 27th 2020
+
+* greet
+    - utter_greet_noname
+
+## New Story
+
+* goodmorning
+    - utter_good_morning
+
+## New Story
+
+* ask_time
+    - utter_lunchbrake
+
+## New Story
+
+* ask_whatspossible
+    - utter_what_help
+
+## New Story
+
+* signup_newsletter
+    - utter_mycroft_german
+
+## New Story
+
+* help
+    - utter_what_help
+
+## New Story
+
+* know-mycroft
+    - utter_know_mycroft
+
+## New Story
+
+* ask_whoisit
+    - utter_greet
+* are_you_there
+    - utter_are_you_there

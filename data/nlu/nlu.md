@@ -1382,6 +1382,7 @@
 - Wie ist es bei dir?
 - Wie ist das Wetter von morgen?
 - wie ist das wetter in berlin
+- wie ist das wetter heute
 
 ## intent:ask_whatismyname
 - was ist mein Name?
@@ -1695,55 +1696,57 @@
 - Was sind die Ereignisse für [New York](location)?
 - Wann finden die Events für [paris](location) statt?
 - was sind die veranstaltungen für [berlin] (location)?
-- Assuming that there is an upcoming event, when is that event?
-- At what time is the next event scheduled?
-- At which date the next community event will take place?
-- By chance do you know the date of next community event?
-- Do you know the exact date for the next community event?
-- Do you know when is the next event in [Montreal](location)?
-- If there is an upcoming event when is it?
-- Is next community event held in 2019?
-- Is there a Rasa event in [San Francisco](location)
-- Is there an event in [Montreal](location)?
-- Is there any special in next community event?
-- On what day is the next event scheduled?
-- Tell me when the next community event is happening;
-- What and when is the next event?
-- What even is coming up next and when is it please?
-- What is the date of the next community event?
-- What's the next community event
-- What's the next rasa event
-- When does the upcoming event occur?
-- When is it planned the next event in [Montreal](location)?
-- When is it scheduled the next community event?
-- When is it that the next event occurs?
-- When is the next community event?
-- When is the next event in [Berlin](location)
-- When is the next event scheduled?
-- When is the next user group meetup
-- When will the next event occur in the community?
-- Where is next community event held?
-- do you have an event in [Berlin](location)
-- is there an event in [Montreal](location)
-- what community events are there?
-- what date is the next community event?
-- when is our next group event going to take place?
-- when is the event within the community gonna happen?
-- when is the next community event gonna be?
-- when is the next event?
-- when is the next group event going to be?
-- when will our next group event be?
-- when will the community event take place?
-- when will the next community event be?
-- will there be an event in my city?
-- When is the next event in [california](location)?
-- What is the next event in [Paris](location)?
-- When is the next event in [detroit](location)?
-- What is the next event in [san francisco](location)?
-- When is the next event for [Detroit](location)?
-- What is the next event for [Seattle](location)?
-- When is the next event for [India](location)?
-- What is the next event for [paris](location)?
+- Angenommen, es gibt ein bevorstehendes Ereignis, wann ist dieses Ereignis?
+- Zu welcher Uhrzeit ist die nächste Veranstaltung geplant?
+- An welchem Datum findet die nächste Community-Veranstaltung statt?
+- Kennen Sie zufällig das Datum der nächsten Community-Veranstaltung?
+- Kennen Sie den genauen Termin für die nächste Community-Veranstaltung?
+- Wissen Sie, wann die nächste Veranstaltung in [Montreal](Ort) ist?
+- Wenn es eine nächste Veranstaltung gibt, wann ist sie?
+- Findet die nächste Community-Veranstaltung im Jahr 2019 statt?
+- Gibt es eine Rasa-Veranstaltung in [San Francisco](Ort)
+- Gibt es eine Veranstaltung in [Montreal](Ort)?
+- Gibt es bei der nächsten Community-Veranstaltung etwas Besonderes?
+- An welchem Tag ist die nächste Veranstaltung geplant?
+- Sage mir, wann das nächste Community-Event stattfindet;
+- Was und wann ist die nächste Veranstaltung?
+- Was und wann findet die nächste Veranstaltung statt, bitte?
+- Wann findet die nächste Community-Veranstaltung statt?
+- Was ist das nächste Community-Event?
+- Was ist die nächste rasa-Veranstaltung
+- Wann findet die nächste Veranstaltung statt?
+- Wann ist es geplant die nächste Veranstaltung in [Montreal](Ort)?
+- Wann ist es geplant das nächste Community-Event?
+- Wann findet die nächste Veranstaltung statt?
+- Wann findet die nächste Community-Veranstaltung statt?
+- Wann ist die nächste Veranstaltung in [Berlin](Ort)
+- Wann ist das nächste Event geplant?
+- Wann ist das nächste Usergroup-Treffen
+- Wann findet die nächste Veranstaltung in der Community statt?
+- Wo findet das nächste Community-Event statt?
+- gibt es eine Veranstaltung in [Berlin](Ort)
+- gibt es eine Veranstaltung in [Montreal](Ort)
+- welche Community-Veranstaltungen gibt es?
+- wann findet die nächste Community-Veranstaltung statt?
+- wann findet das nächste Gruppen-Event statt?
+- wann findet die nächste Community-Veranstaltung statt?
+- wann findet die nächste Community-Veranstaltung statt?
+- wann ist die nächste Veranstaltung?
+- wann wird das nächste Gruppen-Event sein?
+- wann findet das nächste Gruppenevent statt?
+- wann findet das Community-Event statt?
+- wann findet das nächste Community-Event statt?
+- wird es eine Veranstaltung in meiner Stadt geben?
+- Wann ist die nächste Veranstaltung in [Kalifornien](Ort)?
+- Wann ist die nächste Veranstaltung in [Paris](Ort)?
+- Wann ist die nächste Veranstaltung in [detroit](Ort)?
+- Was ist die nächste Veranstaltung in [san francisco](Ort)?
+- Wann ist die nächste Veranstaltung für [Detroit](Ort)?
+- Wann ist die nächste Veranstaltung für [Seattle](Ort)?
+- Wann ist die nächste Veranstaltung für [Indien](Ort)?
+- Was ist die nächste Veranstaltung für [paris](Ort)?
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 
 ## intent:ask_whoisit
 - Wer ist das
@@ -1964,6 +1967,7 @@
 - nein danke
 - keines von denen
 - Nein danke
+- Nichts bestimmtes.
 
 ## intent:enter_data
 - 100k
@@ -2625,6 +2629,10 @@
 - please [conda](package_manager)
 - [pip](package_manager) please
 - wer ist donald trump
+- ich heise Andreas
+- ich bin [Alex](name)
+- nenne mich [Gandalf](name)
+- ich heiße [Andreas](name)
 
 ## intent:greet
 - Hallo
@@ -2687,6 +2695,7 @@
 - hey
 - Hallo Sara
 - Guten Tag
+- hallo sarah
 
 ## intent:human_handoff
 - Ich möchte mit einem Menschen sprechen
@@ -3107,6 +3116,8 @@
 - bist du dumm
 - dumm
 - doof
+- du bist doof ich weiß doch du kennst die antwort
+- Bist du doof
 
 ## intent:how_to_get_started
 - Wie fange ich mit [Rasa] an? (product:rasa)
@@ -3920,6 +3931,7 @@
 - Sie sind wirklich intelligent
 - Du bist nett
 - Bist du nett
+- , ist aber ein schöner Name.
 
 ## intent:source_code
 - Kannst du sagen, wo dein Code ist?
@@ -4042,3 +4054,48 @@
 - erzähle einen witz
 - Erzâhle mir einen witz
 - Kennst du noch einen witz
+- erzähle mir einen witz
+- kennst du noch einen witz
+- kennst du noch einen
+- erzähle mir eine witz
+
+## intent:help_backend
+- Okay  , let's switch to english.\nWhat do you know about MyCroft backend?
+- Dann nehme ich dein Angebot gerne an.\nWo finde ich Informationen zum Backend von MyCroft?
+- kannst du mir mit dem mycroft [Kern](product) helfen
+- kennst du dem mycroft kern
+- Wo finde ich Informationen zum Backend von MyCroft?
+
+## synonym:all
+- Beide
+- beiden
+- beide
+
+## synonym:date
+- dates
+
+## synonym:distance
+- distances
+
+## synonym:duration
+- how long
+- durations
+
+## synonym:money
+- amounts
+
+## synonym:name
+- names
+
+## synonym:nlu
+- NLU
+
+## synonym:organisation
+- companies
+
+## synonym:place
+- places
+
+## synonym:x
+- Rasa X
+- rasa x

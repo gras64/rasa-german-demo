@@ -673,6 +673,7 @@
 - Bitte hilf mir
 - kannst du uns helfen
 - tu mir einen Gefallen
+- help
 
 ## intent:hobby
 - Was machst du zum Spaß
@@ -1285,12 +1286,22 @@
 - Hallo bist du noch da
 - sarah bist du da
 - hallo gist du noch da
+- hallo bist du noch da
+- Bist Du noch da?
+- bist du nich da
 
 ## intent:mycroft_german
 - wie verwende ich mycroft in [deutsch](language)
+- wie nutze ich mycroft auf deutsch
+- ich möchte mycroft auf deutsch nutzen
+- ich würde gerne mycroft in deutsch nutzen
+- wie nutze ich [mycroft](Produkt) in [deutsch](language)
+- wie nutze ich mycroft auf Deutsch
 
 ## intent:know-mycroft
 - kennst du mycroft
+- was weist du über mycroft
+- Hey kennst du mycroft
 
 ## intent:reboot
 - neustart
@@ -1300,9 +1311,26 @@
 - ich muss dich wohl neustarten
 - restart
 - Restart
+- kannst du neustarten
+- reboot
 
-## lookup:location.txt
-  data/nlu/lookups/location.txt
+## intent:enter_data
+- ich heiße [andreas](name)
 
-## lookup:products.txt
-  data/nlu/lookups/products.txt
+## intent:feedback
+- du musst besser werden
+
+## intent:know_skills
+- was weißt du über [mycroft](Produkt) [skills](Modul)
+- was weißt du über Mycroft skills
+
+## intent:konw_pairing
+- wie kann ich [mycroft](Produkt) [verbinden](Modul)
+- kannst du mir beim pairen helfen
+
+## intent:mycroft-translate
+- wie kann ich mycroft übersetzen
+
+## intent:mycroft-intent
+- was weist du über mycroft intent
+- kennst du dich mit mycroft intents aus

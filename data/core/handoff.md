@@ -99,3 +99,35 @@
     - utter_thumbsup
     - action_deactivate_form
     - form{"name": null}
+
+## New Story
+
+* enter_data{"name":"Alex"}
+    - slot{"name":"Alex"}
+    - action_greet_user
+    - slot{"shown_privacy":true}
+
+## Story from conversation with thorsten on March 29th 2020
+
+* ask_howdoing
+    - utter_ask_howdoing
+* ask_wherefrom
+    - action_default_ask_affirmation
+* help_backend
+    - utter_help_mycroft_backend
+
+## New Story
+
+* know-mycroft
+    - utter_know_mycroft
+* know-mycroft{"product":"Kern"}
+    - slot{"product":"Kern"}
+
+## Story from conversation with thorsten on March 29th 2020
+
+* ask_howdoing
+    - utter_ask_howdoing
+* ask_wherefrom
+    - action_default_ask_affirmation
+* help_backend
+    - utter_help_mycroft_backend

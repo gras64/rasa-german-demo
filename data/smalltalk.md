@@ -154,6 +154,7 @@
 - idiot
 - deep
 - ahrschkoch
+- Ich versuche dir inteligenz zu vermitteln
 
 ## intent:be_back
 - I'll be back
@@ -570,6 +571,8 @@
 - Hallo guten Abend
 - abends
 - Guten Abend dort
+- Guten Abend.
+- guten abend
 
 ## intent:goodmorning
 - guten Morgen
@@ -582,6 +585,7 @@
 - Guten Morgen
 - und dir einen guten Morgen
 - auch einen guten Morgen
+- guten morgen
 
 ## intent:goodnight
 - Träum süß
@@ -673,6 +677,7 @@
 - Bitte hilf mir
 - kannst du uns helfen
 - tu mir einen Gefallen
+- hilfe
 
 ## intent:hobby
 - Was machst du zum Spaß
@@ -1107,6 +1112,7 @@
 - so nett von dir
 - Danke schön
 - Danke
+- Ähm Danke.
 
 ## intent:unhelpful
 - Du hilfst mir nicht
@@ -1151,6 +1157,9 @@
 - Ich mache nur Spaß
 - Ein Scherz
 - Ich spiele nur mit dir
+- Kennst du auch noch andere witze
+- Warum ist die banane krumm
+- Was ist gelb und fährt
 
 ## intent:user_lonely
 - Ich bin einsam
@@ -1225,6 +1234,7 @@
 - willkommen hier
 - bitteschön
 - alles was du willst
+- mahlzeit
 
 ## intent:well_done
 - Gut gemacht
@@ -1273,3 +1283,32 @@
 - es ist falsch
 - nicht richtig
 - du liegst falsch
+
+## intent:smaltalk
+- welche Temperatur wäre dir denn lieber?
+- kannst du auch smaltalk
+
+## intent:mycroft-tts
+- , wie kann ich bei Mycroft eine schöne TTS Stimme in deutsch einstellen?
+- kannst du mir mit mycroft text to speak tts helfen
+
+## intent:mycroft-forum
+- hat mycroft auch ein Forum
+- gibt es bei  mycroft auch ein forum
+
+## intent:mycroft-wakeword
+- wie kann ich ein eigenes wakeword  einrichten
+- unterstützt mycroft auch andere wakewords
+
+## intent:mycroft-stt
+- welche stt verwendet mycroft
+- kann ich auch mozilla stt einsetzen
+
+## lookup:location.txt
+  data/nlu/lookups/location.txt
+
+## lookup:products.txt
+  data/nlu/lookups/products.txt
+
+## lookup:name.txt
+  data/name.txt

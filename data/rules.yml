@@ -1,0 +1,6 @@
+version: "2.0"
+rules:
+- rule: Rule to handle messages with low NLU confidence (automated conversion from 'TwoStageFallbackPolicy')
+  steps:
+  - intent: nlu_fallback
+  - action: action_two_stage_fallback

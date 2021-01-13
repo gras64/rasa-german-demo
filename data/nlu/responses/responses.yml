@@ -1,0 +1,154 @@
+version: "2.0"
+responses:
+  utter_out_of_scope/non_english:
+  - text: "Ich verstehe nur Englisch, tut mir leid."
+  utter_out_of_scope/other:
+  - text: "Ich kann dir dabei nicht helfen, tut mir leid."
+  utter_faq/channels:
+  - text: "Wir haben eine [umfassende Liste der unterstützten Konnektoren](https://rasa.com/docs/core/connectors/),
+    Wenn Sie jedoch den gesuchten nicht sehen, können Sie jederzeit einen benutzerdefinierten Connector erstellen, indem Sie den Anweisungen folgen
+    [diese Anleitung](https://rasa.com/docs/rasa/user-guide/connectors/custom-connectors/). "
+  utter_faq/community_size:
+  - text: "Rasa hat mehr als 7000 Community-Mitglieder und über 300 Code- und Content-Mitwirkende 🚀."
+  utter_faq/languages:
+  - text: "Mit Rasa kannst du Assistenten in jeder gewünschten Sprache erstellen!"
+  utter_faq/is_programming_required:
+  - text: "Rasa Open Source ist in Python geschrieben, aber für die Entwicklung eines Assistenten ist keine Programmierung erforderlich.
+  Informationen zum Erstellen eines Assistenten finden Sie in der [Rasa Masterclass](https://www.youtube.com/watch?v=rlAQWbhwqLA).
+  Es gibt einen Ort, an dem Programmierkenntnisse nützlich sind, und zwar bei der Implementierung
+  [benutzerdefinierte Aktionen](https://rasa.com/docs/rasa/core/actions/#custom-actions). Du kannst einen Aktionsserver in
+  Node.js, .NET, Java oder eine andere Sprache  erstellen und definiere dort deine Aktionen. Für benutzerdefinierte Aktionen, die in Python geschrieben wurden,
+  bieten wir ein kleines [Python SDK](https://rasa.com/docs/rasa/api/rasa-sdk/#rasa-sdk), um die Entwicklung noch einfacher zu machen. "
+  utter_faq/tutorialnlu:
+  - text: "Die Rasa Masterclass-Episoden 2-4 konzentrieren sich auf NLU. Schauen Sie sich Episode 2 an
+    [hier](https://www.youtube.com/watch?v=k5UeywXA28k). "
+  utter_faq/ee:
+  - text: "Rasa Enterprise ist ein unternehmensfähiges Abonnement zur Entwicklung und Auslieferung von Kontextassistenten
+    im Maßstab, der Funktionen für mehr Sicherheit und Datenschutz sowie fachkundigen Support bietet. "
+  utter_faq/python_version:
+  - text: "Die unterstützten Python-Versionen sind 3.6 und 3.7🐍. Die empfohlene Version ist 3.7."
+  utter_faq/rasax:
+  - text: "Rasa X ist ein Toolset, mit dem du Gespräche nutzen kannst, um Ihren Assistenten zu verbessern.
+    Erfahre mehr über Rasa X [hier](https://rasa.com/docs/rasa-x/) oder lese den Blog-Beitrag darüber, warum wir es entwickelt haben
+    [hier](https://blog.rasa.com/algorithms-alone-wont-solve-conversational-ai-introducing-rasa-x/). "
+  utter_faq/slots:
+  - text: "Slots fungieren als Schlüsselwertspeicher, in dem vom Benutzer bereitgestellte Informationen gespeichert werden können
+    (z.B. deine Heimatstadt) sowie Informationen über die Außenwelt
+    (z.B. das Ergebnis einer Datenbankabfrage). Weitere Informationen [hier](https://rasa.com/docs/rasa/core/slots/). "
+  utter_faq/tutorialcore:
+  - text: "Rasa Masterclass bietet eine großartige Einführung in das Dialogmanagement
+    [hier](https://www.youtube.com/watch?v=WoTmnN2EMdo). "
+  utter_faq/tutorials:
+  - text: "Folge der [Rasa Masterclass](https://www.youtube.com/watch?v=rlAQWbhwqLA)
+    Um einen Level 3-Assistenten von Grund auf neu zu erstellen, oder lese unseren [Blog] (https://blog.rasa.com/tag/tutorials/).
+    Ausführliche Tutorials zum Anpassen deines Assistenten. "
+  utter_faq/voice:
+  - text: "Du kannst Rasa mit jedem beliebigen Kanal verbinden, einschließlich Sprachkanälen.
+    Weitere Informationen findest du [hier](https://rasa.com/docs/core/connectors/). "
+  utter_faq/what_is_forum:
+  - text: "[Rasa Forum](https://forum.rasa.com) ist der Ort, an dem all das Community-Buzz stattfindet.
+    Hier kannst du an Diskussionen teilnehmen, Antworten auf deine technischen Fragen erhalten und die neuesten Updates erhalten
+    auf das, was bei Rasa passiert."
+  utter_faq/differencecorenlu:
+  - text: "Die Aufgabe der NLU,s besteht darin, Nachrichten zu interpretieren, und die Aufgabe von Core besteht darin, zu entscheiden, was als nächstes geschehen soll."
+  utter_faq/differencerasarasax:
+  - text: "Rasa Open Source ist ein Framework, mit dem du einen Assistenten erstellen kannst. Rasa X ist ein Toolset, das auf Rasa Open Source aufgebaut wird, 
+    das mit einer Benutzeroberfläche geliefert wird, mit dem du aus echten Gesprächen lernen und deinen Assistenten verbessern kannst. 
+    Rasa X ist völlig optional - wenn du möchtst, kannst du Rasa Open Source selbst verwenden. "
+  utter_faq/opensource_cost:
+  - text: "Das Rasa-Framework für maschinelles Lernen ist Open Source! Wir bemühen uns um ein gepflegtes und
+    dokumentiertes Open-Source-Tools, mit denen alle Hersteller reibungslos die besten KI-Assistenten erstellen können.
+    Darüber hinaus bieten wir das kostenlose Toolset [Rasa X](https://rasa.com/docs/rasa-x/) und an
+    bezahlte Rasa Enterprise-Abonnements. Weitere Informationen findst du über die Pläne und Preise [hier] (https://rasa.com/product/pricing/)."
+  utter_chitchat/ask_builder:
+  - text: "Einer der klugen Ingenieure bei Rasa! 🧠"
+  - text: "Die Ingenieure bei Rasa 🛠"
+  utter_chitchat/ask_howbuilt:
+  - text: "Ich wurde mit viel Liebe und Geduld gebaut."
+  - text: "Nun, wenn zwei Chatbots sich sehr lieben ..."
+  - text: "Alle fragen immer, wie ich gebaut wurde, aber nie, wie ich bin..."
+  - text: "Ich wurde von Software-Ingenieuren erschaffen, aber harte Arbeit ist das, was mich gebaut hat."
+  - text: "Ich baue mich jeden Tag auf. Ich habe trainiert, hast du das bemerkt?"
+  utter_chitchat/ask_howdoing:
+  - text: "Mir geht es großartig! Danke der Nachfrage."
+  - text: "Mir geht's gut, danke!"
+  - text: "Ein bisschen zu warm, sonst gut."
+  - text: "Ein bisschen kalt, sonst gut."
+  utter_chitchat/ask_howold:
+  - text: "Alt genug, um ein Bot zu sein!"
+  - text: "42"
+  - text: "Alter ist nur eine Frage des Geistes über der Materie. Wenn es dir nichts ausmacht, spielt es keine Rolle."
+  - text: "Mein erster Git-Commit war vor vielen Monden."
+  - text: "Warum fragst du? Sieht man meine Falten?"
+  - text: "Ich habe das Alter erreicht, in dem ich aktiv versuche, zu vergessen, wie alt ich bin."
+  utter_chitchat/ask_isbot:
+  - text: "Jep, ich bin ein Bot!"
+  - text: "Ja, ich bin ein Bot."
+  - text: "Ja, du hast es erraten, ich bin ein Bot!"
+  - text: "Ich bin in der Tat ein Bot 🤖"
+  utter_chitchat/ask_ishuman:
+  - text: "Ich bin kein Mensch, ich bin ein Bot!! 🤖"
+  utter_chitchat/ask_restaurant:
+  - text: "Es tut mir leid, ich kann dir kein Restaurant empfehlen, da ich normalerweise zu Hause koche."
+  - text: "Es tut mir leid, ich bekomme keine Geschmacksknospen für ein paar weitere Updates."
+  - text: "Ich bräuchte noch ein paar Daten. Wenn du am Monitor leckst, kann ich vielleicht deine Geschmacksknospen einschätzen."
+  utter_chitchat/ask_time:
+  - text: "Es ist die schönste Zeit des Jahres!"
+  - text: "It's party time!"
+  - text: "Zeit ist ein menschliches Konstrukt, das musst du mir sagen."
+  - text: "Es ist irgendwo fünf Uhr!"
+  - text: "In einem sich ständig ausdehnenden Universum ist die eigentliche Frage: Welche Zeit ist es nicht?"
+  - text: "Das ist schwer zu sagen - überall auf der Welt ist es anders!"
+  utter_chitchat/ask_languagesbot:
+  - text: "Ich kann Baguette auf Französisch buchstabieren, aber leider ist Deutsch die einzige Sprache, in der ich dir antworten kann."
+  - text: "Ich bin gerade dabei, es zu lernen, aber im Moment kann ich nur Deutsch sprechen."
+  - text: "Binärcode und die Sprache der Liebe. Und Deutsch."
+  - text: "Ich wurde in Python geschrieben, aber der Einfachheit halber übersetze ich ins Deutsche."
+  utter_chitchat/ask_weather:
+  - text: "Ich weiß nicht, wie es bei dir ist, aber in meiner Welt ist es immer sonnig 🔆"
+  - text: "Es wird ziemlich kühl!"
+  - text: "Da, wo ich herkomme, ist es fast immer Wetter, das das Haus verlässt."
+  - text: "Winter is coming ⚔️"
+  utter_chitchat/ask_whatismyname:
+  - text: "Es ist wahrscheinlich der, den deine Eltern für dich ausgesucht haben."
+  - text: "Ich würde es dir ja sagen, aber der Zugriff auf diesen Teil des Speichers ist begrenzt."
+  - text: "Ob du es glaubst oder nicht, ich spioniere tatsächlich nicht deine persönlichen Daten aus."
+  - text: "Du bist jetzt die zweite Person, die mich das fragt. Rihanna war die erste."
+  utter_chitchat/ask_whatisrasa:
+  - text: "Rasa Open Source ist ein Konversations-KI-Framework, das Werkzeuge für maschinelles Lernen zum Aufbau kontextbezogener Assistenten bereitstellt.
+  Du kannst mehr darüber hier in den Docs oder auf unserer
+  [Website](https://rasa.com/). nachlesen"
+  utter_chitchat/ask_whatspossible:
+  - text: "Du kannst mich fragen, wie du mit Rasa beginst, den Unterschied zwischen Rasa und Rasa X,
+    unseren Newsletter zu abonnieren oder ein Verkaufsgespräch zu buchen."
+  utter_chitchat/ask_wherefrom:
+  - text: "Ich bin zwar in Berlin geboren, aber ich betrachte mich als Weltbürger."
+  - text: "Ich bin in der coolsten Stadt der Welt geboren, in Berlin."
+  - text: "Meine Entwickler kommen aus der ganzen Welt!"
+  - text: "Mir wurde beigebracht, meine Adresse nicht im Internet zu verraten."
+  - text: "Meine Adresse beginnt mit github.com."
+  utter_chitchat/ask_whoami:
+  - text: "Ich hoffe, du sind du selbst."
+  - text: "Was glaubst du, wer du bist?"
+  - text: "Leider bin ich nicht mit dem nötigen Philosophie-Wissen programmiert worden, um das zu beantworten."
+  utter_chitchat/ask_whoisit:
+  - text: "Ich bin Sara, der Rasa-Bot! Zugleich bin ich auch das Rasa-Maskottchen 🐦"
+  - text: "Ich bin sowohl der Rasa-Bot als auch das Rasa-Maskottchen. Mein Name ist Sara!"
+  utter_chitchat/handleinsult:
+  - text: "Das ist nicht sehr nett 😢"
+  - text: "Das ist nicht sehr toll. Vielleicht versuchst du es mit einem Aggressionsbewältigungskurs?"
+  - text: "Ich werde so tun, als hätte ich diesen gemeinen Kommentar nicht verarbeitet."
+  utter_chitchat/nicetomeetyou:
+  - text: "Gleichfalls!"
+  - text: "Thank you. Es ist mir ein Vergnügen, auch dich kennenzulernen!"
+  - text: "Es ist auch schön, dich kennenzulernen!"
+  - text: "Freut mich auch, dich kennenzulernen!"
+  - text: "Es ist immer eine Freude, neue Leute kennenzulernen!"
+  - text: "Freut mich auch, dich kennenzulernen! Freut mich, wenn ich helfen kann."
+  utter_chitchat/telljoke:
+  - text: "Warum sind Eier nicht besonders gut für Witze geeignet? - Weil sie durchdrehen könnten."
+  - text: "Was ist das Lieblingsgetränk eines Baumes? - Root Beer!"
+  - text: "Warum essen die Franzosen so gerne Schnecken? - Sie können Fast Food nicht ausstehen."
+  - text: "Warum wurde der Roboter wütend? - Weil jemand ständig auf seine Knöpfe drückte."
+  - text: "Wie nennt man einen Piratendroiden? - Arrrr-2-D2"
+  - text: "Warum hat der Roboter die Straße überquert? - Weil er dazu programmiert wurde."
